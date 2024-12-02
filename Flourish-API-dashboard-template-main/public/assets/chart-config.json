@@ -1,0 +1,31 @@
+{
+    "16647921": {
+        "title": "Where in China is coal capacity under development?",
+        "subtitle": "Coal-fired power under development by status and Chinese province, megawatts (MW)",
+        "x_axis": "Province",
+        "values": [
+            "Construction", "Permitted", "Pre-permit", "Announced"
+        ],
+        "dataset": "china_provinces_data",
+        "initial_state": "All",
+        "summary": "status_text",
+        "filterable": true,
+        "filter_by": [
+            "Construction", "Permitted", "Pre-permit", "Announced"
+        ]
+    },
+    "16644559": {
+        "title": "Which regions have coal capacity under development?",
+        "subtitle": "Coal-fired power under development by status and by region, in megawatts (MW)",
+        "x_axis": "Region",
+        "values": [
+            "Construction", "Permitted", "Pre-permit", "Announced"
+        ],
+        "dataset": "region_data",
+        "initial_state": "All",
+        "filterable": true,
+        "filter_by": [
+            "Construction", "Permitted", "Pre-permit", "Announced"
+        ]
+    }
+}

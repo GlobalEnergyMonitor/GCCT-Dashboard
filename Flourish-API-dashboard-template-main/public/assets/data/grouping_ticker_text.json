@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Grouping": "EU",
+    "summary_1": "<span>{{89681}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{100}} MW</span><br>coal power under development",
+    "summary_2_color": "#5f9e79",
+    "summary_3": "<span>{{30522}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79"
+  },
+  {
+    "Grouping": "G20",
+    "summary_1": "<span>{{533487}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{19817}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{139949}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79"
+  }
+]

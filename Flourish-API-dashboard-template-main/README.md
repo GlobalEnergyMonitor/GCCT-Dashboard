@@ -1,4 +1,4 @@
-# GCCT dashboard Notes
+# GCCT Dashboard Notes
 heroku app created by Taylor December 10 2024 https://gcct-dashboard-b3c5e41c60ba.herokuapp.com/ 
 connected to this repo and setup for automatic deploys from the main branch
 

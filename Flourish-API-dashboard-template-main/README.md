@@ -1,3 +1,8 @@
+# GCCT dashboard Notes
+heroku app created by Taylor December 10 2024 https://gcct-dashboard-b3c5e41c60ba.herokuapp.com/ 
+connected to this repo and setup for automatic deploys from the main branch
+
+
 # Flourish API dashboard template
 This is a template to create dashboards using Flourish graphics - such as [this one](https://flourish-dashboard-a98edc888829.herokuapp.com/)
 

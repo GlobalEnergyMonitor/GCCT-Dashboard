@@ -1,0 +1,33 @@
+[
+ 
+  {
+    "Country": "China",
+    "summary_1": "<span>{{1,864}} mtpa</span><br>cement capacity",
+    "summary_2": "<span>{{1,382}} mtpa</span><br>clinker capacity",
+    "summary_3": "<span>{{64}} mtpa</span><br>unspecified capacity"
+  },
+  {
+    "Country": "United States",
+    "summary_1": "<span>{{102}} mtpa</span><br>cement capacity",
+    "summary_2": "<span>{{28}} mtpa</span><br>clinker capacity",
+    "summary_3": "<span>{{1}} mtpa</span><br>unspecified capacity"
+  },
+   {
+    "Country": "Vietnam",
+    "summary_1": "<span>{{171}} mtpa</span><br>cement capacity",
+    "summary_2": "<span>{{112}} mtpa</span><br>clinker capacity",
+    "summary_3": "<span>{{0}} mtpa</span><br>unspecified capacity"
+  },
+   {
+    "Country": "Brazil",
+    "summary_1": "<span>{{111}} mtpa</span><br>cement capacity",
+    "summary_2": "<span>{{2}} mtpa</span><br>clinker capacity",
+    "summary_3": "<span>{{0}} mtpa</span><br>unspecified capacity"
+  },
+   {
+    "Country": "India",
+    "summary_1": "<span>{{746}} mtpa</span><br>cement capacity",
+    "summary_2": "<span>{{380}} mtpa</span><br>clinker capacity",
+    "summary_3": "<span>{{0}} mtpa</span><br>unspecified capacity"
+  }
+]

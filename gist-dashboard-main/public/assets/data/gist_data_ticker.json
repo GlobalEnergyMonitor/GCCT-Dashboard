@@ -1,0 +1,17 @@
+[
+ 
+  {
+    "Country": "China",
+    "summary_1": "<span>{{888}} mtpa</span><br>ironmaking capacity<br>in operation",
+    "summary_2": "<span>{{131}} mtpa</span><br>ironmaking capacity<br>in development",
+    "summary_3": "<span>{{1,075}} mtpa</span><br>steelmaking capacity<br>in operation",
+    "summary_4": "<span>{{150}} mtpa</span><br>steelmaking capacity<br>in development"
+  },
+  {
+    "Country": "United States",
+    "summary_1": "<span>{{32}} mtpa</span><br>ironmaking capacity<br>in operation",
+    "summary_2": "<span>{{6}} mtpa</span><br>ironmaking capacity<br>in development",
+    "summary_3": "<span>{{109}} mtpa</span><br>steelmaking capacity<br>in operation",
+    "summary_4": "<span>{{11}} mtpa</span><br>steelmaking capacity<br>in development"
+  }
+]

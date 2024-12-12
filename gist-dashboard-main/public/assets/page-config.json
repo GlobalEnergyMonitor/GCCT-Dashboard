@@ -1,0 +1,50 @@
+{
+    "flourish_ids": [
+        "19757464",
+        "19757457",
+        "19757609",
+        "19757876"
+    ],
+    "input_type": "dropdown",
+    "input_filter": "Country",
+    "input_default": "China",
+    "overall_summary": true,
+    "ticker_text_font-size": "1.75rem",
+    "ticker_data": "gist_data_ticker",
+    "tickers": [{
+        "id": "summary_1",
+        "decimal_places": 2,
+        "style": {
+            "color": "#525252",
+            "font-weight": "bold",
+            "font-size": "3rem"
+        }
+    },
+    {
+        "id": "summary_2",
+        "decimal_places": 2,
+        "style": {
+            "color": "#525252",
+            "font-weight": "bold",
+            "font-size": "3rem"
+        }
+    },
+    {
+        "id": "summary_3",
+        "decimal_places": 2,
+        "style": {
+            "color": "#525252",
+            "font-weight": "bold",
+            "font-size": "3rem"
+        }
+    },
+    {
+        "id": "summary_4",
+        "decimal_places": 2,
+        "style": {
+            "color": "#525252",
+            "font-weight": "bold",
+            "font-size": "3rem"
+        }
+    }]
+}

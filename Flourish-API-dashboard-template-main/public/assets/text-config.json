@@ -1,5 +1,5 @@
 {
-  "title": "Explore data in the Global Cement and Concrete Tracker",f
+  "title": "Explore data in the Global Cement and Concrete Tracker",
   "footer": "All data comes from GEM's [Global Cement and Concrete Tracker](https://globalenergymonitor.org/projects/global-cement-and-concrete-tracker/), last updated in XXXX.",
   "dropdown_label": "Select a country, area or grouping: ",
   "no_data": "No data available for {{selected}}",

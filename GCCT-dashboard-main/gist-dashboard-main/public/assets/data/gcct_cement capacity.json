@@ -1,0 +1,162 @@
+[
+ {
+   "Status": "Announced",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "China"
+ },
+  {
+   "Status": "Construction",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "China"
+ },
+ {
+   "Status": "Operating",
+   "Dry": 1338.8,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "China"
+ },
+  {
+   "Status": "Operating pre-retirement",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "China"
+ },
+ {
+   "Status": "Announced",
+   "Dry": 16.8,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 2.6,
+   "Country": "India"
+ },
+  {
+   "Status": "Construction",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "India"
+ },
+ {
+   "Status": "Operating",
+   "Dry": 352.4,
+   "Wet": 0.7,
+   "Semidry": 0,
+   "Unknown": 6.8,
+   "Country": "India"
+ },
+  {
+   "Status": "Operating pre-retirement",
+   "Dry": 0.2,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "India"
+ },
+  {
+   "Status": "Announced",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "Vietnam"
+ },
+  {
+   "Status": "Construction",
+   "Dry": 4.6,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "Vietnam"
+ },
+ {
+   "Status": "Operating",
+   "Dry": 99.1,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 7.8,
+   "Country": "Vietnam"
+ },
+  {
+   "Status": "Operating pre-retirement",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "Vietnam"
+ },
+  {
+   "Status": "Announced",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "Brazil"
+ },
+  {
+   "Status": "Construction",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "Brazil"
+ },
+ {
+   "Status": "Operating",
+   "Dry": 2.3,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "Brazil"
+ },
+  {
+   "Status": "Operating pre-retirement",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "Brazil"
+ },
+  {
+   "Status": "Announced",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "United States of America"
+ },
+  {
+   "Status": "Construction",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "United States of America"
+ },
+ {
+   "Status": "Operating",
+   "Dry": 26.5,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "United States of America"
+ },
+  {
+   "Status": "Operating pre-retirement",
+   "Dry": 0,
+   "Wet": 0,
+   "Semidry": 0,
+   "Unknown": 0,
+   "Country": "United States of America"
+ },
+]

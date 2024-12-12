@@ -1,0 +1,17 @@
+{
+  "title": "Explore data in the Global Iron and Steel Tracker",
+  "footer": "All data comes from GEM's [Global Iron and Steel Tracker](https://globalenergymonitor.org/projects/global-steel-plant-tracker/), last updated in April 2024.",
+  "dropdown_label": "Select a country, area or grouping: ",
+  "no_data": "No data available for {{selected}}",
+  "dropdown": [
+    {
+      "Country": "China",
+      "overall_summary": "Text for China."
+    },
+    {
+      "Country": "United States",
+      "overall_summary": "Text for the US."
+    }
+
+  ]  
+}

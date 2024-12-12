@@ -1,0 +1,44 @@
+[
+ {
+   "Status": "Announced",
+   "Basic oxygen furnace (BOF)": 43464,
+   "Electric arc furnace (EAF)": 22106,
+   "Other or unspecified": 1200,
+   "Country": "China"
+ },
+ {
+   "Status": "Construction",
+   "Basic oxygen furnace (BOF)": 54655,
+   "Electric arc furnace (EAF)": 28770,
+   "Other or unspecified": 0,
+   "Country": "China"
+ },
+ {
+   "Status": "Operating",
+   "Basic oxygen furnace (BOF)": 918223,
+   "Electric arc furnace (EAF)": 156756,
+   "Other or unspecified": 0,
+   "Country": "China"
+ },
+ {
+   "Status": "Announced",
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2590,
+   "Other or unspecified": 0,
+   "Country": "United States"
+ },
+ {
+   "Status": "Construction",
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 8088,
+   "Other or unspecified": 0,
+   "Country": "United States"
+ },
+ {
+   "Status": "Operating",
+   "Basic oxygen furnace (BOF)": 33021,
+   "Electric arc furnace (EAF)": 76099,
+   "Other or unspecified": 0,
+   "Country": "United States"
+ }
+]

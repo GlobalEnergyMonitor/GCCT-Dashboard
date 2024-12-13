@@ -2,241 +2,246 @@
  {
    "Country": "China",
    "Age group": "50+ years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 19,
+   "Grinding": 1.5,
    "Unknown": 0
  },
  {
    "Country": "China",
    "Age group": "40-49 years",
-   "Integrated": 8792,
+   "Integrated": 20.1,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
  },
  {
    "Country": "China",
    "Age group": "30-39 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 18.8,
+   "Grinding": 3.9,
    "Unknown": 0
  },
  {
    "Country": "China",
    "Age group": "20-29 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 155.3,
+   "Grinding": 35.4,
    "Unknown": 0
  },
  {
    "Country": "China",
    "Age group": "10-19 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 685.1,
+   "Grinding": 112.3,
    "Unknown": 0
  },
  {
    "Country": "China",
    "Age group": "0-9 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 74.5,
+   "Grinding": 11.1,
+   "Unknown": 0
+ },
+  {
+   "Country": "China",
+   "Age group": "unknown",
+   "Integrated": 614.6,
+   "Grinding": 112.6,
    "Unknown": 0
  },
  {
    "Country": "India",
    "Age group": "50+ years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
-   "Unknown": 0
+   "Integrated": 60.1,
+   "Grinding": 6.9,
+   "Unknown": 0.4
  },
   {
    "Country": "India",
    "Age group": "40-49 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 84.5,
+   "Grinding": 3,
    "Unknown": 0
  },
   {
    "Country": "India",
    "Age group": "30-39 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 63.6,
+   "Grinding": 18,
    "Unknown": 0
  },
   {
    "Country": "India",
    "Age group": "20-29 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 93.7,
+   "Grinding": 24.3,
    "Unknown": 0
  },
   {
    "Country": "India",
    "Age group": "10-19 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
-   "Unknown": 0
+   "Integrated": 99,
+   "Grinding": 103.2,
+   "Unknown": 0.2
  },
   {
    "Country": "India",
    "Age group": "0-9 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 53.4,
+   "Grinding": 87.9,
    "Unknown": 0
   },
    {
+   "Country": "India",
+   "Age group": "unknown",
+   "Integrated": 27.2,
+   "Grinding": 20.3,
+   "Unknown": 0
+ },
+   {
    "Country": "Vietnam",
    "Age group": "50+ years",
-   "Integrated": 8792,
+   "Integrated": 1.6,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
   },
     {
    "Country": "Vietnam",
    "Age group": "40-49 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 6.8,
+   "Grinding": 0.2,
    "Unknown": 0
   },
     {
    "Country": "Vietnam",
    "Age group": "30-39 years",
-   "Integrated": 8792,
+   "Integrated": 1.03,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
   },
     {
    "Country": "Vietnam",
    "Age group": "20-29 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 33.8,
+   "Grinding": 3.8,
    "Unknown": 0
   },
     {
    "Country": "Vietnam",
    "Age group": "10-19 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
-   "Unknown": 0
+   "Integrated": 60.55,
+   "Grinding": 13.9,
+   "Unknown": 0.7
   },
     {
    "Country": "Vietnam",
    "Age group": "0-9 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
-   "Unknown": 0
+   "Integrated": 22.9,
+   "Grinding": 2.2,
+   "Unknown": 4.3
   },
+   {
+   "Country": "Vietnam",
+   "Age group": "unknown",
+   "Integrated": 4,
+   "Grinding": 3,
+   "Unknown": 10.6
+ },
     {
    "Country": "Brazil",
    "Age group": "50+ years",
-   "Integrated": 8792,
+   "Integrated": 38.1,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
   },
     {
    "Country": "Brazil",
    "Age group": "40-49 years",
-   "Integrated": 8792,
+   "Integrated": 12.5,
    "Grinding": 0,
-   "Clinker Only": 3500,
-   "Unknown": 0
+   "Unknown": 0.1
   },
      {
    "Country": "Brazil",
    "Age group": "30-39 years",
-   "Integrated": 8792,
+   "Integrated": 4.3,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
   },
      {
    "Country": "Brazil",
    "Age group": "20-29 years",
-   "Integrated": 8792,
+   "Integrated": 4.9,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
   },
      {
    "Country": "Brazil",
    "Age group": "10-19 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
-   "Unknown": 0
+   "Integrated": 19.8,
+   "Grinding": 7.1,
+   "Unknown": 0.1
   },
      {
    "Country": "Brazil",
    "Age group": "0-9 years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
-   "Unknown": 0
+   "Integrated": 2.6,
+   "Grinding": 0.9,
+   "Unknown": 0.2
   },
+   {
+   "Country": "Brazil",
+   "Age group": "unknown",
+   "Integrated": 17.4,
+   "Grinding": 2.8,
+   "Unknown": 0
+ },
      {
    "Country": "United States of America",
    "Age group": "50+ years",
-   "Integrated": 8792,
-   "Grinding": 0,
-   "Clinker Only": 3500,
+   "Integrated": 59,
+   "Grinding": 0.4,
    "Unknown": 0
   },
       {
    "Country": "United States of America",
    "Age group": "40-49 years",
-   "Integrated": 8792,
+   "Integrated": 0,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
   },
       {
    "Country": "United States of America",
    "Age group": "30-39 years",
-   "Integrated": 8792,
+   "Integrated": 5.6,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
   },
       {
    "Country": "United States of America",
    "Age group": "20-29 years",
-   "Integrated": 8792,
+   "Integrated": 7.4,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
   },
       {
    "Country": "United States of America",
    "Age group": "10-19 years",
-   "Integrated": 8792,
+   "Integrated": 9.2,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
   },
       {
    "Country": "United States of America",
    "Age group": "0-9 years",
-   "Integrated": 8792,
+   "Integrated": 0,
    "Grinding": 0,
-   "Clinker Only": 3500,
    "Unknown": 0
-  }
+  },
+   {
+   "Country": "United States of America",
+   "Age group": "unknown",
+   "Integrated": 3.6,
+   "Grinding": 4.8,
+   "Unknown": 0
+ }
 ]

@@ -1,0 +1,122 @@
+[
+  {
+    "Technology": "CCS/CCUS",
+    "Yes": 8.7,
+    "No": 1576.2,
+    "Unknown": 0,
+    "N/A": 279.2,
+    "Country": "China"
+  },
+  {
+    "Technology": "Alternative Fuel",
+    "Yes": 0,
+    "No": 1585,
+    "Unknown": 0,
+    "N/A": 279.17,
+    "Country": "China"
+  },
+  {
+    "Technology": "Clay Calcination",
+    "Yes": 0,
+    "No": 1585,
+    "Unknown": 0,
+    "N/A": 279.2,
+    "Country": "China"
+  },
+  {
+    "Technology": "CCS/CCUS",
+    "Yes": 0,
+    "No": 116.3,
+    "Unknown": 240.3,
+    "N/A": 389.1,
+    "Country": "India"
+  },
+  {
+    "Technology": "Alternative Fuel",
+    "Yes": 91.9,
+    "No": 52.2,
+    "Unknown": 235.8,
+    "N/A": 365.8,
+    "Country": "India"
+  },
+  {
+    "Technology": "Clay Calcination",
+    "Yes": 4.8,
+    "No": 116.3,
+    "Unknown": 241.7,
+    "N/A": 383,
+    "Country": "India"
+  },
+    {
+    "Technology": "CCS/CCUS",
+    "Yes": 0,
+    "No": 0,
+    "Unknown": 132.7,
+    "N/A": 38.3,
+    "Country": "Vietnam"
+  },
+  {
+    "Technology": "Alternative Fuel",
+    "Yes": 0,
+    "No": 0,
+    "Unknown": 132.7,
+    "N/A": 38.3,
+    "Country": "Vietnam"
+  },
+  {
+    "Technology": "Clay Calcination",
+    "Yes": 0,
+    "No": 0,
+    "Unknown": 132.7,
+    "N/A": 38.3,
+    "Country": "Vietnam"
+  },
+    {
+    "Technology": "CCS/CCUS",
+    "Yes": 0,
+    "No": 99.9,
+    "Unknown": 0,
+    "N/A": 10.8,
+    "Country": "Brazil"
+  },
+  {
+    "Technology": "Alternative Fuel",
+    "Yes": 34.7,
+    "No": 65.2,
+    "Unknown": 0,
+    "N/A": 10.8,
+    "Country": "Brazil"
+  },
+  {
+    "Technology": "Clay Calcination",
+    "Yes": 5,
+    "No": 94.9,
+    "Unknown": 0,
+    "N/A": 10.8,
+    "Country": "Brazil"
+  },
+    {
+    "Technology": "CCS/CCUS",
+    "Yes": 7.9,
+    "No": 87.2,
+    "Unknown": 1.7,
+    "N/A": 5.2,
+    "Country": "United States of America"
+  },
+  {
+    "Technology": "Alternative Fuel",
+    "Yes": 66.9,
+    "No": 28.8,
+    "Unknown": 1.1,
+    "N/A": 5.23,
+    "Country": "United States of America"
+  },
+  {
+    "Technology": "Clay Calcination",
+    "Yes": 0,
+    "No": 96.8,
+    "Unknown": 0,
+    "N/A": 5.23,
+    "Country": "United States of America"
+  }
+ ]

@@ -1,4 +1,4 @@
-#**Heroku app created**
+# Heroku app created 
 Taylor created a heroku app for this repository on 12/10/2024: https://gcct-dashboard-b3c5e41c60ba.herokuapp.com/  
 
 # Flourish API dashboard template

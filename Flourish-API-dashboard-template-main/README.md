@@ -1,3 +1,11 @@
+# Test datasets created
+Josh created test datasets and added them to the data subfolder. Test datasets include data for top 5 global cement producers (in terms of number of plants). Datasets include:
+GCCT_data_ticker.json
+gcct_age_plant type.json
+gcct_cement color_cement type.json
+gcct_green cement_cement capacity.json
+gcct_status_process.json
+
 # Heroku app created 
 Taylor created a heroku app for this repository on 12/10/2024: https://gcct-dashboard-b3c5e41c60ba.herokuapp.com/  
 

@@ -1,31 +1,56 @@
 {
-    "16647921": {
-        "title": "Where in China is coal capacity under development?",
-        "subtitle": "Coal-fired power under development by status and Chinese province, megawatts (MW)",
-        "x_axis": "Province",
+    "20817345": {
+        "title": "Age breakdown of cement plant capacity",
+        "subtitle": "Capacity of all cement plants, by plant type and age group",
+        "x_axis": "Age group",
         "values": [
-            "Construction", "Permitted", "Pre-permit", "Announced"
+            "Integrated",
+            "Grinding",
+            "Unknown"
         ],
-        "dataset": "china_provinces_data",
-        "initial_state": "All",
-        "summary": "status_text",
+        "dataset": "gcct_dataviz2_age_plant type",
+        "initial_state": "India",
         "filterable": true,
-        "filter_by": [
-            "Construction", "Permitted", "Pre-permit", "Announced"
-        ]
+        "filter_by": "Country"
     },
-    "16644559": {
-        "title": "Which regions have coal capacity under development?",
-        "subtitle": "Coal-fired power under development by status and by region, in megawatts (MW)",
-        "x_axis": "Region",
+    "20820701": {
+        "title": "Operating and developing cement capacity",
+        "subtitle": "Cement capacity by status and production type",
+        "x_axis": "Status",
         "values": [
-            "Construction", "Permitted", "Pre-permit", "Announced"
+            "Dry",
+            "Wet",
+            "Semidry",
+            "Unknown"
         ],
-        "dataset": "region_data",
-        "initial_state": "All",
+        "dataset": "gcct_dataviz3_status_process",
+        "initial_state": "India",
         "filterable": true,
-        "filter_by": [
-            "Construction", "Permitted", "Pre-permit", "Announced"
-        ]
+        "filter_by":"Country"
+    },
+        "20842203": {
+        "title": "Cement type and color",
+        "subtitle": "Cement capacity by majority cement type and cement color produced at each plant",
+        "x_axis": "Cem color",
+        "values": [
+            "Grey",
+            "White",
+            "Grey and White",
+            "Unknown"
+        ],
+        "dataset": "gcct_dataviz4_cement color_cement type",
+        "initial_state": "India",
+        "filterable": true,
+        "filter_by":"Country"
+    },
+            "20843113": {
+        "title": "Green cement technology",
+        "subtitle": "Cement capacity utilizing green cement technology, compared to total country cement capacity",
+        "x_axis": "Cement Production",
+        "values": "Cement Capacity",
+        "dataset": "gcct_dataviz5_green cement_cement capacity",
+        "initial_state": "India",
+        "filterable": true,
+        "filter_by":"Country"
     }
 }

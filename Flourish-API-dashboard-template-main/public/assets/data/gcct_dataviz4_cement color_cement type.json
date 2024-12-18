@@ -1,34 +1,6 @@
 [
  {
    "Cement Color": "Grey",
-   "Ordinary Portland Cement": 0,
-   "Blended Cement": 0,
-   "Unknown": 0,
-   "Country": "China"
- },
- {
-   "Cement Color": "White",
-   "Ordinary Portland Cement": 0,
-   "Blended Cement": 0,
-   "Unknown": 0.3,
-   "Country": "China"
- },
- {
-   "Cement Color": "Grey and White",
-   "Ordinary Portland Cement": 0,
-   "Blended Cement": 0,
-   "Unknown": 0,
-   "Country": "China"
- },
-  {
-   "Cement Color": "Unknown",
-   "Ordinary Portland Cement": 0,
-   "Blended Cement": 0,
-   "Unknown": 1792.3,
-   "Country": "China"
- },
- {
-   "Cement Color": "Grey",
    "Ordinary Portland Cement": 38.2,
    "Blended Cement": 199.5,
    "Unknown": 11.5,
@@ -58,35 +30,7 @@
   {
    "Cement Color": "Grey",
    "Ordinary Portland Cement": 0,
-   "Blended Cement": 0,
-   "Unknown": 0,
-   "Country": "Vietnam"
- },
- {
-   "Cement Color": "White",
-   "Ordinary Portland Cement": 0,
-   "Blended Cement": 0,
-   "Unknown": 0,
-   "Country": "Vietnam"
- },
- {
-   "Cement Color": "Grey and White",
-   "Ordinary Portland Cement": 0,
-   "Blended Cement": 0,
-   "Unknown": 0,
-   "Country": "Vietnam"
- },
-  {
-   "Cement Color": "Unknown",
-   "Ordinary Portland Cement": 0,
-   "Blended Cement": 0,
-   "Unknown": 169.2,
-   "Country": "Vietnam"
- },
-  {
-   "Cement Color": "Grey",
-   "Ordinary Portland Cement": 0,
-   "Blended Cement": 36.2,
+   "Blended Cement": 26.3,
    "Unknown": 0,
    "Country": "Brazil"
  },

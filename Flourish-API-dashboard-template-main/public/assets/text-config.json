@@ -5,13 +5,16 @@
   "no_data": "No data available for {{selected}}",
   "dropdown": [
     {
-      "Country": "China",
-      "overall_summary": "China is the largest cement producer in the world, with a national capacity of XXXX."
-    },
-    {
       "Country": "United States",
       "overall_summary": "Text for the US."
+    },
+        {
+      "Country": "India",
+      "overall_summary": "Text for the US."
+    },
+    {
+      "Country": "Brazil",
+      "overall_summary": "Text for the US."
     }
-
   ]  
 }

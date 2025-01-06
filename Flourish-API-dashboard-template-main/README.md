@@ -1,5 +1,8 @@
+# Code updated based on flourish graphics
+Josh updated the relevant code in the public data folder for the data ticker and each of the 4 visualizations on 12/20/2024
+
 # Test datasets created
-Josh created test datasets and added them to the data subfolder. Test datasets include data for top 5 global cement producers (in terms of number of plants). Datasets include:
+Josh created test datasets and added them to the data subfolder on 12/13/2024. Test datasets include data for top 5 global cement producers (in terms of number of plants). Datasets include:
 * GCCT_data_ticker.json
 * gcct_age_plant type.json
 * gcct_cement color_cement type.json

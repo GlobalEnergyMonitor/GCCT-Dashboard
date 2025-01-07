@@ -8,7 +8,7 @@
             "Grinding",
             "Unknown"
         ],
-        "dataset": "gcct_dataviz2_age_plant type",
+        "dataset": "gcct_dataviz2_age_plant-type",
         "initial_state": "India",
         "filterable": true,
         "filter_by": "Country"
@@ -38,7 +38,7 @@
             "Grey and White",
             "Unknown"
         ],
-        "dataset": "gcct_dataviz4_cement color_cement type",
+        "dataset": "gcct_dataviz4_cement-color_cement-type",
         "initial_state": "India",
         "filterable": true,
         "filter_by":"Country"
@@ -50,7 +50,7 @@
         "values": [
             "Cement Capacity"
         ],
-        "dataset": "gcct_dataviz5_green cement_cement capacity",
+        "dataset": "gcct_dataviz5_green-cement_cement-capacity",
         "initial_state": "India",
         "filterable": true,
         "filter_by":"Country"

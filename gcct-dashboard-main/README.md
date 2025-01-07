@@ -1,3 +1,6 @@
+# Test dashboard created
+Code updated and test dashboard created on local machine by Josh on 1/7/2024. Only the data ticker works, charts are not loading at all.
+
 # Code updated based on flourish graphics
 Josh updated the relevant code in the public data folder for the data ticker and each of the 4 visualizations on 12/20/2024
 

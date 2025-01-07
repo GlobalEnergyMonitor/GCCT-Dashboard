@@ -11,7 +11,7 @@
     "input_default": "India",
     "overall_summary": true,
  "ticker_text_font-size": "2rem",
-    "ticker_data": "data_ticker",
+    "ticker_data": "GCCT_data_ticker",
     "tickers": [{
         "id": "summary_1",
         "decimal_places": 1,

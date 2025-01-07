@@ -47,7 +47,9 @@
         "title": "Green cement technology",
         "subtitle": "Cement capacity utilizing green cement technology, compared to total country cement capacity",
         "x_axis": "Cement Production",
-        "values": "Cement Capacity",
+        "values": [
+            "Cement Capacity"
+        ],
         "dataset": "gcct_dataviz5_green cement_cement capacity",
         "initial_state": "India",
         "filterable": true,

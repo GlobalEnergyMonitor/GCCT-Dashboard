@@ -1,0 +1,44 @@
+[
+ {
+   "Status": "Announced",
+   "Blast furnace (BF)": 73006,
+   "Direct reduced iron (DRI)": 1000,
+   "Other or unspecified": 325,
+   "Country": "China"
+ },
+ {
+   "Status": "Construction",
+   "Blast furnace (BF)": 54811,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 2330,
+   "Country": "China"
+ },
+ {
+   "Status": "Operating",
+   "Blast furnace (BF)": 884803,
+   "Direct reduced iron (DRI)": 2410,
+   "Other or unspecified": 427,
+   "Country": "China"
+ },
+ {
+   "Status": "Announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 6000,
+   "Other or unspecified": 0,
+   "Country": "United States"
+ },
+ {
+   "Status": "Construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0,
+   "Country": "United States"
+ },
+ {
+   "Status": "Operating",
+   "Blast furnace (BF)": 25826,
+   "Direct reduced iron (DRI)": 6660,
+   "Other or unspecified": 0,
+   "Country": "United States"
+ }
+]

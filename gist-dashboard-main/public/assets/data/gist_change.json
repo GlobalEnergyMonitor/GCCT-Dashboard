@@ -1,0 +1,50 @@
+[
+  {
+    "Technology": "Electric arc furnace (EAF)",
+    "Change": 6309,
+    "Type": "Steel",
+    "Country": "China"
+  },
+  {
+    "Technology": "Basic oxygen furnace (BOF)",
+    "Change": -13784,
+    "Type": "Steel",
+    "Country": "China"
+  },
+  {
+    "Technology": "Direct reduced iron (DRI)",
+    "Change": 2110,
+    "Type": "Iron",
+    "Country": "China"
+  },
+  {
+    "Technology": "Blast furnace (BF)",
+    "Change": -540,
+    "Type": "Iron",
+    "Country": "China"
+  },
+  {
+    "Technology": "Electric arc furnace (EAF)",
+    "Change": 453,
+    "Type": "Steel",
+    "Country": "United States"
+  },
+  {
+    "Technology": "Basic oxygen furnace (BOF)",
+    "Change": 0,
+    "Type": "Steel",
+    "Country": "United States"
+  },
+  {
+    "Technology": "Direct reduced iron (DRI)",
+    "Change": 0,
+    "Type": "Iron",
+    "Country": "United States"
+  },
+  {
+    "Technology": "Blast furnace (BF)",
+    "Change": 0,
+    "Type": "Iron",
+    "Country": "United States"
+  }
+ ]

@@ -1,0 +1,98 @@
+[
+ {
+   "Country": "China",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 8792,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 3500,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "China",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 2150,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "China",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 19726,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "China",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 39556,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 8800,
+   "Electric arc furnace (EAF)": 3660
+ },
+ {
+   "Country": "China",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 294772,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 1530,
+   "Electric arc furnace (EAF)": 3000
+ },
+ {
+   "Country": "China",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 230704,
+   "Direct reduced iron (DRI)": 2410,
+   "Basic oxygen furnace (BOF)": 15400,
+   "Electric arc furnace (EAF)": 9023
+ },
+ {
+   "Country": "United States",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 19126,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 33021,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United States",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 4200,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United States",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United States",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 23851
+ },
+ {
+   "Country": "United States",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 2500,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 47702
+ },
+ {
+   "Country": "United States",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 23851
+ }
+]

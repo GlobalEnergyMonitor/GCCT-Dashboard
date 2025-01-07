@@ -6,12 +6,12 @@
         "20843113"
         
     ],
-    "input_type": "buttons",
+    "input_type": "dropdown",
     "input_filter": "Country",
     "input_default": "India",
     "overall_summary": true,
- "ticker_text_font-size": "2rem",
-    "ticker_data": "data_ticker",
+    "ticker_text_font-size": "2rem",
+    "ticker_data": "GCCT_data_ticker",
     "tickers": [{
         "id": "summary_1",
         "decimal_places": 1,
@@ -38,6 +38,5 @@
             "font-weight": "bold",
             "font-size": "3.5rem"
         }
-    }
-    ]
+    }]
 }

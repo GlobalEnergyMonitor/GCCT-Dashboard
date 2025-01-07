@@ -26,9 +26,9 @@
         "dataset": "gcct_dataviz3_status_process",
         "initial_state": "India",
         "filterable": true,
-        "filter_by":"Country"
+        "filter_by": "Country"
     },
-        "20842203": {
+    "20842203": {
         "title": "Cement type and color",
         "subtitle": "Cement capacity by majority cement type and cement color produced at each plant",
         "x_axis": "Cem color",
@@ -41,16 +41,18 @@
         "dataset": "gcct_dataviz4_cement-color_cement-type",
         "initial_state": "India",
         "filterable": true,
-        "filter_by":"Country"
+        "filter_by": "Country"
     },
-            "20843113": {
+    "20843113": {
         "title": "Green cement technology",
         "subtitle": "Cement capacity utilizing green cement technology, compared to total country cement capacity",
         "x_axis": "Cement Production",
-        "values": "Cement Capacity",
+        "values": [
+            "Cement Capacity"
+        ],
         "dataset": "gcct_dataviz5_green-cement_cement-capacity",
         "initial_state": "India",
         "filterable": true,
-        "filter_by":"Country"
+        "filter_by": "Country"
     }
 }

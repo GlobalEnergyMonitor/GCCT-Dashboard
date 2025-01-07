@@ -6,7 +6,7 @@
         "20843113"
         
     ],
-    "input_type": "buttons",
+    "input_type": "dropdown",
     "input_filter": "Country",
     "input_default": "India",
     "overall_summary": true,
@@ -38,6 +38,5 @@
             "font-weight": "bold",
             "font-size": "3.5rem"
         }
-    }
-    ]
+    }]
 }

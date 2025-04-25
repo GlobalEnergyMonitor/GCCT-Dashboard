@@ -1,0 +1,3342 @@
+[
+  {
+    "Country": "Afghanistan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 7.6684
+  },
+  {
+    "Country": "Afghanistan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Afghanistan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Afghanistan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Albania",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.7199999999999998
+  },
+  {
+    "Country": "Albania",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Albania",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Albania",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Algeria",
+    "Production/Technology": "Total",
+    "Cement Capacity": 36.35
+  },
+  {
+    "Country": "Algeria",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Algeria",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Algeria",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Angola",
+    "Production/Technology": "Total",
+    "Cement Capacity": 10.95
+  },
+  {
+    "Country": "Angola",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Angola",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Angola",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 1.8
+  },
+  {
+    "Country": "Argentina",
+    "Production/Technology": "Total",
+    "Cement Capacity": 24.16
+  },
+  {
+    "Country": "Argentina",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.48
+  },
+  {
+    "Country": "Argentina",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 19.115000000000002
+  },
+  {
+    "Country": "Argentina",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Armenia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.4
+  },
+  {
+    "Country": "Armenia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Armenia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Armenia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Australia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 19.78
+  },
+  {
+    "Country": "Australia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 3.1
+  },
+  {
+    "Country": "Australia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 6.1
+  },
+  {
+    "Country": "Australia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 1.5
+  },
+  {
+    "Country": "Austria",
+    "Production/Technology": "Total",
+    "Cement Capacity": 5.925
+  },
+  {
+    "Country": "Austria",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 1.2
+  },
+  {
+    "Country": "Austria",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.9000000000000001
+  },
+  {
+    "Country": "Austria",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Azerbaijan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 5.525
+  },
+  {
+    "Country": "Azerbaijan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Azerbaijan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.7
+  },
+  {
+    "Country": "Azerbaijan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bahrain",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.8
+  },
+  {
+    "Country": "Bahrain",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bahrain",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bahrain",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bangladesh",
+    "Production/Technology": "Total",
+    "Cement Capacity": 82.28685000000002
+  },
+  {
+    "Country": "Bangladesh",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bangladesh",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bangladesh",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Barbados",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.36
+  },
+  {
+    "Country": "Barbados",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Barbados",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Barbados",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Production/Technology": "Total",
+    "Cement Capacity": 5.2
+  },
+  {
+    "Country": "Belarus",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Belarus",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 3.6
+  },
+  {
+    "Country": "Belarus",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Belgium",
+    "Production/Technology": "Total",
+    "Cement Capacity": 10.749999999999998
+  },
+  {
+    "Country": "Belgium",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 4.0
+  },
+  {
+    "Country": "Belgium",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 2.3
+  },
+  {
+    "Country": "Belgium",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Benin",
+    "Production/Technology": "Total",
+    "Cement Capacity": 5.6000000000000005
+  },
+  {
+    "Country": "Benin",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Benin",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Benin",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bhutan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.3617
+  },
+  {
+    "Country": "Bhutan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bhutan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bhutan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bolivia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 8.722
+  },
+  {
+    "Country": "Bolivia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bolivia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.95
+  },
+  {
+    "Country": "Bolivia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.47
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.7
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Botswana",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.2
+  },
+  {
+    "Country": "Botswana",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Botswana",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Botswana",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Brazil",
+    "Production/Technology": "Total",
+    "Cement Capacity": 113.64982
+  },
+  {
+    "Country": "Brazil",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Brazil",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 38.22999999999999
+  },
+  {
+    "Country": "Brazil",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 6.1000000000000005
+  },
+  {
+    "Country": "Brunei",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.5
+  },
+  {
+    "Country": "Brunei",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Brunei",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Brunei",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Bulgaria",
+    "Production/Technology": "Total",
+    "Cement Capacity": 5.2
+  },
+  {
+    "Country": "Bulgaria",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 1.5
+  },
+  {
+    "Country": "Bulgaria",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 4.7
+  },
+  {
+    "Country": "Bulgaria",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Burkina Faso",
+    "Production/Technology": "Total",
+    "Cement Capacity": 8.530000000000001
+  },
+  {
+    "Country": "Burkina Faso",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Burkina Faso",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Burkina Faso",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.3
+  },
+  {
+    "Country": "Burundi",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.9299999999999999
+  },
+  {
+    "Country": "Burundi",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Burundi",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Burundi",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cambodia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 10.2
+  },
+  {
+    "Country": "Cambodia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cambodia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cambodia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cameroon",
+    "Production/Technology": "Total",
+    "Cement Capacity": 10.399999999999999
+  },
+  {
+    "Country": "Cameroon",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cameroon",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cameroon",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 1.2
+  },
+  {
+    "Country": "Canada",
+    "Production/Technology": "Total",
+    "Cement Capacity": 24.208000000000002
+  },
+  {
+    "Country": "Canada",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 4.4
+  },
+  {
+    "Country": "Canada",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 11.860000000000001
+  },
+  {
+    "Country": "Canada",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Chad",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.76
+  },
+  {
+    "Country": "Chad",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Chad",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Chad",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Chile",
+    "Production/Technology": "Total",
+    "Cement Capacity": 9.682
+  },
+  {
+    "Country": "Chile",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Chile",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 3.9
+  },
+  {
+    "Country": "Chile",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "China",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1827.5324999999991
+  },
+  {
+    "Country": "China",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 8.739999999999998
+  },
+  {
+    "Country": "China",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "China",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Colombia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 20.86
+  },
+  {
+    "Country": "Colombia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Colombia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 14.365
+  },
+  {
+    "Country": "Colombia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 2.3
+  },
+  {
+    "Country": "Costa Rica",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.2
+  },
+  {
+    "Country": "Costa Rica",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Costa Rica",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 2.0
+  },
+  {
+    "Country": "Costa Rica",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Production/Technology": "Total",
+    "Cement Capacity": 12.0
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.5
+  },
+  {
+    "Country": "Croatia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 4.300000000000001
+  },
+  {
+    "Country": "Croatia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 1.5
+  },
+  {
+    "Country": "Croatia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 4.2
+  },
+  {
+    "Country": "Croatia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cuba",
+    "Production/Technology": "Total",
+    "Cement Capacity": 5.6
+  },
+  {
+    "Country": "Cuba",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cuba",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.5
+  },
+  {
+    "Country": "Cuba",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.45
+  },
+  {
+    "Country": "Cyprus",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Cyprus",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 2.0
+  },
+  {
+    "Country": "Cyprus",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Czech Republic",
+    "Production/Technology": "Total",
+    "Cement Capacity": 4.9
+  },
+  {
+    "Country": "Czech Republic",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Czech Republic",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 2.2
+  },
+  {
+    "Country": "Czech Republic",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 1.1
+  },
+  {
+    "Country": "Denmark",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.363
+  },
+  {
+    "Country": "Denmark",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 2.363
+  },
+  {
+    "Country": "Denmark",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 2.363
+  },
+  {
+    "Country": "Denmark",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 2.363
+  },
+  {
+    "Country": "Djibouti",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.06
+  },
+  {
+    "Country": "Djibouti",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Djibouti",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Djibouti",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Production/Technology": "Total",
+    "Cement Capacity": 12.172
+  },
+  {
+    "Country": "Dominican Republic",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 3.7
+  },
+  {
+    "Country": "Dominican Republic",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "DR Congo",
+    "Production/Technology": "Total",
+    "Cement Capacity": 7.436999999999999
+  },
+  {
+    "Country": "DR Congo",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "DR Congo",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "DR Congo",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Ecuador",
+    "Production/Technology": "Total",
+    "Cement Capacity": 8.4
+  },
+  {
+    "Country": "Ecuador",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 1.4
+  },
+  {
+    "Country": "Ecuador",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 6.800000000000001
+  },
+  {
+    "Country": "Ecuador",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Egypt",
+    "Production/Technology": "Total",
+    "Cement Capacity": 93.86000000000001
+  },
+  {
+    "Country": "Egypt",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Egypt",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 31.599999999999998
+  },
+  {
+    "Country": "Egypt",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Ethiopia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 20.07
+  },
+  {
+    "Country": "Ethiopia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Ethiopia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.3
+  },
+  {
+    "Country": "Ethiopia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "El Salvador",
+    "Production/Technology": "Total",
+    "Cement Capacity": 4.0
+  },
+  {
+    "Country": "El Salvador",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "El Salvador",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 3.5999999999999996
+  },
+  {
+    "Country": "El Salvador",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Eritrea",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.39499999999999996
+  },
+  {
+    "Country": "Eritrea",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Eritrea",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Eritrea",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Estonia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.8
+  },
+  {
+    "Country": "Estonia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Estonia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Estonia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Eswatini",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Eswatini",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Eswatini",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Eswatini",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Fiji",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.315
+  },
+  {
+    "Country": "Fiji",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Fiji",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Fiji",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Finland",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.8
+  },
+  {
+    "Country": "Finland",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.55
+  },
+  {
+    "Country": "Finland",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.55
+  },
+  {
+    "Country": "Finland",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "France",
+    "Production/Technology": "Total",
+    "Cement Capacity": 34.54
+  },
+  {
+    "Country": "France",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 9.520000000000001
+  },
+  {
+    "Country": "France",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 14.47
+  },
+  {
+    "Country": "France",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 6.8
+  },
+  {
+    "Country": "French Guiana",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.16
+  },
+  {
+    "Country": "French Guiana",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "French Guiana",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "French Guiana",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Gabon",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.69
+  },
+  {
+    "Country": "Gabon",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Gabon",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Gabon",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Georgia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.5
+  },
+  {
+    "Country": "Georgia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Georgia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.1
+  },
+  {
+    "Country": "Georgia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Germany",
+    "Production/Technology": "Total",
+    "Cement Capacity": 37.21
+  },
+  {
+    "Country": "Germany",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 13.530000000000001
+  },
+  {
+    "Country": "Germany",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 27.209999999999997
+  },
+  {
+    "Country": "Germany",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 1.97
+  },
+  {
+    "Country": "Ghana",
+    "Production/Technology": "Total",
+    "Cement Capacity": 13.350000000000001
+  },
+  {
+    "Country": "Ghana",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Ghana",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Ghana",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.55
+  },
+  {
+    "Country": "Greece",
+    "Production/Technology": "Total",
+    "Cement Capacity": 14.53
+  },
+  {
+    "Country": "Greece",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 3.1
+  },
+  {
+    "Country": "Greece",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 14.129999999999999
+  },
+  {
+    "Country": "Greece",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guadeloupe",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.375
+  },
+  {
+    "Country": "Guadeloupe",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guadeloupe",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guadeloupe",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guatemala",
+    "Production/Technology": "Total",
+    "Cement Capacity": 6.18
+  },
+  {
+    "Country": "Guatemala",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guatemala",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 5.130000000000001
+  },
+  {
+    "Country": "Guatemala",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guinea",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.5
+  },
+  {
+    "Country": "Guinea",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guinea",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guinea",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.3
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Haiti",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.6
+  },
+  {
+    "Country": "Haiti",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Haiti",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Haiti",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Honduras",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.5999999999999996
+  },
+  {
+    "Country": "Honduras",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Honduras",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 3.3
+  },
+  {
+    "Country": "Honduras",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Hong Kong",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.5
+  },
+  {
+    "Country": "Hong Kong",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Hong Kong",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Hong Kong",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Hungary",
+    "Production/Technology": "Total",
+    "Cement Capacity": 5.0249999999999995
+  },
+  {
+    "Country": "Hungary",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Hungary",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 3.2
+  },
+  {
+    "Country": "Hungary",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "India",
+    "Production/Technology": "Total",
+    "Cement Capacity": 770.424545
+  },
+  {
+    "Country": "India",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "India",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 344.02652
+  },
+  {
+    "Country": "India",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 12.299
+  },
+  {
+    "Country": "Indonesia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 134.57500000000002
+  },
+  {
+    "Country": "Indonesia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Indonesia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Indonesia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Iran",
+    "Production/Technology": "Total",
+    "Cement Capacity": 96.14300000000004
+  },
+  {
+    "Country": "Iran",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Iran",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Iran",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Iraq",
+    "Production/Technology": "Total",
+    "Cement Capacity": 48.50999999999999
+  },
+  {
+    "Country": "Iraq",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Iraq",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.5
+  },
+  {
+    "Country": "Iraq",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Ireland",
+    "Production/Technology": "Total",
+    "Cement Capacity": 6.299999999999999
+  },
+  {
+    "Country": "Ireland",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Ireland",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 5.699999999999999
+  },
+  {
+    "Country": "Ireland",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Israel",
+    "Production/Technology": "Total",
+    "Cement Capacity": 7.0
+  },
+  {
+    "Country": "Israel",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Israel",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 4.6
+  },
+  {
+    "Country": "Israel",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Italy",
+    "Production/Technology": "Total",
+    "Cement Capacity": 27.96
+  },
+  {
+    "Country": "Italy",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 2.1
+  },
+  {
+    "Country": "Italy",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 21.700000000000003
+  },
+  {
+    "Country": "Italy",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Jamaica",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.8
+  },
+  {
+    "Country": "Jamaica",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Jamaica",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.8
+  },
+  {
+    "Country": "Jamaica",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Japan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 68.0
+  },
+  {
+    "Country": "Japan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 5.9
+  },
+  {
+    "Country": "Japan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 47.35999999999999
+  },
+  {
+    "Country": "Japan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Jordan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 11.334999999999999
+  },
+  {
+    "Country": "Jordan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Jordan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Jordan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kazakhstan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 21.22
+  },
+  {
+    "Country": "Kazakhstan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kazakhstan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kazakhstan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kenya",
+    "Production/Technology": "Total",
+    "Cement Capacity": 14.81
+  },
+  {
+    "Country": "Kenya",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kenya",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.8
+  },
+  {
+    "Country": "Kenya",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kosovo",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.694
+  },
+  {
+    "Country": "Kosovo",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kosovo",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.694
+  },
+  {
+    "Country": "Kosovo",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kuwait",
+    "Production/Technology": "Total",
+    "Cement Capacity": 11.6825
+  },
+  {
+    "Country": "Kuwait",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kuwait",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kuwait",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 7.459
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Laos",
+    "Production/Technology": "Total",
+    "Cement Capacity": 18.072999999999997
+  },
+  {
+    "Country": "Laos",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Laos",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Laos",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Latvia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.6
+  },
+  {
+    "Country": "Latvia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 1.6
+  },
+  {
+    "Country": "Latvia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.6
+  },
+  {
+    "Country": "Latvia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Lebanon",
+    "Production/Technology": "Total",
+    "Cement Capacity": 7.15
+  },
+  {
+    "Country": "Lebanon",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Lebanon",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.35
+  },
+  {
+    "Country": "Lebanon",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Lesotho",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.2
+  },
+  {
+    "Country": "Lesotho",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Lesotho",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Lesotho",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Liberia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.45
+  },
+  {
+    "Country": "Liberia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Liberia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Liberia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Libya",
+    "Production/Technology": "Total",
+    "Cement Capacity": 14.73
+  },
+  {
+    "Country": "Libya",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Libya",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Libya",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Lithuania",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.0
+  },
+  {
+    "Country": "Lithuania",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 1.0
+  },
+  {
+    "Country": "Lithuania",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.0
+  },
+  {
+    "Country": "Lithuania",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.45
+  },
+  {
+    "Country": "Luxembourg",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Macao",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.6
+  },
+  {
+    "Country": "Macao",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Macao",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Macao",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Madagascar",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.06
+  },
+  {
+    "Country": "Madagascar",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Madagascar",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Madagascar",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Malawi",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.4000000000000004
+  },
+  {
+    "Country": "Malawi",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Malawi",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Malawi",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Malaysia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 32.956
+  },
+  {
+    "Country": "Malaysia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Malaysia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Malaysia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mali",
+    "Production/Technology": "Total",
+    "Cement Capacity": 8.1
+  },
+  {
+    "Country": "Mali",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mali",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mali",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Martinique",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.375
+  },
+  {
+    "Country": "Martinique",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Martinique",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Martinique",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mauritania",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.9500000000000002
+  },
+  {
+    "Country": "Mauritania",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mauritania",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mauritania",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mexico",
+    "Production/Technology": "Total",
+    "Cement Capacity": 59.395
+  },
+  {
+    "Country": "Mexico",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mexico",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 38.1
+  },
+  {
+    "Country": "Mexico",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 5.6
+  },
+  {
+    "Country": "Moldova",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.5
+  },
+  {
+    "Country": "Moldova",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Moldova",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.5
+  },
+  {
+    "Country": "Moldova",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mongolia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 6.345
+  },
+  {
+    "Country": "Mongolia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mongolia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.185
+  },
+  {
+    "Country": "Mongolia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Montenegro",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.8
+  },
+  {
+    "Country": "Montenegro",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Montenegro",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Montenegro",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Morocco",
+    "Production/Technology": "Total",
+    "Cement Capacity": 27.650000000000002
+  },
+  {
+    "Country": "Morocco",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Morocco",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 22.25
+  },
+  {
+    "Country": "Morocco",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mozambique",
+    "Production/Technology": "Total",
+    "Cement Capacity": 9.819999999999999
+  },
+  {
+    "Country": "Mozambique",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mozambique",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Mozambique",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Myanmar",
+    "Production/Technology": "Total",
+    "Cement Capacity": 17.932699999999997
+  },
+  {
+    "Country": "Myanmar",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Myanmar",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Myanmar",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Namibia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.2
+  },
+  {
+    "Country": "Namibia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Namibia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.0
+  },
+  {
+    "Country": "Namibia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Nepal",
+    "Production/Technology": "Total",
+    "Cement Capacity": 28.867275000000003
+  },
+  {
+    "Country": "Nepal",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Nepal",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.1825
+  },
+  {
+    "Country": "Nepal",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Netherlands",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.85
+  },
+  {
+    "Country": "Netherlands",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Netherlands",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Netherlands",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "New Caledonia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.18
+  },
+  {
+    "Country": "New Caledonia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "New Caledonia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "New Caledonia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "New Zealand",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.0
+  },
+  {
+    "Country": "New Zealand",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "New Zealand",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.0
+  },
+  {
+    "Country": "New Zealand",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Nicaragua",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.99
+  },
+  {
+    "Country": "Nicaragua",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Nicaragua",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.42
+  },
+  {
+    "Country": "Nicaragua",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Niger",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.38
+  },
+  {
+    "Country": "Niger",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Niger",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Niger",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Nigeria",
+    "Production/Technology": "Total",
+    "Cement Capacity": 87.35000000000001
+  },
+  {
+    "Country": "Nigeria",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Nigeria",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 44.65
+  },
+  {
+    "Country": "Nigeria",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "North Korea",
+    "Production/Technology": "Total",
+    "Cement Capacity": 9.695000000000002
+  },
+  {
+    "Country": "North Korea",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "North Korea",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "North Korea",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "North Macedonia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.9
+  },
+  {
+    "Country": "North Macedonia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "North Macedonia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.9
+  },
+  {
+    "Country": "North Macedonia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Norway",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.7
+  },
+  {
+    "Country": "Norway",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 1.2
+  },
+  {
+    "Country": "Norway",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.7
+  },
+  {
+    "Country": "Norway",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Oman",
+    "Production/Technology": "Total",
+    "Cement Capacity": 8.055
+  },
+  {
+    "Country": "Oman",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Oman",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 2.355
+  },
+  {
+    "Country": "Oman",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Pakistan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 92.59219999999996
+  },
+  {
+    "Country": "Pakistan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Pakistan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 16.313
+  },
+  {
+    "Country": "Pakistan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Panama",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.1500000000000004
+  },
+  {
+    "Country": "Panama",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Panama",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 2.1
+  },
+  {
+    "Country": "Panama",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.1
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Paraguay",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.54
+  },
+  {
+    "Country": "Paraguay",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Paraguay",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.75
+  },
+  {
+    "Country": "Paraguay",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Peru",
+    "Production/Technology": "Total",
+    "Cement Capacity": 18.89
+  },
+  {
+    "Country": "Peru",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Peru",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 16.240000000000002
+  },
+  {
+    "Country": "Peru",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Philippines",
+    "Production/Technology": "Total",
+    "Cement Capacity": 51.144200000000005
+  },
+  {
+    "Country": "Philippines",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Philippines",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Philippines",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Poland",
+    "Production/Technology": "Total",
+    "Cement Capacity": 21.68
+  },
+  {
+    "Country": "Poland",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 5.470000000000001
+  },
+  {
+    "Country": "Poland",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 14.31
+  },
+  {
+    "Country": "Poland",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Portugal",
+    "Production/Technology": "Total",
+    "Cement Capacity": 13.729999999999999
+  },
+  {
+    "Country": "Portugal",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Portugal",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 3.5
+  },
+  {
+    "Country": "Portugal",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Qatar",
+    "Production/Technology": "Total",
+    "Cement Capacity": 12.02
+  },
+  {
+    "Country": "Qatar",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Qatar",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Qatar",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.9
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Reunion",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.5
+  },
+  {
+    "Country": "Reunion",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Reunion",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Reunion",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Romania",
+    "Production/Technology": "Total",
+    "Cement Capacity": 16.417
+  },
+  {
+    "Country": "Romania",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Romania",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 9.55
+  },
+  {
+    "Country": "Romania",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Russia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 97.84400000000002
+  },
+  {
+    "Country": "Russia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Russia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 15.52
+  },
+  {
+    "Country": "Russia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Rwanda",
+    "Production/Technology": "Total",
+    "Cement Capacity": 2.3
+  },
+  {
+    "Country": "Rwanda",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Rwanda",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Rwanda",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Samoa",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Samoa",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Samoa",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Samoa",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 82.85999999999999
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 6.720000000000001
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Senegal",
+    "Production/Technology": "Total",
+    "Cement Capacity": 8.0
+  },
+  {
+    "Country": "Senegal",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 3.5
+  },
+  {
+    "Country": "Senegal",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.5
+  },
+  {
+    "Country": "Senegal",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Serbia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.1
+  },
+  {
+    "Country": "Serbia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Serbia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 3.1
+  },
+  {
+    "Country": "Serbia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Sierra Leone",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.76
+  },
+  {
+    "Country": "Sierra Leone",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Sierra Leone",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Sierra Leone",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Slovakia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 4.026
+  },
+  {
+    "Country": "Slovakia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Slovakia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 4.026
+  },
+  {
+    "Country": "Slovakia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.8
+  },
+  {
+    "Country": "Slovenia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Slovenia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.3
+  },
+  {
+    "Country": "Slovenia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "South Africa",
+    "Production/Technology": "Total",
+    "Cement Capacity": 22.740000000000002
+  },
+  {
+    "Country": "South Africa",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 1.48
+  },
+  {
+    "Country": "South Africa",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 4.58
+  },
+  {
+    "Country": "South Africa",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "South Korea",
+    "Production/Technology": "Total",
+    "Cement Capacity": 84.836
+  },
+  {
+    "Country": "South Korea",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "South Korea",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 31.3
+  },
+  {
+    "Country": "South Korea",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Spain",
+    "Production/Technology": "Total",
+    "Cement Capacity": 50.03599999999999
+  },
+  {
+    "Country": "Spain",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 1.25
+  },
+  {
+    "Country": "Spain",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 38.895999999999994
+  },
+  {
+    "Country": "Spain",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Sri Lanka",
+    "Production/Technology": "Total",
+    "Cement Capacity": 10.26
+  },
+  {
+    "Country": "Sri Lanka",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Sri Lanka",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.3
+  },
+  {
+    "Country": "Sri Lanka",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Sudan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 9.799999999999999
+  },
+  {
+    "Country": "Sudan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Sudan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Sudan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Suriname",
+    "Production/Technology": "Total",
+    "Cement Capacity": 0.2
+  },
+  {
+    "Country": "Suriname",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Suriname",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Suriname",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Sweden",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.45
+  },
+  {
+    "Country": "Sweden",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 2.5
+  },
+  {
+    "Country": "Sweden",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 3.23
+  },
+  {
+    "Country": "Sweden",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Production/Technology": "Total",
+    "Cement Capacity": 4.4
+  },
+  {
+    "Country": "Switzerland",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Switzerland",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 4.4
+  },
+  {
+    "Country": "Switzerland",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Syria",
+    "Production/Technology": "Total",
+    "Cement Capacity": 12.77
+  },
+  {
+    "Country": "Syria",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Syria",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 1.6
+  },
+  {
+    "Country": "Syria",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Taiwan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 12.299999999999999
+  },
+  {
+    "Country": "Taiwan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Taiwan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Taiwan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Tajikistan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 8.28
+  },
+  {
+    "Country": "Tajikistan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Tajikistan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Tajikistan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Tanzania",
+    "Production/Technology": "Total",
+    "Cement Capacity": 10.799999999999999
+  },
+  {
+    "Country": "Tanzania",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Tanzania",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.8
+  },
+  {
+    "Country": "Tanzania",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Thailand",
+    "Production/Technology": "Total",
+    "Cement Capacity": 60.90400000000001
+  },
+  {
+    "Country": "Thailand",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Thailand",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Thailand",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Togo",
+    "Production/Technology": "Total",
+    "Cement Capacity": 3.1
+  },
+  {
+    "Country": "Togo",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Togo",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Togo",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Tunisia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 15.860000000000001
+  },
+  {
+    "Country": "Tunisia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Tunisia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 5.8999999999999995
+  },
+  {
+    "Country": "Tunisia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Turkiye",
+    "Production/Technology": "Total",
+    "Cement Capacity": 144.38
+  },
+  {
+    "Country": "Turkiye",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 2.1
+  },
+  {
+    "Country": "Turkiye",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 63.12999999999999
+  },
+  {
+    "Country": "Turkiye",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Turkmenistan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 5.686
+  },
+  {
+    "Country": "Turkmenistan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Turkmenistan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Turkmenistan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Uganda",
+    "Production/Technology": "Total",
+    "Cement Capacity": 9.16
+  },
+  {
+    "Country": "Uganda",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Uganda",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.9
+  },
+  {
+    "Country": "Uganda",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Ukraine",
+    "Production/Technology": "Total",
+    "Cement Capacity": 20.161
+  },
+  {
+    "Country": "Ukraine",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Ukraine",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 2.16
+  },
+  {
+    "Country": "Ukraine",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Production/Technology": "Total",
+    "Cement Capacity": 43.63999999999999
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 19.97
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "United Kingdom",
+    "Production/Technology": "Total",
+    "Cement Capacity": 14.559999999999997
+  },
+  {
+    "Country": "United Kingdom",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 4.1
+  },
+  {
+    "Country": "United Kingdom",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 10.559999999999999
+  },
+  {
+    "Country": "United Kingdom",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "United States",
+    "Production/Technology": "Total",
+    "Cement Capacity": 104.89659999999999
+  },
+  {
+    "Country": "United States",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 7.9
+  },
+  {
+    "Country": "United States",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 67.09500000000001
+  },
+  {
+    "Country": "United States",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Uruguay",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.63
+  },
+  {
+    "Country": "Uruguay",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Uruguay",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Uruguay",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Uzbekistan",
+    "Production/Technology": "Total",
+    "Cement Capacity": 29.043999999999997
+  },
+  {
+    "Country": "Uzbekistan",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Uzbekistan",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Uzbekistan",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Venezuela",
+    "Production/Technology": "Total",
+    "Cement Capacity": 12.959999999999999
+  },
+  {
+    "Country": "Venezuela",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Venezuela",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Venezuela",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Vietnam",
+    "Production/Technology": "Total",
+    "Cement Capacity": 168.53749999999997
+  },
+  {
+    "Country": "Vietnam",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Vietnam",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Vietnam",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Western Sahara",
+    "Production/Technology": "Total",
+    "Cement Capacity": 1.2
+  },
+  {
+    "Country": "Western Sahara",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Western Sahara",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Western Sahara",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Yemen",
+    "Production/Technology": "Total",
+    "Cement Capacity": 7.65
+  },
+  {
+    "Country": "Yemen",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Yemen",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Yemen",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Zambia",
+    "Production/Technology": "Total",
+    "Cement Capacity": 7.790000000000001
+  },
+  {
+    "Country": "Zambia",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Zambia",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 2.6100000000000003
+  },
+  {
+    "Country": "Zambia",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Zimbabwe",
+    "Production/Technology": "Total",
+    "Cement Capacity": 5.14
+  },
+  {
+    "Country": "Zimbabwe",
+    "Production/Technology": "CCS/CCUS",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Zimbabwe",
+    "Production/Technology": "Alternative Fuel",
+    "Cement Capacity": 0.0
+  },
+  {
+    "Country": "Zimbabwe",
+    "Production/Technology": "Clay Calcination",
+    "Cement Capacity": 0.0
+  }
+]

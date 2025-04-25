@@ -1,0 +1,57 @@
+{
+    "20817345": {
+        "title": "Age breakdown of cement plant capacity",
+        "subtitle": "Capacity of all cement plants, by plant type and age group",
+        "x_axis": "Age Group",
+        "values": [
+            "Integrated",
+            "Grinding",
+            "Unknown"
+        ],
+        "dataset": "gcct_age_planttype",
+        "initial_state": "India",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "20820701": {
+        "title": "Operating and developing cement capacity",
+        "subtitle": "Cement capacity by status and production type",
+        "x_axis": "Status",
+        "values": [
+            "Dry",
+            "Wet",
+            "Semidry",
+            "Unknown"
+        ],
+        "dataset": "gcct_status_process",
+        "initial_state": "India",
+        "filterable": true,
+        "filter_by":"Country"
+    },
+        "20842203": {
+        "title": "Cement type and color",
+        "subtitle": "Cement capacity by majority cement type and cement color produced at each plant",
+        "x_axis": "Cement Color",
+        "values": [
+            "Ordinary Portland Cement",
+            "Blended",
+            "Unknown"
+        ],
+        "dataset": "gcct_cementcolor_cementtype",
+        "initial_state": "India",
+        "filterable": true,
+        "filter_by":"Country"
+    },
+            "20843113": {
+        "title": "Green cement technology",
+        "subtitle": "Cement capacity utilizing green cement technology, compared to total country cement capacity",
+        "x_axis": "Production/Technology",
+        "values": [
+            "Cement Capacity"
+        ],
+        "dataset": "gcct_greencement_cementcapacity",
+        "initial_state": "India",
+        "filterable": true,
+        "filter_by":"Country"
+    }
+}

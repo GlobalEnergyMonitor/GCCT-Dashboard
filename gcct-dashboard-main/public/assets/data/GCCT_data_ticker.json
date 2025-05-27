@@ -224,7 +224,7 @@
     "summary_4": "<span>{{0.0}} mtpa</span><br>developing clinker capacity"
   },
   {
-    "Country": "C\u00f4te d'Ivoire",
+    "Country": "Cote dIvoire",
     "summary_1": "<span>{{8.5}} mtpa</span><br>operating cement capacity",
     "summary_2": "<span>{{0.0}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{3.5}} mtpa</span><br>developing cement capacity",
@@ -420,7 +420,7 @@
     "summary_4": "<span>{{0.0}} mtpa</span><br>developing clinker capacity"
   },
   {
-    "Country": "Guinea-Bissau",
+    "Country": "Guinea Bissau",
     "summary_1": "<span>{{0.3}} mtpa</span><br>operating cement capacity",
     "summary_2": "<span>{{0.0}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{0.0}} mtpa</span><br>developing cement capacity",
@@ -875,7 +875,7 @@
     "summary_4": "<span>{{0.0}} mtpa</span><br>developing clinker capacity"
   },
   {
-    "Country": "R\u00e9union",
+    "Country": "Reunion",
     "summary_1": "<span>{{0.5}} mtpa</span><br>operating cement capacity",
     "summary_2": "<span>{{0.0}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{0.0}} mtpa</span><br>developing cement capacity",
@@ -1064,7 +1064,7 @@
     "summary_4": "<span>{{1.2}} mtpa</span><br>developing clinker capacity"
   },
   {
-    "Country": "T\u00fcrkiye",
+    "Country": "Turkiye",
     "summary_1": "<span>{{142.7}} mtpa</span><br>operating cement capacity",
     "summary_2": "<span>{{77.6}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{1.0}} mtpa</span><br>developing cement capacity",

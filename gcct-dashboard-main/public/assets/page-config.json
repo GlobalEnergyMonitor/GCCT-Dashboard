@@ -9,7 +9,7 @@
     "input_type": "dropdown",
     "input_filter": "Country",
     "input_default": "India",
-    "overall_summary": true,
+    "overall_summary": false,
  "ticker_text_font-size": "2rem",
     "ticker_data": "GCCT_data_ticker",
     "tickers": [{

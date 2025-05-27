@@ -8,7 +8,7 @@
   },
   {
     "Country": "Albania",
-    "summary_1": "<span>{{3.7199999999999998}} mtpa</span><br>operating cement capacity",
+    "summary_1": "<span>{{3.72}} mtpa</span><br>operating cement capacity",
     "summary_2": "<span>{{2.66}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{0.0}} mtpa</span><br>developing cement capacity",
     "summary_4": "<span>{{0.0}} mtpa</span><br>developing clinker capacity"
@@ -30,7 +30,7 @@
   {
     "Country": "Argentina",
     "summary_1": "<span>{{24.16}} mtpa</span><br>operating cement capacity",
-    "summary_2": "<span>{{7.1000000000000005}} mtpa</span><br>operating clinker capacity",
+    "summary_2": "<span>{{7.1}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{0.0}} mtpa</span><br>developing cement capacity",
     "summary_4": "<span>{{0.0}} mtpa</span><br>developing clinker capacity"
   },
@@ -44,7 +44,7 @@
   {
     "Country": "Australia",
     "summary_1": "<span>{{18.03}} mtpa</span><br>operating cement capacity",
-    "summary_2": "<span>{{2.9000000000000004}} mtpa</span><br>operating clinker capacity",
+    "summary_2": "<span>{{2.9}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{0.0}} mtpa</span><br>developing cement capacity",
     "summary_4": "<span>{{0.0}} mtpa</span><br>developing clinker capacity"
   },
@@ -71,9 +71,9 @@
   },
   {
     "Country": "Bangladesh",
-    "summary_1": "<span>{{79.38685000000001}} mtpa</span><br>operating cement capacity",
+    "summary_1": "<span>{{79.39}} mtpa</span><br>operating cement capacity",
     "summary_2": "<span>{{1.633}} mtpa</span><br>operating clinker capacity",
-    "summary_3": "<span>{{2.9000000000000004}} mtpa</span><br>developing cement capacity",
+    "summary_3": "<span>{{2.9}} mtpa</span><br>developing cement capacity",
     "summary_4": "<span>{{4.4}} mtpa</span><br>developing clinker capacity"
   },
   {
@@ -92,14 +92,14 @@
   },
   {
     "Country": "Belgium",
-    "summary_1": "<span>{{10.749999999999998}} mtpa</span><br>operating cement capacity",
+    "summary_1": "<span>{{10.75}} mtpa</span><br>operating cement capacity",
     "summary_2": "<span>{{5.93}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{0.0}} mtpa</span><br>developing cement capacity",
     "summary_4": "<span>{{0.0}} mtpa</span><br>developing clinker capacity"
   },
   {
     "Country": "Benin",
-    "summary_1": "<span>{{3.5999999999999996}} mtpa</span><br>operating cement capacity",
+    "summary_1": "<span>{{3.6}} mtpa</span><br>operating cement capacity",
     "summary_2": "<span>{{0.0}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{2.0}} mtpa</span><br>developing cement capacity",
     "summary_4": "<span>{{1.825}} mtpa</span><br>developing clinker capacity"
@@ -134,7 +134,7 @@
   },
   {
     "Country": "Brazil",
-    "summary_1": "<span>{{98.25982}} mtpa</span><br>operating cement capacity",
+    "summary_1": "<span>{{98.26}} mtpa</span><br>operating cement capacity",
     "summary_2": "<span>{{28.942}} mtpa</span><br>operating clinker capacity",
     "summary_3": "<span>{{6.6}} mtpa</span><br>developing cement capacity",
     "summary_4": "<span>{{0.0}} mtpa</span><br>developing clinker capacity"

@@ -1024,7 +1024,7 @@
     "Unknown":0.0
   },
   {
-    "Country":"Cote d'Ivoire",
+    "Country":"Cote dIvoire",
     "Status":"Developing",
     "Dry":0.0,
     "Wet":0.0,
@@ -1032,7 +1032,7 @@
     "Unknown":0.4
   },
   {
-    "Country":"Cote d'Ivoire",
+    "Country":"Cote dIvoire",
     "Status":"Operating",
     "Dry":0.0,
     "Wet":0.0,
@@ -1040,7 +1040,7 @@
     "Unknown":0.0
   },
   {
-    "Country":"Cote d'Ivoire",
+    "Country":"Cote dIvoire",
     "Status":"Mothballed or Retired",
     "Dry":0.0,
     "Wet":0.0,
@@ -1048,7 +1048,7 @@
     "Unknown":0.0
   },
   {
-    "Country":"Cote d'Ivoire",
+    "Country":"Cote dIvoire",
     "Status":"Unknown",
     "Dry":0.0,
     "Wet":0.0,
@@ -1920,7 +1920,7 @@
     "Unknown":0.6
   },
   {
-    "Country":"Guinea-Bissau",
+    "Country":"Guinea Bissau",
     "Status":"Developing",
     "Dry":0.0,
     "Wet":0.0,
@@ -1928,7 +1928,7 @@
     "Unknown":0.0
   },
   {
-    "Country":"Guinea-Bissau",
+    "Country":"Guinea Bissau",
     "Status":"Operating",
     "Dry":0.0,
     "Wet":0.0,
@@ -1936,7 +1936,7 @@
     "Unknown":0.0
   },
   {
-    "Country":"Guinea-Bissau",
+    "Country":"Guinea Bissau",
     "Status":"Mothballed or Retired",
     "Dry":0.0,
     "Wet":0.0,
@@ -1944,7 +1944,7 @@
     "Unknown":0.0
   },
   {
-    "Country":"Guinea-Bissau",
+    "Country":"Guinea Bissau",
     "Status":"Unknown",
     "Dry":0.0,
     "Wet":0.0,

@@ -45,7 +45,7 @@
             "20843113": {
         "title": "Green cement technology",
         "subtitle": "Cement capacity utilizing green cement technology, compared to total country cement capacity",
-        "x_axis": "Production/Technology",
+        "x_axis": "Green Cement Technology",
         "values": [
             "Cement Capacity"
         ],

@@ -1,0 +1,4678 @@
+[
+  {
+    "Country":"Afghanistan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.2,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Afghanistan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Afghanistan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Afghanistan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":7.5
+  },
+  {
+    "Country":"Albania",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.3,
+    "Unknown":3.4
+  },
+  {
+    "Country":"Albania",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Albania",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Albania",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Algeria",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":10.3,
+    "Unknown":2.0
+  },
+  {
+    "Country":"Algeria",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Algeria",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.8
+  },
+  {
+    "Country":"Algeria",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":20.2
+  },
+  {
+    "Country":"Angola",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Angola",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Angola",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Angola",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":9.5
+  },
+  {
+    "Country":"Argentina",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":16.3,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Argentina",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Argentina",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":7.9,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Argentina",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Armenia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.4
+  },
+  {
+    "Country":"Armenia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Armenia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Armenia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Australia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Australia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Australia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":1.5,
+    "Blended Cement":0.0,
+    "Unknown":4.9
+  },
+  {
+    "Country":"Australia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":3.4,
+    "Blended Cement":0.0,
+    "Unknown":8.4
+  },
+  {
+    "Country":"Austria",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.3,
+    "Unknown":2.1
+  },
+  {
+    "Country":"Austria",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Austria",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.1,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Austria",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.4
+  },
+  {
+    "Country":"Azerbaijan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":5.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Azerbaijan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Azerbaijan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Azerbaijan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.1
+  },
+  {
+    "Country":"Bahrain",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.8,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bahrain",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bahrain",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bahrain",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.0
+  },
+  {
+    "Country":"Bangladesh",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":28.3,
+    "Blended Cement":51.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bangladesh",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bangladesh",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bangladesh",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.9
+  },
+  {
+    "Country":"Barbados",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Barbados",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Barbados",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Barbados",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Belarus",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":5.2,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Belarus",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Belarus",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Belarus",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Belgium",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.8,
+    "Blended Cement":0.8,
+    "Unknown":9.2
+  },
+  {
+    "Country":"Belgium",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Belgium",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Belgium",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Benin",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.6
+  },
+  {
+    "Country":"Benin",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Benin",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Benin",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":5.0
+  },
+  {
+    "Country":"Bhutan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":2.3,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bhutan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bhutan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bhutan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bolivia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":8.7,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bolivia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bolivia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bolivia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bosnia and Herzegovina",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.5
+  },
+  {
+    "Country":"Bosnia and Herzegovina",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bosnia and Herzegovina",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bosnia and Herzegovina",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Botswana",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Botswana",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Botswana",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Botswana",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.2
+  },
+  {
+    "Country":"Brazil",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":37.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Brazil",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.1,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Brazil",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Brazil",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":4.2,
+    "Unknown":69.0
+  },
+  {
+    "Country":"Brunei",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Brunei",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Brunei",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Brunei",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.5
+  },
+  {
+    "Country":"Bulgaria",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":5.2
+  },
+  {
+    "Country":"Bulgaria",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bulgaria",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Bulgaria",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Burkina Faso",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.3,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Burkina Faso",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Burkina Faso",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Burkina Faso",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":3.2,
+    "Blended Cement":3.7,
+    "Unknown":1.3
+  },
+  {
+    "Country":"Burundi",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Burundi",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Burundi",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Burundi",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.9
+  },
+  {
+    "Country":"Cambodia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":2.0,
+    "Blended Cement":2.0,
+    "Unknown":3.0
+  },
+  {
+    "Country":"Cambodia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cambodia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cambodia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.2
+  },
+  {
+    "Country":"Cameroon",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.0,
+    "Unknown":2.8
+  },
+  {
+    "Country":"Cameroon",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cameroon",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cameroon",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":3.6,
+    "Unknown":3.0
+  },
+  {
+    "Country":"Canada",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":7.7
+  },
+  {
+    "Country":"Canada",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.6
+  },
+  {
+    "Country":"Canada",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Canada",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":6.0,
+    "Unknown":8.0
+  },
+  {
+    "Country":"Chad",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.5,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Chad",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Chad",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Chad",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.3
+  },
+  {
+    "Country":"Chile",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":9.7,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Chile",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Chile",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Chile",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"China",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1044.1,
+    "Blended Cement":59.9,
+    "Unknown":6.8
+  },
+  {
+    "Country":"China",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":3.7,
+    "Blended Cement":0.0,
+    "Unknown":0.3
+  },
+  {
+    "Country":"China",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.8,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"China",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":41.9,
+    "Blended Cement":2.2,
+    "Unknown":667.0
+  },
+  {
+    "Country":"Colombia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":15.2,
+    "Unknown":0.2
+  },
+  {
+    "Country":"Colombia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Colombia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.3,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Colombia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":4.2
+  },
+  {
+    "Country":"Costa Rica",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Costa Rica",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Costa Rica",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.8,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Costa Rica",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cote dIvoire",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.5,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cote dIvoire",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cote dIvoire",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cote dIvoire",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.0,
+    "Unknown":10.5
+  },
+  {
+    "Country":"Croatia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.7,
+    "Unknown":3.6
+  },
+  {
+    "Country":"Croatia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Croatia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Croatia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cuba",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":4.2,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cuba",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cuba",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.2,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cuba",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.2
+  },
+  {
+    "Country":"Cyprus",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.4
+  },
+  {
+    "Country":"Cyprus",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Cyprus",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.0
+  },
+  {
+    "Country":"Cyprus",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Czech Republic",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":4.9
+  },
+  {
+    "Country":"Czech Republic",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Czech Republic",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Czech Republic",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Denmark",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Denmark",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.4
+  },
+  {
+    "Country":"Denmark",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Denmark",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Djibouti",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Djibouti",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Djibouti",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Djibouti",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.1
+  },
+  {
+    "Country":"Dominican Republic",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.4,
+    "Blended Cement":9.5,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Dominican Republic",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Dominican Republic",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.5
+  },
+  {
+    "Country":"Dominican Republic",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.7
+  },
+  {
+    "Country":"DR Congo",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.4
+  },
+  {
+    "Country":"DR Congo",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"DR Congo",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"DR Congo",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":5.0
+  },
+  {
+    "Country":"Ecuador",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":8.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ecuador",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ecuador",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ecuador",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Egypt",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":16.6,
+    "Blended Cement":8.2,
+    "Unknown":42.2
+  },
+  {
+    "Country":"Egypt",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":3.9,
+    "Blended Cement":0.0,
+    "Unknown":0.4
+  },
+  {
+    "Country":"Egypt",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Egypt",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":22.6
+  },
+  {
+    "Country":"Ethiopia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":6.4,
+    "Unknown":8.3
+  },
+  {
+    "Country":"Ethiopia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ethiopia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ethiopia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":5.4
+  },
+  {
+    "Country":"El Salvador",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":3.7,
+    "Unknown":0.0
+  },
+  {
+    "Country":"El Salvador",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"El Salvador",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"El Salvador",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.3
+  },
+  {
+    "Country":"Eritrea",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.4,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Eritrea",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Eritrea",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Eritrea",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Estonia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.8
+  },
+  {
+    "Country":"Estonia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Estonia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Estonia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Eswatini",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Eswatini",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Eswatini",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Eswatini",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Fiji",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.3
+  },
+  {
+    "Country":"Fiji",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Fiji",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Fiji",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Finland",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.6
+  },
+  {
+    "Country":"Finland",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Finland",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Finland",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"France",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":16.3
+  },
+  {
+    "Country":"France",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.9
+  },
+  {
+    "Country":"France",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.4
+  },
+  {
+    "Country":"France",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.2,
+    "Blended Cement":0.5,
+    "Unknown":14.4
+  },
+  {
+    "Country":"French Guiana",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.2,
+    "Unknown":0.0
+  },
+  {
+    "Country":"French Guiana",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"French Guiana",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"French Guiana",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Gabon",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.7,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Gabon",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Gabon",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Gabon",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.8,
+    "Unknown":0.2
+  },
+  {
+    "Country":"Georgia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.6,
+    "Unknown":1.8
+  },
+  {
+    "Country":"Georgia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Georgia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Georgia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.2
+  },
+  {
+    "Country":"Germany",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.8,
+    "Blended Cement":10.3,
+    "Unknown":20.0
+  },
+  {
+    "Country":"Germany",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Germany",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Germany",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.0
+  },
+  {
+    "Country":"Ghana",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ghana",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ghana",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ghana",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.0,
+    "Unknown":10.8
+  },
+  {
+    "Country":"Greece",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Greece",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Greece",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.7,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Greece",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":13.8
+  },
+  {
+    "Country":"Guadeloupe",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guadeloupe",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guadeloupe",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guadeloupe",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guatemala",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":5.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guatemala",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guatemala",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guatemala",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guinea",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guinea",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guinea",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guinea",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.5
+  },
+  {
+    "Country":"Guinea Bissau",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.3,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guinea Bissau",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guinea Bissau",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Guinea Bissau",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Haiti",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Haiti",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Haiti",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Haiti",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.6
+  },
+  {
+    "Country":"Honduras",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":3.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Honduras",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Honduras",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Honduras",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Hong Kong",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":2.5,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Hong Kong",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Hong Kong",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Hong Kong",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Hungary",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.0,
+    "Unknown":4.0
+  },
+  {
+    "Country":"Hungary",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Hungary",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Hungary",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"India",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":205.9,
+    "Blended Cement":365.1,
+    "Unknown":176.5
+  },
+  {
+    "Country":"India",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":4.1,
+    "Blended Cement":0.0,
+    "Unknown":1.4
+  },
+  {
+    "Country":"India",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":1.8,
+    "Blended Cement":0.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"India",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":15.3
+  },
+  {
+    "Country":"Indonesia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":60.0,
+    "Blended Cement":34.4,
+    "Unknown":13.6
+  },
+  {
+    "Country":"Indonesia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":4.0,
+    "Blended Cement":18.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Indonesia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Indonesia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.3
+  },
+  {
+    "Country":"Iran",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.2,
+    "Blended Cement":1.5,
+    "Unknown":68.3
+  },
+  {
+    "Country":"Iran",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":1.1,
+    "Blended Cement":0.0,
+    "Unknown":1.2
+  },
+  {
+    "Country":"Iran",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.3,
+    "Unknown":2.4
+  },
+  {
+    "Country":"Iran",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":19.2
+  },
+  {
+    "Country":"Iraq",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":30.2,
+    "Blended Cement":0.0,
+    "Unknown":6.3
+  },
+  {
+    "Country":"Iraq",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.3
+  },
+  {
+    "Country":"Iraq",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Iraq",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":11.7
+  },
+  {
+    "Country":"Ireland",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":3.6,
+    "Unknown":1.4
+  },
+  {
+    "Country":"Ireland",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ireland",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.7
+  },
+  {
+    "Country":"Ireland",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Israel",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":7.0
+  },
+  {
+    "Country":"Israel",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Israel",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Israel",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Italy",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.1,
+    "Unknown":19.4
+  },
+  {
+    "Country":"Italy",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Italy",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.3,
+    "Unknown":1.3
+  },
+  {
+    "Country":"Italy",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":5.8
+  },
+  {
+    "Country":"Jamaica",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.8,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Jamaica",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Jamaica",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Jamaica",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Japan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":44.2,
+    "Blended Cement":8.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Japan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Japan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Japan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":14.2,
+    "Blended Cement":0.0,
+    "Unknown":1.6
+  },
+  {
+    "Country":"Jordan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.8,
+    "Blended Cement":0.0,
+    "Unknown":2.0
+  },
+  {
+    "Country":"Jordan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":1.8,
+    "Blended Cement":0.0,
+    "Unknown":0.3
+  },
+  {
+    "Country":"Jordan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":3.4,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Jordan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.0
+  },
+  {
+    "Country":"Kazakhstan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":12.4,
+    "Blended Cement":2.0,
+    "Unknown":3.6
+  },
+  {
+    "Country":"Kazakhstan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kazakhstan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kazakhstan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.3
+  },
+  {
+    "Country":"Kenya",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.0,
+    "Unknown":6.0
+  },
+  {
+    "Country":"Kenya",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kenya",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kenya",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.7,
+    "Unknown":4.2
+  },
+  {
+    "Country":"Kosovo",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.7
+  },
+  {
+    "Country":"Kosovo",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kosovo",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kosovo",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kuwait",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":3.3,
+    "Blended Cement":0.0,
+    "Unknown":0.2
+  },
+  {
+    "Country":"Kuwait",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kuwait",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":8.2,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kuwait",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kyrgyzstan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.5,
+    "Unknown":1.0
+  },
+  {
+    "Country":"Kyrgyzstan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kyrgyzstan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Kyrgyzstan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":4.0
+  },
+  {
+    "Country":"Laos",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Laos",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Laos",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Laos",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":18.1
+  },
+  {
+    "Country":"Latvia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.6,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Latvia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Latvia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Latvia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lebanon",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":4.4,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lebanon",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lebanon",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":2.8,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lebanon",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lesotho",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lesotho",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lesotho",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lesotho",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.2
+  },
+  {
+    "Country":"Liberia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Liberia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Liberia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Liberia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.5,
+    "Blended Cement":0.0,
+    "Unknown":1.0
+  },
+  {
+    "Country":"Libya",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":4.3,
+    "Blended Cement":2.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Libya",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Libya",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Libya",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":7.8
+  },
+  {
+    "Country":"Lithuania",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lithuania",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lithuania",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Lithuania",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Luxembourg",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Luxembourg",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Luxembourg",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Luxembourg",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Macao",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.6,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Macao",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Macao",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Macao",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Madagascar",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Madagascar",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Madagascar",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Madagascar",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.1
+  },
+  {
+    "Country":"Malawi",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.8,
+    "Unknown":1.3
+  },
+  {
+    "Country":"Malawi",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Malawi",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Malawi",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.3,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Malaysia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":12.0,
+    "Blended Cement":0.0,
+    "Unknown":2.0
+  },
+  {
+    "Country":"Malaysia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.4,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Malaysia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Malaysia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":18.6
+  },
+  {
+    "Country":"Mali",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mali",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mali",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mali",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.5,
+    "Blended Cement":0.8,
+    "Unknown":6.8
+  },
+  {
+    "Country":"Martinique",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Martinique",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Martinique",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Martinique",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mauritania",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mauritania",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mauritania",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mauritania",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":43.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":13.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.8
+  },
+  {
+    "Country":"Moldova",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.5,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Moldova",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Moldova",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Moldova",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.0
+  },
+  {
+    "Country":"Mongolia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":4.1,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mongolia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mongolia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mongolia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":1.0,
+    "Blended Cement":0.0,
+    "Unknown":1.3
+  },
+  {
+    "Country":"Montenegro",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Montenegro",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Montenegro",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Montenegro",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.8
+  },
+  {
+    "Country":"Morocco",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.4,
+    "Blended Cement":0.0,
+    "Unknown":25.9
+  },
+  {
+    "Country":"Morocco",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Morocco",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Morocco",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.4
+  },
+  {
+    "Country":"Mozambique",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.2,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mozambique",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mozambique",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Mozambique",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.0,
+    "Unknown":7.5
+  },
+  {
+    "Country":"Myanmar",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":8.0,
+    "Blended Cement":0.0,
+    "Unknown":4.5
+  },
+  {
+    "Country":"Myanmar",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Myanmar",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Myanmar",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":5.4
+  },
+  {
+    "Country":"Namibia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.0
+  },
+  {
+    "Country":"Namibia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Namibia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Namibia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.2
+  },
+  {
+    "Country":"Nepal",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":23.1,
+    "Blended Cement":0.3,
+    "Unknown":2.3
+  },
+  {
+    "Country":"Nepal",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Nepal",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Nepal",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.6,
+    "Blended Cement":0.0,
+    "Unknown":2.5
+  },
+  {
+    "Country":"Netherlands",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.2,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Netherlands",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Netherlands",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Netherlands",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"New Caledonia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"New Caledonia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"New Caledonia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"New Caledonia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.2
+  },
+  {
+    "Country":"New Zealand",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"New Zealand",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"New Zealand",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"New Zealand",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Nicaragua",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Nicaragua",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Nicaragua",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Nicaragua",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Niger",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.6
+  },
+  {
+    "Country":"Niger",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Niger",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Niger",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.7
+  },
+  {
+    "Country":"Nigeria",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":26.5,
+    "Unknown":45.6
+  },
+  {
+    "Country":"Nigeria",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Nigeria",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Nigeria",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":15.2
+  },
+  {
+    "Country":"North Korea",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"North Korea",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"North Korea",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"North Korea",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":9.7
+  },
+  {
+    "Country":"North Macedonia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.9
+  },
+  {
+    "Country":"North Macedonia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"North Macedonia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"North Macedonia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Norway",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.7
+  },
+  {
+    "Country":"Norway",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Norway",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Norway",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Oman",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":2.5,
+    "Blended Cement":0.0,
+    "Unknown":3.0
+  },
+  {
+    "Country":"Oman",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Oman",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Oman",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.9
+  },
+  {
+    "Country":"Pakistan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":75.6,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Pakistan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Pakistan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":12.9,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Pakistan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":4.0
+  },
+  {
+    "Country":"Panama",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Panama",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Panama",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.8,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Panama",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Papua New Guinea",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.2,
+    "Blended Cement":0.0,
+    "Unknown":0.9
+  },
+  {
+    "Country":"Papua New Guinea",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Papua New Guinea",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Papua New Guinea",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Paraguay",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":3.5,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Paraguay",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Paraguay",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Paraguay",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Peru",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":13.2,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Peru",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Peru",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":4.2,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Peru",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.4
+  },
+  {
+    "Country":"Philippines",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":20.2,
+    "Blended Cement":15.9,
+    "Unknown":4.8
+  },
+  {
+    "Country":"Philippines",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Philippines",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Philippines",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":10.1
+  },
+  {
+    "Country":"Poland",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":10.6,
+    "Unknown":10.4
+  },
+  {
+    "Country":"Poland",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Poland",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Poland",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.7
+  },
+  {
+    "Country":"Portugal",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":11.8,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Portugal",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Portugal",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Portugal",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.9
+  },
+  {
+    "Country":"Puerto Rico",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Puerto Rico",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Puerto Rico",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Puerto Rico",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Qatar",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":5.7,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Qatar",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.2,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Qatar",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":5.3
+  },
+  {
+    "Country":"Qatar",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.9
+  },
+  {
+    "Country":"Republic of the Congo",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Republic of the Congo",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Republic of the Congo",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Republic of the Congo",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.5,
+    "Unknown":3.4
+  },
+  {
+    "Country":"Reunion",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Reunion",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Reunion",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Reunion",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.5,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Romania",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.5,
+    "Unknown":13.9
+  },
+  {
+    "Country":"Romania",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Romania",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Romania",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Russia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":60.4,
+    "Blended Cement":7.4,
+    "Unknown":24.1
+  },
+  {
+    "Country":"Russia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.2,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Russia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":2.3,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Russia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.4
+  },
+  {
+    "Country":"Rwanda",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Rwanda",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Rwanda",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Rwanda",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.6,
+    "Unknown":1.1
+  },
+  {
+    "Country":"Samoa",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Samoa",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Samoa",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Samoa",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Saudi Arabia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":69.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Saudi Arabia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Saudi Arabia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":13.9,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Saudi Arabia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Senegal",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.5,
+    "Unknown":3.5
+  },
+  {
+    "Country":"Senegal",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Senegal",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Senegal",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.0
+  },
+  {
+    "Country":"Serbia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.1,
+    "Unknown":1.0
+  },
+  {
+    "Country":"Serbia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Serbia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Serbia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sierra Leone",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sierra Leone",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sierra Leone",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sierra Leone",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.8
+  },
+  {
+    "Country":"Slovakia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.5,
+    "Unknown":1.0
+  },
+  {
+    "Country":"Slovakia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Slovakia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.5
+  },
+  {
+    "Country":"Slovakia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Slovenia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.8
+  },
+  {
+    "Country":"Slovenia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Slovenia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Slovenia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"South Africa",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.2,
+    "Blended Cement":0.0,
+    "Unknown":10.1
+  },
+  {
+    "Country":"South Africa",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"South Africa",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"South Africa",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":11.5
+  },
+  {
+    "Country":"South Korea",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":52.4,
+    "Blended Cement":13.2,
+    "Unknown":11.8
+  },
+  {
+    "Country":"South Korea",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.2,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"South Korea",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"South Korea",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":5.6
+  },
+  {
+    "Country":"Spain",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":41.8,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Spain",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.9,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Spain",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":6.1,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Spain",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.2
+  },
+  {
+    "Country":"Sri Lanka",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":6.8,
+    "Blended Cement":2.7,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sri Lanka",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sri Lanka",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sri Lanka",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.8
+  },
+  {
+    "Country":"Sudan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sudan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sudan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sudan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":2.0,
+    "Unknown":7.8
+  },
+  {
+    "Country":"Suriname",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.2,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Suriname",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Suriname",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Suriname",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sweden",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.7,
+    "Blended Cement":0.0,
+    "Unknown":2.5
+  },
+  {
+    "Country":"Sweden",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sweden",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Sweden",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Switzerland",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.1,
+    "Unknown":0.9
+  },
+  {
+    "Country":"Switzerland",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Switzerland",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Switzerland",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.4
+  },
+  {
+    "Country":"Syria",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":3.2,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Syria",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Syria",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Syria",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":9.6
+  },
+  {
+    "Country":"Taiwan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":8.3,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Taiwan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Taiwan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Taiwan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":4.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Tajikistan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":2.4,
+    "Blended Cement":1.1,
+    "Unknown":2.3
+  },
+  {
+    "Country":"Tajikistan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Tajikistan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Tajikistan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.5
+  },
+  {
+    "Country":"Tanzania",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":6.7
+  },
+  {
+    "Country":"Tanzania",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Tanzania",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Tanzania",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":4.1
+  },
+  {
+    "Country":"Thailand",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":7.3,
+    "Blended Cement":16.3,
+    "Unknown":34.7
+  },
+  {
+    "Country":"Thailand",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":2.5,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Thailand",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Thailand",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Togo",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Togo",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Togo",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Togo",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.1
+  },
+  {
+    "Country":"Trinidad and Tobago",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Trinidad and Tobago",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Trinidad and Tobago",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Trinidad and Tobago",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Tunisia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":3.6,
+    "Blended Cement":0.6,
+    "Unknown":8.4
+  },
+  {
+    "Country":"Tunisia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.6
+  },
+  {
+    "Country":"Tunisia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Tunisia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.7
+  },
+  {
+    "Country":"Turkiye",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":15.8,
+    "Blended Cement":4.1,
+    "Unknown":90.2
+  },
+  {
+    "Country":"Turkiye",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.3
+  },
+  {
+    "Country":"Turkiye",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":2.1,
+    "Blended Cement":6.7,
+    "Unknown":8.1
+  },
+  {
+    "Country":"Turkiye",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.8,
+    "Unknown":12.3
+  },
+  {
+    "Country":"Turkmenistan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.7,
+    "Blended Cement":0.0,
+    "Unknown":5.0
+  },
+  {
+    "Country":"Turkmenistan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Turkmenistan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Turkmenistan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Uganda",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.8
+  },
+  {
+    "Country":"Uganda",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Uganda",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Uganda",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":7.4
+  },
+  {
+    "Country":"Ukraine",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.3,
+    "Blended Cement":9.0,
+    "Unknown":4.9
+  },
+  {
+    "Country":"Ukraine",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ukraine",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Ukraine",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":4.4
+  },
+  {
+    "Country":"United Arab Emirates",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":17.2,
+    "Blended Cement":1.3,
+    "Unknown":11.6
+  },
+  {
+    "Country":"United Arab Emirates",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"United Arab Emirates",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":4.6
+  },
+  {
+    "Country":"United Arab Emirates",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":8.9
+  },
+  {
+    "Country":"United Kingdom",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.4,
+    "Blended Cement":0.1,
+    "Unknown":5.1
+  },
+  {
+    "Country":"United Kingdom",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"United Kingdom",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":1.8
+  },
+  {
+    "Country":"United Kingdom",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.2,
+    "Unknown":4.4
+  },
+  {
+    "Country":"United States",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":4.2,
+    "Blended Cement":83.8,
+    "Unknown":5.1
+  },
+  {
+    "Country":"United States",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.3,
+    "Unknown":0.0
+  },
+  {
+    "Country":"United States",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":3.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"United States",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":6.1
+  },
+  {
+    "Country":"Uruguay",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.1,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Uruguay",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Uruguay",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Uruguay",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.5
+  },
+  {
+    "Country":"Uzbekistan",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":5.8,
+    "Blended Cement":13.1,
+    "Unknown":3.3
+  },
+  {
+    "Country":"Uzbekistan",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Uzbekistan",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":1.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Uzbekistan",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":5.5
+  },
+  {
+    "Country":"Venezuela",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":11.8,
+    "Blended Cement":0.6,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Venezuela",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.5,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Venezuela",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Venezuela",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Vietnam",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":9.6,
+    "Blended Cement":101.4,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Vietnam",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.1,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Vietnam",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.2,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Vietnam",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":4.5,
+    "Blended Cement":9.4,
+    "Unknown":43.3
+  },
+  {
+    "Country":"Western Sahara",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":0.5,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Western Sahara",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Western Sahara",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Western Sahara",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.7
+  },
+  {
+    "Country":"Yemen",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":3.3,
+    "Blended Cement":0.0,
+    "Unknown":1.6
+  },
+  {
+    "Country":"Yemen",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Yemen",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Yemen",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":2.8
+  },
+  {
+    "Country":"Zambia",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.7,
+    "Blended Cement":0.0,
+    "Unknown":2.6
+  },
+  {
+    "Country":"Zambia",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Zambia",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Zambia",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.5
+  },
+  {
+    "Country":"Zimbabwe",
+    "Cement Color":"Grey",
+    "Ordinary Portland Cement":1.0,
+    "Blended Cement":0.2,
+    "Unknown":0.8
+  },
+  {
+    "Country":"Zimbabwe",
+    "Cement Color":"White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Zimbabwe",
+    "Cement Color":"Grey and White",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":0.0
+  },
+  {
+    "Country":"Zimbabwe",
+    "Cement Color":"Unknown",
+    "Ordinary Portland Cement":0.0,
+    "Blended Cement":0.0,
+    "Unknown":3.1
+  }
+]

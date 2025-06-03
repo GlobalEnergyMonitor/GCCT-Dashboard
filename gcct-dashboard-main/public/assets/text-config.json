@@ -4,7 +4,6 @@
   "dropdown_label": "Select a country, area or grouping: ",
   "no_data": "No data available for {{selected}}",
   "dropdown": [
-    [
       {
         "Country": "Afghanistan"
       },
@@ -507,5 +506,4 @@
         "Country": "Zimbabwe"
       }
     ]
-  ]  
 }

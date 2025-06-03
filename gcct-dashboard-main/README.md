@@ -1,5 +1,5 @@
 # moved test data files into test data folder
-Josh moved test datasets into new folder and started creating new datasets for the final dashboard data on 6/3/25
+Josh moved test datasets into new folder and started creating new datasets for the final dashboard data, then created new data files to go with the final dashboard visuals on 6/3/25
 
 # Test dashboard created
 Code updated and test dashboard created on local machine by Josh on 1/7/2024. Only the data ticker works, charts are not loading at all.

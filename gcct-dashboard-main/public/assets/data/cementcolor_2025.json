@@ -1,1 +1,2676 @@
+[
 
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 5.5,
+    "Country": "Afghanistan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.7,
+    "Country": "Afghanistan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Albania"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Albania"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 12.3,
+    "White": 0.0,
+    "Grey and White": 3.8,
+    "Unknown": 19.8,
+    "Country": "Algeria"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 10.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 9.1,
+    "Country": "Algeria"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 7.8,
+    "Country": "Angola"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 5.6,
+    "Country": "Angola"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 16.3,
+    "White": 0.0,
+    "Grey and White": 7.9,
+    "Unknown": 0.0,
+    "Country": "Argentina"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 6.0,
+    "White": 0.0,
+    "Grey and White": 1.1,
+    "Unknown": 0.0,
+    "Country": "Argentina"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Armenia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Armenia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 6.4,
+    "Unknown": 11.7,
+    "Country": "Australia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 2.9,
+    "Unknown": 0.0,
+    "Country": "Australia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 4.4,
+    "White": 0.0,
+    "Grey and White": 1.1,
+    "Unknown": 0.4,
+    "Country": "Austria"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.8,
+    "White": 0.0,
+    "Grey and White": 1.0,
+    "Unknown": 0.0,
+    "Country": "Austria"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.1,
+    "Country": "Azerbaijan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 4.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Azerbaijan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.0,
+    "Country": "Bahrain"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Bahrain"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 79.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.9,
+    "Country": "Bangladesh"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 4.4,
+    "Country": "Bangladesh"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Barbados"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Barbados"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Belarus"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Belarus"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 10.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Belgium"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 5.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Belgium"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 5.0,
+    "Country": "Benin"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.8,
+    "Country": "Benin"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Bhutan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Bhutan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 8.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Bolivia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Bolivia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Bosnia and Herzegovina"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Bosnia and Herzegovina"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.2,
+    "Country": "Botswana"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Botswana"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 37.6,
+    "White": 0.1,
+    "Grey and White": 0.0,
+    "Unknown": 67.2,
+    "Country": "Brazil"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 9.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 19.3,
+    "Country": "Brazil"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.5,
+    "Country": "Brunei"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Brunei"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Bulgaria"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Bulgaria"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 8.2,
+    "Country": "Burkina Faso"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Burkina Faso"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.9,
+    "Country": "Burundi"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.0,
+    "Country": "Burundi"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 7.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.2,
+    "Country": "Cambodia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.8,
+    "Country": "Cambodia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 6.6,
+    "Country": "Cameroon"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Cameroon"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 7.7,
+    "White": 2.6,
+    "Grey and White": 0.0,
+    "Unknown": 13.9,
+    "Country": "Canada"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 3.3,
+    "White": 1.8,
+    "Grey and White": 0.0,
+    "Unknown": 5.7,
+    "Country": "Canada"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.2,
+    "Country": "Chad"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Chad"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 8.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Chile"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Chile"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1104.8,
+    "White": 4.0,
+    "Grey and White": 0.8,
+    "Unknown": 662.4,
+    "Country": "China"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 869.5,
+    "White": 0.6,
+    "Grey and White": 0.0,
+    "Unknown": 476.1,
+    "Country": "China"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 15.1,
+    "White": 0.0,
+    "Grey and White": 1.3,
+    "Unknown": 4.2,
+    "Country": "Colombia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Colombia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.4,
+    "White": 0.0,
+    "Grey and White": 1.8,
+    "Unknown": 0.0,
+    "Country": "Costa Rica"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Costa Rica"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": "",
+    "White": "",
+    "Grey and White": "",
+    "Unknown": "",
+    "Country": "Cote d'Ivoire"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": "",
+    "White": "",
+    "Grey and White": "",
+    "Unknown": "",
+    "Country": "Cote d'Ivoire"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 4.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Croatia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Croatia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 4.2,
+    "White": 0.0,
+    "Grey and White": 0.1,
+    "Unknown": 1.2,
+    "Country": "Cuba"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 4.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Cuba"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.5,
+    "White": 0.0,
+    "Grey and White": 2.0,
+    "Unknown": 0.0,
+    "Country": "Cyprus"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 2.2,
+    "Unknown": 0.0,
+    "Country": "Cyprus"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 4.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Czech Republic"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Czech Republic"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 2.4,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Denmark"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 1.6,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Denmark"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.1,
+    "Country": "Djibouti"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Djibouti"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 9.9,
+    "White": 0.0,
+    "Grey and White": 0.5,
+    "Unknown": 1.2,
+    "Country": "Dominican Republic"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Dominican Republic"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 4.7,
+    "Country": "DR Congo"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.8,
+    "Country": "DR Congo"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 8.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Ecuador"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Ecuador"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 67.0,
+    "White": 4.3,
+    "Grey and White": 0.0,
+    "Unknown": 22.6,
+    "Country": "Egypt"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 38.5,
+    "White": 0.8,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Egypt"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 14.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 5.4,
+    "Country": "Ethiopia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 9.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.6,
+    "Country": "Ethiopia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.3,
+    "Country": "El Salvador"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "El Salvador"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Eritrea"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Eritrea"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Estonia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Estonia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Eswatini"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Eswatini"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Fiji"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Fiji"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.2,
+    "Country": "Finland"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Finland"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 16.3,
+    "White": 0.9,
+    "Grey and White": 0.5,
+    "Unknown": 15.8,
+    "Country": "France"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 3.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.6,
+    "Country": "France"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "French Guiana"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "French Guiana"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.0,
+    "Country": "Gabon"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.9,
+    "Country": "Gabon"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.2,
+    "Country": "Georgia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Georgia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 32.0,
+    "White": 0.0,
+    "Grey and White": 0.9,
+    "Unknown": 3.7,
+    "Country": "Germany"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 20.2,
+    "White": 0.0,
+    "Grey and White": 1.8,
+    "Unknown": 0.0,
+    "Country": "Germany"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 12.8,
+    "Country": "Ghana"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.4,
+    "Country": "Ghana"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.7,
+    "Unknown": 13.8,
+    "Country": "Greece"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Greece"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Guadeloupe"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Guadeloupe"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.6,
+    "Country": "Guatemala"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 3.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Guatemala"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.7,
+    "Country": "Guinea"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.7,
+    "Country": "Guinea"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Guinea-Bissau"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Guinea-Bissau"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Haiti"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Haiti"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Honduras"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Honduras"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Hong Kong"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Hong Kong"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Hungary"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 3.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Hungary"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 747.5,
+    "White": 5.5,
+    "Grey and White": 2.2,
+    "Unknown": 11.6,
+    "Country": "India"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 392.0,
+    "White": 0.0,
+    "Grey and White": 2.0,
+    "Unknown": 9.8,
+    "Country": "India"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 108.0,
+    "White": 22.6,
+    "Grey and White": 0.0,
+    "Unknown": 4.0,
+    "Country": "Indonesia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 34.8,
+    "White": 16.8,
+    "Grey and White": 0.0,
+    "Unknown": 2.2,
+    "Country": "Indonesia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 71.0,
+    "White": 2.2,
+    "Grey and White": 2.4,
+    "Unknown": 14.1,
+    "Country": "Iran"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 38.5,
+    "White": 2.1,
+    "Grey and White": 5.0,
+    "Unknown": 0.9,
+    "Country": "Iran"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 36.0,
+    "White": 0.3,
+    "Grey and White": 0.0,
+    "Unknown": 11.7,
+    "Country": "Iraq"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 31.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Iraq"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.0,
+    "White": 0.0,
+    "Grey and White": 0.7,
+    "Unknown": 0.6,
+    "Country": "Ireland"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Ireland"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 6.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Israel"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 4.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Israel"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 20.5,
+    "White": 0.0,
+    "Grey and White": 1.6,
+    "Unknown": 0.0,
+    "Country": "Italy"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 14.4,
+    "White": 0.0,
+    "Grey and White": 1.3,
+    "Unknown": 0.0,
+    "Country": "Italy"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Jamaica"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Jamaica"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 52.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 14.2,
+    "Country": "Japan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 39.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 14.3,
+    "Country": "Japan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.8,
+    "White": 2.1,
+    "Grey and White": 3.4,
+    "Unknown": 0.0,
+    "Country": "Jordan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.8,
+    "White": 0.0,
+    "Grey and White": 2.0,
+    "Unknown": 0.0,
+    "Country": "Jordan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 17.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.3,
+    "Country": "Kazakhstan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.7,
+    "Country": "Kazakhstan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 8.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 6.9,
+    "Country": "Kenya"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 5.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Kenya"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Kosovo"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Kosovo"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.3,
+    "White": 0.0,
+    "Grey and White": 8.2,
+    "Unknown": 0.0,
+    "Country": "Kuwait"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 5.0,
+    "Unknown": 0.0,
+    "Country": "Kuwait"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 4.0,
+    "Country": "Kyrgyzstan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.2,
+    "Country": "Kyrgyzstan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 16.7,
+    "Country": "Laos"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.6,
+    "Country": "Laos"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Latvia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Latvia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 4.3,
+    "White": 0.0,
+    "Grey and White": 2.8,
+    "Unknown": 0.0,
+    "Country": "Lebanon"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 3.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Lebanon"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.2,
+    "Country": "Lesotho"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Lesotho"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.4,
+    "Country": "Liberia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Liberia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 6.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 5.0,
+    "Country": "Libya"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 3.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Libya"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Lithuania"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Lithuania"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Luxembourg"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Luxembourg"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Macao"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Macao"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.7,
+    "Country": "Madagascar"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.1,
+    "Country": "Madagascar"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.3,
+    "Country": "Malawi"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Malawi"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 13.9,
+    "White": 0.4,
+    "Grey and White": 0.0,
+    "Unknown": 18.6,
+    "Country": "Malaysia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 12.3,
+    "White": 0.4,
+    "Grey and White": 0.0,
+    "Unknown": 12.8,
+    "Country": "Malaysia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 8.1,
+    "Country": "Mali"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Mali"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Martinique"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Martinique"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Mauritania"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Mauritania"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 43.6,
+    "White": 0.0,
+    "Grey and White": 13.0,
+    "Unknown": 1.1,
+    "Country": "Mexico"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.3,
+    "White": 0.0,
+    "Grey and White": 1.4,
+    "Unknown": 1.1,
+    "Country": "Mexico"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.0,
+    "Country": "Moldova"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.0,
+    "Country": "Moldova"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 4.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.3,
+    "Country": "Mongolia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 3.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Mongolia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.8,
+    "Country": "Montenegro"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Montenegro"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 27.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.3,
+    "Country": "Morocco"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 7.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Morocco"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 8.2,
+    "Country": "Mozambique"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.1,
+    "Country": "Mozambique"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 12.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 5.1,
+    "Country": "Myanmar"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 10.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.9,
+    "Country": "Myanmar"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.2,
+    "Country": "Namibia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Namibia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 25.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.2,
+    "Country": "Nepal"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 17.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 4.1,
+    "Country": "Nepal"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.6,
+    "Country": "Netherlands"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Netherlands"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.2,
+    "Country": "New Caledonia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "New Caledonia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "New Zealand"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "New Zealand"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Nicaragua"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Nicaragua"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.7,
+    "Country": "Niger"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Niger"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 72.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 15.2,
+    "Country": "Nigeria"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 12.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Nigeria"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 9.7,
+    "Country": "North Korea"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "North Korea"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "North Macedonia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "North Macedonia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Norway"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Norway"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.6,
+    "Country": "Oman"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 5.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Oman"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 75.6,
+    "White": 0.1,
+    "Grey and White": 12.9,
+    "Unknown": 4.0,
+    "Country": "Pakistan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 73.3,
+    "White": 0.1,
+    "Grey and White": 14.5,
+    "Unknown": 4.0,
+    "Country": "Pakistan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.4,
+    "White": 0.0,
+    "Grey and White": 0.8,
+    "Unknown": 0.0,
+    "Country": "Panama"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Panama"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Papua New Guinea"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Papua New Guinea"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Paraguay"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Paraguay"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 13.2,
+    "White": 0.0,
+    "Grey and White": 4.2,
+    "Unknown": 1.4,
+    "Country": "Peru"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 9.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Peru"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 41.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 10.1,
+    "Country": "Philippines"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 17.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Philippines"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 21.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Poland"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 7.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Poland"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 11.8,
+    "White": 0.0,
+    "Grey and White": 1.0,
+    "Unknown": 0.0,
+    "Country": "Portugal"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 5.4,
+    "White": 0.0,
+    "Grey and White": 0.8,
+    "Unknown": 0.0,
+    "Country": "Portugal"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Puerto Rico"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Puerto Rico"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.7,
+    "White": 0.2,
+    "Grey and White": 5.3,
+    "Unknown": 0.9,
+    "Country": "Qatar"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 4.4,
+    "White": 0.0,
+    "Grey and White": 4.0,
+    "Unknown": 0.0,
+    "Country": "Qatar"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.9,
+    "Country": "Republic of the Congo"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.7,
+    "Country": "Republic of the Congo"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": "",
+    "White": "",
+    "Grey and White": "",
+    "Unknown": "",
+    "Country": "Reunion"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": "",
+    "White": "",
+    "Grey and White": "",
+    "Unknown": "",
+    "Country": "Reunion"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 16.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Romania"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 6.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Romania"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 88.3,
+    "White": 0.2,
+    "Grey and White": 2.3,
+    "Unknown": 2.8,
+    "Country": "Russia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 25.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Russia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.6,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.6,
+    "Country": "Rwanda"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Rwanda"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Samoa"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Samoa"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 69.0,
+    "White": 0.0,
+    "Grey and White": 13.9,
+    "Unknown": 0.0,
+    "Country": "Saudi Arabia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 50.9,
+    "White": 0.3,
+    "Grey and White": 7.4,
+    "Unknown": 0.0,
+    "Country": "Saudi Arabia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.0,
+    "Country": "Senegal"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 3.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.1,
+    "Country": "Senegal"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Serbia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Serbia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.8,
+    "Country": "Sierra Leone"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Sierra Leone"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.5,
+    "White": 0.0,
+    "Grey and White": 1.5,
+    "Unknown": 0.0,
+    "Country": "Slovakia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Slovakia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Slovenia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Slovenia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 11.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 11.5,
+    "Country": "South Africa"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 10.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.4,
+    "Country": "South Africa"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 79.0,
+    "White": 0.2,
+    "Grey and White": 0.0,
+    "Unknown": 5.6,
+    "Country": "South Korea"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 50.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "South Korea"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 41.8,
+    "White": 0.9,
+    "Grey and White": 6.1,
+    "Unknown": 0.3,
+    "Country": "Spain"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 22.5,
+    "White": 0.7,
+    "Grey and White": 5.7,
+    "Unknown": 0.0,
+    "Country": "Spain"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 9.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Sri Lanka"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Sri Lanka"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 9.8,
+    "Country": "Sudan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.5,
+    "Country": "Sudan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Suriname"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Suriname"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.2,
+    "Country": "Sweden"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Sweden"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 2.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.4,
+    "Country": "Switzerland"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.3,
+    "Country": "Switzerland"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 3.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.5,
+    "Country": "Syria"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 1.2,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Syria"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 8.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 4.0,
+    "Country": "Taiwan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Taiwan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 4.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.5,
+    "Country": "Tajikistan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Tajikistan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 6.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 4.1,
+    "Country": "Tanzania"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.4,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.5,
+    "Country": "Tanzania"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 58.4,
+    "White": 2.5,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Thailand"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 49.0,
+    "White": 2.3,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Thailand"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.1,
+    "Country": "Togo"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.5,
+    "Country": "Togo"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Trinidad and Tobago"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Trinidad and Tobago"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 12.5,
+    "White": 0.7,
+    "Grey and White": 0.0,
+    "Unknown": 1.5,
+    "Country": "Tunisia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 8.2,
+    "White": 0.7,
+    "Grey and White": 0.0,
+    "Unknown": 1.2,
+    "Country": "Tunisia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": "",
+    "White": "",
+    "Grey and White": "",
+    "Unknown": "",
+    "Country": "Turkiye"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": "",
+    "White": "",
+    "Grey and White": "",
+    "Unknown": "",
+    "Country": "Turkiye"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.7,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Turkmenistan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 2.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Turkmenistan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.8,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 7.4,
+    "Country": "Uganda"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.2,
+    "Country": "Uganda"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 15.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Ukraine"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 6.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Ukraine"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 30.1,
+    "White": 0.0,
+    "Grey and White": 4.6,
+    "Unknown": 8.9,
+    "Country": "United Arab Emirates"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 20.1,
+    "White": 0.0,
+    "Grey and White": 1.7,
+    "Unknown": 3.3,
+    "Country": "United Arab Emirates"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 5.7,
+    "White": 0.0,
+    "Grey and White": 1.8,
+    "Unknown": 6.4,
+    "Country": "United Kingdom"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 4.9,
+    "White": 0.0,
+    "Grey and White": 1.5,
+    "Unknown": 3.4,
+    "Country": "United Kingdom"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 93.1,
+    "White": 0.3,
+    "Grey and White": 3.0,
+    "Unknown": 6.5,
+    "Country": "United States"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 70.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.9,
+    "Country": "United States"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Uruguay"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Uruguay"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 22.2,
+    "White": 0.0,
+    "Grey and White": 1.4,
+    "Unknown": 5.5,
+    "Country": "Uzbekistan"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 13.6,
+    "White": 0.0,
+    "Grey and White": 1.5,
+    "Unknown": 4.1,
+    "Country": "Uzbekistan"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 12.5,
+    "White": 0.5,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Venezuela"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Venezuela"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 111.1,
+    "White": 0.1,
+    "Grey and White": 0.2,
+    "Unknown": 55.5,
+    "Country": "Vietnam"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 93.0,
+    "White": 0.1,
+    "Grey and White": 0.0,
+    "Unknown": 16.6,
+    "Country": "Vietnam"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 0.5,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.7,
+    "Country": "Western Sahara"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Western Sahara"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 4.9,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 2.8,
+    "Country": "Yemen"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 1.3,
+    "Country": "Yemen"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 4.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.5,
+    "Country": "Zambia"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.0,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Zambia"
+  },
+  {
+    "Capacity": "Cement Capacity",
+    "Grey": 1.1,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 3.1,
+    "Country": "Zimbabwe"
+  },
+  {
+    "Capacity": "Clinker Capacity",
+    "Grey": 0.3,
+    "White": 0.0,
+    "Grey and White": 0.0,
+    "Unknown": 0.0,
+    "Country": "Zimbabwe"
+  }
+
+]

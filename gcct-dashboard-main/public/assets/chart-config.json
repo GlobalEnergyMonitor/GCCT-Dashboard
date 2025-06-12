@@ -20,7 +20,6 @@
         "values": [
             "OPC",
             "Blended",
-            "Blast Furnace Slag",
             "Unknown"
         ],
         "dataset": "cem_type_062025",
@@ -31,7 +30,7 @@
     "23588397": {
         "title": "Operating cement capacity by plant age",
         "subtitle": "Distribution of plant ages weighted by capacity in million tonnes per annum (mtpa) of each plant, compared to that of the entire world. Cement plant age is the amount of time a plant has been operating in its specific location, and does not represent the age of the machinery at the given plant. Although GEM does not currently track limestone reserves, cement plant age can be representative of the amount of time that a given plant has been extracting limestone in its local market, as well as the maturity of a country's cement industry.",
-        "x_axis": "Age (years)",
+        "x_axis": "Age",
         "values": [
             "Age",
             "Country",

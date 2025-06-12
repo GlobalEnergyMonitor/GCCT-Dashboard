@@ -1,2003 +1,2337 @@
 [
  {
+   "Country": "Afghanistan",
    "Capacity": "Integrated Capacity",
    "OPC": 0.15,
    "Blended": 0,
    "Unknown": 2.01
  },
  {
+   "Country": "Afghanistan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Albania",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 3.3
  },
  {
+   "Country": "Albania",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.32,
    "Unknown": 0.1
  },
  {
+   "Country": "Algeria",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 7.8,
    "Unknown": 22.8
  },
  {
+   "Country": "Algeria",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 2.5,
    "Unknown": 0
  },
  {
+   "Country": "Angola",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1.4,
    "Unknown": 7.4
  },
  {
+   "Country": "Angola",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.35
  },
  {
+   "Country": "Argentina",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 20.72,
    "Unknown": 0
  },
  {
+   "Country": "Argentina",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 3.45,
    "Unknown": 0
  },
  {
+   "Country": "Armenia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.2
  },
  {
+   "Country": "Armenia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Australia",
    "Capacity": "Integrated Capacity",
    "OPC": 1.5,
    "Blended": 0,
    "Unknown": 4.88
  },
  {
+   "Country": "Australia",
    "Capacity": "Grinding Capacity",
    "OPC": 2,
    "Blended": 0,
    "Unknown": 8.05
  },
  {
+   "Country": "Austria",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 3.4,
    "Unknown": 2.13
  },
  {
+   "Country": "Austria",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.4
  },
  {
+   "Country": "Azerbaijan",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 5.4,
    "Unknown": 0
  },
  {
+   "Country": "Azerbaijan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.07
  },
  {
+   "Country": "Bahrain",
    "Capacity": "Integrated Capacity",
    "OPC": 0.8,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Bahrain",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1
  },
  {
+   "Country": "Bangladesh",
    "Capacity": "Integrated Capacity",
    "OPC": 0.23,
    "Blended": 1.45,
    "Unknown": 1.1
  },
  {
+   "Country": "Bangladesh",
    "Capacity": "Grinding Capacity",
    "OPC": 28.11,
    "Blended": 49.6,
    "Unknown": 1.8
  },
  {
+   "Country": "Barbados",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Barbados",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.36,
    "Unknown": 0
  },
  {
+   "Country": "Belarus",
    "Capacity": "Integrated Capacity",
    "OPC": 5.2,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Belarus",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Belgium",
    "Capacity": "Integrated Capacity",
    "OPC": 0.8,
    "Blended": 0,
    "Unknown": 5.5
  },
  {
+   "Country": "Belgium",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.75,
    "Unknown": 3.7
  },
  {
+   "Country": "Benin",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 4.3
  },
  {
+   "Country": "Benin",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.3
  },
  {
+   "Country": "Bhutan",
    "Capacity": "Integrated Capacity",
    "OPC": 2.33,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Bhutan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Bolivia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 7.75,
    "Unknown": 0
  },
  {
+   "Country": "Bolivia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.98,
    "Unknown": 0
  },
  {
+   "Country": "Bosnia and Herzegovina",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.47
  },
  {
+   "Country": "Bosnia and Herzegovina",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Botswana",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Botswana",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.4
  },
  {
+   "Country": "Brazil",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 37.97,
    "Unknown": 55.3
  },
  {
+   "Country": "Brazil",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 3.46,
    "Unknown": 4.86
  },
  {
+   "Country": "Brunei",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Brunei",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.5
  },
  {
+   "Country": "Bulgaria",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 4.7
  },
  {
+   "Country": "Bulgaria",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.5
  },
  {
+   "Country": "Burkina Faso",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.3,
    "Unknown": 0
  },
  {
+   "Country": "Burkina Faso",
    "Capacity": "Grinding Capacity",
    "OPC": 3.2,
    "Blended": 3.7,
    "Unknown": 0.6
  },
  {
+   "Country": "Burundi",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.6
  },
  {
+   "Country": "Burundi",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.33
  },
  {
+   "Country": "Cambodia",
    "Capacity": "Integrated Capacity",
    "OPC": 2,
    "Blended": 2,
    "Unknown": 6.2
  },
  {
+   "Country": "Cambodia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Cameroon",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1,
    "Unknown": 1.6
  },
  {
+   "Country": "Cameroon",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 3.6,
    "Unknown": 2
  },
  {
+   "Country": "Canada",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 4.5,
    "Unknown": 17.92
  },
  {
+   "Country": "Canada",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.46,
    "Unknown": 0.32
  },
  {
+   "Country": "Chad",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Chad",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.5,
    "Unknown": 0.21
  },
  {
+   "Country": "Chile",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 3.9,
    "Unknown": 0
  },
  {
+   "Country": "Chile",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 4.78,
    "Unknown": 0
  },
  {
+   "Country": "China",
    "Capacity": "Integrated Capacity",
    "OPC": 931.32,
    "Blended": 58.12,
    "Unknown": 518.3
  },
  {
+   "Country": "China",
    "Capacity": "Grinding Capacity",
    "OPC": 153.25,
    "Blended": 4,
    "Unknown": 106.22
  },
  {
+   "Country": "Colombia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 14.38,
    "Unknown": 3
  },
  {
+   "Country": "Colombia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 2,
    "Unknown": 0
  },
  {
+   "Country": "Costa Rica",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 2,
    "Unknown": 0
  },
  {
+   "Country": "Costa Rica",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.2,
    "Unknown": 0
  },
  {
+   "Country": "Cote d'Ivoire",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.5,
    "Unknown": 0
  },
  {
+   "Country": "Cote d'Ivoire",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1,
    "Unknown": 10.5
  },
  {
+   "Country": "Croatia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.6,
    "Unknown": 3.6
  },
  {
+   "Country": "Croatia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.1,
    "Unknown": 0
  },
  {
+   "Country": "Cuba",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 4,
    "Unknown": 1.2
  },
  {
+   "Country": "Cuba",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.4,
    "Unknown": 0
  },
  {
+   "Country": "Cyprus",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 2
  },
  {
+   "Country": "Cyprus",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.45
  },
  {
+   "Country": "Czech Republic",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 4.9
  },
  {
+   "Country": "Czech Republic",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Denmark",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 2.36
  },
  {
+   "Country": "Denmark",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Djibouti",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.24
  },
  {
+   "Country": "Djibouti",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Dominican Republic",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 9.5,
    "Unknown": 0
  },
  {
+   "Country": "Dominican Republic",
    "Capacity": "Grinding Capacity",
    "OPC": 0.4,
    "Blended": 0,
    "Unknown": 1.77
  },
  {
+   "Country": "DR Congo",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 5.34
  },
  {
+   "Country": "DR Congo",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.8
  },
  {
+   "Country": "Ecuador",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 7.9,
    "Unknown": 0
  },
  {
+   "Country": "Ecuador",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.5,
    "Unknown": 0
  },
  {
+   "Country": "Egypt",
    "Capacity": "Integrated Capacity",
    "OPC": 20.44,
    "Blended": 8.2,
    "Unknown": 64.62
  },
  {
+   "Country": "Egypt",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.6
  },
  {
+   "Country": "Ethiopia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 6.4,
    "Unknown": 13.67
  },
  {
+   "Country": "Ethiopia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "El Salvador",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 3.6,
    "Unknown": 0
  },
  {
+   "Country": "El Salvador",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.1,
    "Unknown": 0.3
  },
  {
+   "Country": "Eritrea",
    "Capacity": "Integrated Capacity",
    "OPC": 0.35,
    "Blended": 0,
    "Unknown": 0.05
  },
  {
+   "Country": "Eritrea",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Estonia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Estonia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.8
  },
  {
+   "Country": "Eswatini",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Eswatini",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Fiji",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.22
  },
  {
+   "Country": "Fiji",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.1
  },
  {
+   "Country": "Finland",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.55
  },
  {
+   "Country": "Finland",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "France",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.5,
    "Unknown": 21.84
  },
  {
+   "Country": "France",
    "Capacity": "Grinding Capacity",
    "OPC": 0.24,
    "Blended": 0,
    "Unknown": 9.41
  },
  {
+   "Country": "French Guiana",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "French Guiana",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.16,
    "Unknown": 0
  },
  {
+   "Country": "Gabon",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.69,
    "Unknown": 0.15
  },
  {
+   "Country": "Gabon",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.85,
    "Unknown": 0
  },
  {
+   "Country": "Georgia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.25,
    "Unknown": 1.5
  },
  {
+   "Country": "Georgia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.3,
    "Unknown": 0.45
  },
  {
+   "Country": "Germany",
    "Capacity": "Integrated Capacity",
    "OPC": 1.77,
    "Blended": 10.46,
    "Unknown": 19.03
  },
  {
+   "Country": "Germany",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.8,
    "Unknown": 2.4
  },
  {
+   "Country": "Ghana",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.3
  },
  {
+   "Country": "Ghana",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 2,
    "Unknown": 8.4
  },
  {
+   "Country": "Greece",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.7,
    "Unknown": 13.43
  },
  {
+   "Country": "Greece",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.4
  },
  {
+   "Country": "Guadeloupe",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Guadeloupe",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.38,
    "Unknown": 0
  },
  {
+   "Country": "Guatemala",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 5.48,
    "Unknown": 0
  },
  {
+   "Country": "Guatemala",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.7,
    "Unknown": 0
  },
  {
+   "Country": "Guinea",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.5
  },
  {
+   "Country": "Guinea",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 2.2
  },
  {
+   "Country": "Guinea-Bissau",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Guinea-Bissau",
    "Capacity": "Grinding Capacity",
    "OPC": 0.3,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Haiti",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Haiti",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Honduras",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 3.3,
    "Unknown": 0
  },
  {
+   "Country": "Honduras",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.3,
    "Unknown": 0
  },
  {
+   "Country": "Hong Kong",
    "Capacity": "Integrated Capacity",
    "OPC": 2.5,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Hong Kong",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Hungary",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1,
    "Unknown": 4.03
  },
  {
+   "Country": "Hungary",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "India",
    "Capacity": "Integrated Capacity",
    "OPC": 162.87,
    "Blended": 185.34,
    "Unknown": 142.72
  },
  {
+   "Country": "India",
    "Capacity": "Grinding Capacity",
    "OPC": 48.68,
    "Blended": 180.2,
    "Unknown": 42.76
  },
  {
+   "Country": "Indonesia",
    "Capacity": "Integrated Capacity",
    "OPC": 50.6,
    "Blended": 45.46,
    "Unknown": 11.95
  },
  {
+   "Country": "Indonesia",
    "Capacity": "Grinding Capacity",
    "OPC": 13.4,
    "Blended": 7.58,
    "Unknown": 4.9
  },
  {
+   "Country": "Iran",
    "Capacity": "Integrated Capacity",
    "OPC": 2.27,
    "Blended": 1.46,
    "Unknown": 79.88
  },
  {
+   "Country": "Iran",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Iraq",
    "Capacity": "Integrated Capacity",
    "OPC": 26.92,
    "Blended": 0,
    "Unknown": 8.4
  },
  {
+   "Country": "Iraq",
    "Capacity": "Grinding Capacity",
    "OPC": 2.79,
    "Blended": 0,
    "Unknown": 0.2
  },
  {
+   "Country": "Ireland",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 3.6,
    "Unknown": 2.1
  },
  {
+   "Country": "Ireland",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Israel",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 4.6
  },
  {
+   "Country": "Israel",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.4
  },
  {
+   "Country": "Italy",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1.13,
    "Unknown": 19.17
  },
  {
+   "Country": "Italy",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.3,
    "Unknown": 1.51
  },
  {
+   "Country": "Jamaica",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1.8,
    "Unknown": 0
  },
  {
+   "Country": "Jamaica",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Japan",
    "Capacity": "Integrated Capacity",
    "OPC": 57.31,
    "Blended": 8.04,
    "Unknown": 0
  },
  {
+   "Country": "Japan",
    "Capacity": "Grinding Capacity",
    "OPC": 1.05,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Jordan",
    "Capacity": "Integrated Capacity",
    "OPC": 7.03,
    "Blended": 0,
    "Unknown": 2.31
  },
  {
+   "Country": "Jordan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Kazakhstan",
    "Capacity": "Integrated Capacity",
    "OPC": 9.85,
    "Blended": 1.47,
    "Unknown": 4.9
  },
  {
+   "Country": "Kazakhstan",
    "Capacity": "Grinding Capacity",
    "OPC": 2.2,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Kenya",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 5.95
  },
  {
+   "Country": "Kenya",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 2.66,
    "Unknown": 4.2
  },
  {
+   "Country": "Kosovo",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.69
  },
  {
+   "Country": "Kosovo",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Kuwait",
    "Capacity": "Integrated Capacity",
    "OPC": 5,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Kuwait",
    "Capacity": "Grinding Capacity",
    "OPC": 6.5,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Kyrgyzstan",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 2.46,
    "Unknown": 3.7
  },
  {
+   "Country": "Kyrgyzstan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Laos",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 13.35
  },
  {
+   "Country": "Laos",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Latvia",
    "Capacity": "Integrated Capacity",
    "OPC": 1.6,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Latvia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Lebanon",
    "Capacity": "Integrated Capacity",
    "OPC": 7.15,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Lebanon",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Lesotho",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Lesotho",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.2
  },
  {
+   "Country": "Liberia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Liberia",
    "Capacity": "Grinding Capacity",
    "OPC": 0.5,
    "Blended": 0,
    "Unknown": 0.35
  },
  {
+   "Country": "Libya",
    "Capacity": "Integrated Capacity",
    "OPC": 4.33,
    "Blended": 2.6,
    "Unknown": 0
  },
  {
+   "Country": "Libya",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Lithuania",
    "Capacity": "Integrated Capacity",
    "OPC": 1,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Lithuania",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Luxembourg",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.05,
    "Unknown": 0
  },
  {
+   "Country": "Luxembourg",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.4,
    "Unknown": 0
  },
  {
+   "Country": "Macao",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Macao",
    "Capacity": "Grinding Capacity",
    "OPC": 0.6,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Madagascar",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.7
  },
  {
+   "Country": "Madagascar",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Malawi",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.8,
    "Unknown": 1.3
  },
  {
+   "Country": "Malawi",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.3,
    "Unknown": 0
  },
  {
+   "Country": "Malaysia",
    "Capacity": "Integrated Capacity",
    "OPC": 11.46,
    "Blended": 0,
    "Unknown": 15.18
  },
  {
+   "Country": "Malaysia",
    "Capacity": "Grinding Capacity",
    "OPC": 0.88,
    "Blended": 0,
    "Unknown": 5.44
  },
  {
+   "Country": "Mali",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Mali",
    "Capacity": "Grinding Capacity",
    "OPC": 0.5,
    "Blended": 0.8,
    "Unknown": 2.8
  },
  {
+   "Country": "Martinique",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Martinique",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.38,
    "Unknown": 0
  },
  {
+   "Country": "Mauritania",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Mauritania",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.95,
    "Unknown": 0
  },
  {
+   "Country": "Mexico",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 55.67,
    "Unknown": 0
  },
  {
+   "Country": "Mexico",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.95,
    "Unknown": 0
  },
  {
+   "Country": "Moldova",
    "Capacity": "Integrated Capacity",
    "OPC": 0.5,
    "Blended": 0,
    "Unknown": 1
  },
  {
+   "Country": "Moldova",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Mongolia",
    "Capacity": "Integrated Capacity",
    "OPC": 5.06,
    "Blended": 0,
    "Unknown": 0.29
  },
  {
+   "Country": "Mongolia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Montenegro",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Montenegro",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Morocco",
    "Capacity": "Integrated Capacity",
    "OPC": 1.4,
    "Blended": 0,
    "Unknown": 22.45
  },
  {
+   "Country": "Morocco",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 3.8
  },
  {
+   "Country": "Mozambique",
    "Capacity": "Integrated Capacity",
    "OPC": 0.25,
    "Blended": 0,
    "Unknown": 2.23
  },
  {
+   "Country": "Mozambique",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 2.05,
    "Unknown": 1.45
  },
  {
+   "Country": "Myanmar",
    "Capacity": "Integrated Capacity",
    "OPC": 8,
    "Blended": 0,
    "Unknown": 8.6
  },
  {
+   "Country": "Myanmar",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1
  },
  {
+   "Country": "Namibia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1
  },
  {
+   "Country": "Namibia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.2
  },
  {
+   "Country": "Nepal",
    "Capacity": "Integrated Capacity",
    "OPC": 16.68,
    "Blended": 0,
    "Unknown": 4.44
  },
  {
+   "Country": "Nepal",
    "Capacity": "Grinding Capacity",
    "OPC": 6.43,
    "Blended": 0.04,
    "Unknown": 0.3
  },
  {
+   "Country": "Netherlands",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Netherlands",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.2,
    "Unknown": 0
  },
  {
+   "Country": "New Caledonia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "New Caledonia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.18
  },
  {
+   "Country": "New Zealand",
    "Capacity": "Integrated Capacity",
    "OPC": 1,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "New Zealand",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Nicaragua",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.42,
    "Unknown": 0
  },
  {
+   "Country": "Nicaragua",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.57,
    "Unknown": 0
  },
  {
+   "Country": "Niger",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.65
  },
  {
+   "Country": "Niger",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Nigeria",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 21.5,
    "Unknown": 47.85
  },
  {
+   "Country": "Nigeria",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "North Korea",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 9.7
  },
  {
+   "Country": "North Korea",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "North Macedonia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.9
  },
  {
+   "Country": "North Macedonia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Norway",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.7
  },
  {
+   "Country": "Norway",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Oman",
    "Capacity": "Integrated Capacity",
    "OPC": 2.36,
    "Blended": 0,
    "Unknown": 3
  },
  {
+   "Country": "Oman",
    "Capacity": "Grinding Capacity",
    "OPC": 0.1,
    "Blended": 0,
    "Unknown": 0.9
  },
  {
+   "Country": "Pakistan",
    "Capacity": "Integrated Capacity",
    "OPC": 88.58,
    "Blended": 0,
    "Unknown": 4.02
  },
  {
+   "Country": "Pakistan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Panama",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 2.1,
    "Unknown": 0
  },
  {
+   "Country": "Panama",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.05,
    "Unknown": 0
  },
  {
+   "Country": "Papua New Guinea",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.9
  },
  {
+   "Country": "Papua New Guinea",
    "Capacity": "Grinding Capacity",
    "OPC": 0.2,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Paraguay",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 2.81,
    "Unknown": 0
  },
  {
+   "Country": "Paraguay",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.73,
    "Unknown": 0
  },
  {
+   "Country": "Peru",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 16.64,
    "Unknown": 1
  },
  {
+   "Country": "Peru",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.8,
    "Unknown": 0.45
  },
  {
+   "Country": "Philippines",
    "Capacity": "Integrated Capacity",
    "OPC": 20.25,
    "Blended": 14.74,
    "Unknown": 4.8
  },
  {
+   "Country": "Philippines",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.2,
    "Unknown": 10.15
  },
  {
+   "Country": "Poland",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 7.58,
    "Unknown": 10.4
  },
  {
+   "Country": "Poland",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 3,
    "Unknown": 0
  },
  {
+   "Country": "Portugal",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 11.58,
    "Unknown": 0
  },
  {
+   "Country": "Portugal",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.25,
    "Unknown": 0
  },
  {
+   "Country": "Puerto Rico",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.8,
    "Unknown": 0
  },
  {
+   "Country": "Puerto Rico",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.2,
    "Unknown": 0
  },
  {
+   "Country": "Qatar",
    "Capacity": "Integrated Capacity",
    "OPC": 5.66,
    "Blended": 0,
    "Unknown": 5.29
  },
  {
+   "Country": "Qatar",
    "Capacity": "Grinding Capacity",
    "OPC": 0.17,
    "Blended": 0,
    "Unknown": 0.9
  },
  {
+   "Country": "Republic of the Congo",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 2.8
  },
  {
+   "Country": "Republic of the Congo",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.5,
    "Unknown": 0
  },
  {
+   "Country": "Reunion",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Reunion",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.5,
    "Unknown": 0
  },
  {
+   "Country": "Romania",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 2.5,
    "Unknown": 12.35
  },
  {
+   "Country": "Romania",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.57
  },
  {
+   "Country": "Russia",
    "Capacity": "Integrated Capacity",
    "OPC": 59.13,
    "Blended": 6.65,
    "Unknown": 22.73
  },
  {
+   "Country": "Russia",
    "Capacity": "Grinding Capacity",
    "OPC": 3.85,
    "Blended": 0.7,
    "Unknown": 0.03
  },
  {
+   "Country": "Rwanda",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.6,
    "Unknown": 0
  },
  {
+   "Country": "Rwanda",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.6,
    "Unknown": 1
  },
  {
+   "Country": "Samoa",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Samoa",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Saudi Arabia",
    "Capacity": "Integrated Capacity",
    "OPC": 82.86,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Saudi Arabia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Senegal",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1.5,
    "Unknown": 6.5
  },
  {
+   "Country": "Senegal",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Serbia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 2.1,
    "Unknown": 1
  },
  {
+   "Country": "Serbia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Sierra Leone",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Sierra Leone",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.06
  },
  {
+   "Country": "Slovakia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1.5,
    "Unknown": 2.53
  },
  {
+   "Country": "Slovakia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Slovenia",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.8
  },
  {
+   "Country": "Slovenia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "South Africa",
    "Capacity": "Integrated Capacity",
    "OPC": 1.2,
    "Blended": 0,
    "Unknown": 15.04
  },
  {
+   "Country": "South Africa",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 6.5
  },
  {
+   "Country": "South Korea",
    "Capacity": "Integrated Capacity",
    "OPC": 37.39,
    "Blended": 0,
    "Unknown": 11.3
  },
  {
+   "Country": "South Korea",
    "Capacity": "Grinding Capacity",
    "OPC": 15.25,
    "Blended": 13.2,
    "Unknown": 6.1
  },
  {
+   "Country": "Spain",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 39.85,
    "Unknown": 0
  },
  {
+   "Country": "Spain",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 8.94,
    "Unknown": 0.28
  },
  {
+   "Country": "Sri Lanka",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1.3,
    "Unknown": 0
  },
  {
+   "Country": "Sri Lanka",
    "Capacity": "Grinding Capacity",
    "OPC": 6.8,
    "Blended": 1.4,
    "Unknown": 0
  },
  {
+   "Country": "Sudan",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 2,
    "Unknown": 7.8
  },
  {
+   "Country": "Sudan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Suriname",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Suriname",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.2,
    "Unknown": 0
  },
  {
+   "Country": "Sweden",
    "Capacity": "Integrated Capacity",
    "OPC": 0.73,
    "Blended": 0,
    "Unknown": 2.5
  },
  {
+   "Country": "Sweden",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Switzerland",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1.1,
    "Unknown": 3.3
  },
  {
+   "Country": "Switzerland",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Syria",
    "Capacity": "Integrated Capacity",
    "OPC": 3.2,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Syria",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Taiwan",
    "Capacity": "Integrated Capacity",
    "OPC": 12.3,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Taiwan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Tajikistan",
    "Capacity": "Integrated Capacity",
    "OPC": 2.4,
    "Blended": 1.08,
    "Unknown": 1.2
  },
  {
+   "Country": "Tajikistan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.6
  },
  {
+   "Country": "Tanzania",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 7.5
  },
  {
+   "Country": "Tanzania",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0.8
  },
  {
+   "Country": "Thailand",
    "Capacity": "Integrated Capacity",
    "OPC": 9.87,
    "Blended": 16.31,
    "Unknown": 34.72
  },
  {
+   "Country": "Thailand",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Togo",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.5
  },
  {
+   "Country": "Togo",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1.6
  },
  {
+   "Country": "Trinidad and Tobago",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1,
    "Unknown": 0
  },
  {
+   "Country": "Trinidad and Tobago",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Tunisia",
    "Capacity": "Integrated Capacity",
    "OPC": 3.56,
    "Blended": 0,
    "Unknown": 10.5
  },
  {
+   "Country": "Tunisia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.6,
    "Unknown": 0
  },
  {
+   "Country": "Turkiye",
    "Capacity": "Integrated Capacity",
    "OPC": 17.88,
    "Blended": 10.78,
    "Unknown": 103.27
  },
  {
+   "Country": "Turkiye",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0.75,
    "Unknown": 8
  },
  {
+   "Country": "Turkmenistan",
    "Capacity": "Integrated Capacity",
    "OPC": 0.69,
    "Blended": 0,
    "Unknown": 5
  },
  {
+   "Country": "Turkmenistan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Uganda",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 4.9
  },
  {
+   "Country": "Uganda",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 2.8
  },
  {
+   "Country": "Ukraine",
    "Capacity": "Integrated Capacity",
    "OPC": 1.27,
    "Blended": 7.51,
    "Unknown": 4.16
  },
  {
+   "Country": "Ukraine",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.45,
    "Unknown": 0
  },
  {
+   "Country": "United Arab Emirates",
    "Capacity": "Integrated Capacity",
    "OPC": 16.37,
    "Blended": 0,
    "Unknown": 16.1
  },
  {
+   "Country": "United Arab Emirates",
    "Capacity": "Grinding Capacity",
    "OPC": 0.84,
    "Blended": 1.3,
    "Unknown": 9.03
  },
  {
+   "Country": "United Kingdom",
    "Capacity": "Integrated Capacity",
    "OPC": 0.45,
    "Blended": 0,
    "Unknown": 10.36
  },
  {
+   "Country": "United Kingdom",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 1.32,
    "Unknown": 0.23
  },
  {
+   "Country": "United States",
    "Capacity": "Integrated Capacity",
    "OPC": 4.2,
    "Blended": 84.09,
    "Unknown": 8.03
  },
  {
+   "Country": "United States",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 3,
    "Unknown": 1.13
  },
  {
+   "Country": "Uruguay",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 1.13,
    "Unknown": 0
  },
  {
+   "Country": "Uruguay",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Uzbekistan",
    "Capacity": "Integrated Capacity",
    "OPC": 5.81,
    "Blended": 13.53,
    "Unknown": 7.4
  },
  {
+   "Country": "Uzbekistan",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 1
  },
  {
+   "Country": "Venezuela",
    "Capacity": "Integrated Capacity",
    "OPC": 11.98,
    "Blended": 0.65,
    "Unknown": 0
  },
  {
+   "Country": "Venezuela",
    "Capacity": "Grinding Capacity",
    "OPC": 0.33,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Vietnam",
    "Capacity": "Integrated Capacity",
    "OPC": 9.71,
    "Blended": 93.23,
    "Unknown": 25.24
  },
  {
+   "Country": "Vietnam",
    "Capacity": "Grinding Capacity",
    "OPC": 4.74,
    "Blended": 15.27,
    "Unknown": 3.1
  },
  {
+   "Country": "Western Sahara",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Western Sahara",
    "Capacity": "Grinding Capacity",
    "OPC": 0.5,
    "Blended": 0,
    "Unknown": 0.7
  },
  {
+   "Country": "Yemen",
    "Capacity": "Integrated Capacity",
    "OPC": 3.3,
    "Blended": 0,
    "Unknown": 4.35
  },
  {
+   "Country": "Yemen",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Zambia",
    "Capacity": "Integrated Capacity",
    "OPC": 1.71,
    "Blended": 0,
    "Unknown": 5.08
  },
  {
+   "Country": "Zambia",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,
    "Unknown": 0
  },
  {
+   "Country": "Zimbabwe",
    "Capacity": "Integrated Capacity",
    "OPC": 0,
    "Blended": 0.25,
    "Unknown": 0.83
  },
  {
+   "Country": "Zimbabwe",
    "Capacity": "Grinding Capacity",
    "OPC": 0,
    "Blended": 0,

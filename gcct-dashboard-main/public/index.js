@@ -251,7 +251,8 @@ function renderVisualisation() {
         container.classList.add('chart-container');
         document.querySelector('.flourish-container').appendChild(container);
         insertChartSummary(id);
-        implentGraph(id);
+        implementGraph(id);
+        console.log(id)
     })
 }
 
@@ -323,46 +324,114 @@ function updateGraphSummaries(key, summaryTextObj) {
     });
 }
 
-function implentGraph(id) {
+function implementGraph(id) {
     graphs[id] = {};
 
-    fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
-    .then((response) => response.json())
-    .then((options) => {
-        graphs[id].opts = {
-            ...options,
-            // template: "@flourish/line-bar-pie",
-            // version: 25,
-            container: `#chart-${id}`,
-            api_url: "/flourish",
-            api_key: "", //filled in server side
-            base_visualisation_id: id,
-            bindings: {
-                ...options.bindings,
+    if (!config.charts[id].x_axis || config.charts[id].x_axis === ""){
+        // No x_axis specified, continue to next iteration
+        return;
+        fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
+        .then((response) => response.json())
+        .then((options) => {
+            graphs[id].opts = {
+                ...options,
+                // template: "@flourish/line-bar-pie",
+                // version: 25,
+                container: `#chart-${id}`,
+                api_url: "/flourish",
+                api_key: "", //filled in server side
+                base_visualisation_id: id,
+                
+                bindings: {
+                    ...options.bindings,
+                    // this comes in from the json file not flourish
+                    data: {
+                        ...options.bindings.data,
+                        // label: "", // this seems to be the X axis
+                        value: config.charts[id].values, // this is the actual bar
+                    }
+                },
                 data: {
-                    ...options.bindings.data,
-                    label: config.charts[id].x_axis, // this seems to be the X axis
-                    value: config.charts[id].values, // this is the actual bar
+                    ...options.data,
+                    data: initialData(id),
+                },
+                state: {
+                    ...options.state,
+                    layout: {
+                        title: config.charts[id].title.replace('{{country}}', ''),
+                        subtitle: config.charts[id].subtitle,
+                    }
                 }
-            },
-            data: {
-                ...options.data,
-                data: initialData(id),
-            },
-            state: {
-                ...options.state,
-                layout: {
-                    title: config.charts[id].title.replace('{{country}}', ''),
-                    subtitle: config.charts[id].subtitle,
+            };   
+            console.log('This is graph with id: '  + id)
+            console.log('template chart type / options.template' + options.template)
+            // console.log('graphs[id].opts' + graphs[id].opts)
+            // for (const option in graphs[id].opts) console.log(option);
+            console.log('These are the bindings: ' + graphs[id].opts['bindings']);
+            console.log('These are the value: ' + graphs[id].opts['value']);
+            // Set the version to 25 for the "@flourish/line-bar-pie" template to ensure compatibility with specific Flourish configurations.
+            if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
+            if (options.template === "@flourish/scatter") graphs[id].opts.version = 25;
+
+            // if (config.charts[id].filterable) {
+            //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
+            // }
+            graphs[id].flourish = new Flourish.Live(graphs[id].opts);
+    })     
+    }else{
+        fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
+        .then((response) => response.json())
+        .then((options) => {
+            graphs[id].opts = {
+                ...options,
+                // template: "@flourish/line-bar-pie",
+                // version: 25,
+                container: `#chart-${id}`,
+                api_url: "/flourish",
+                api_key: "", //filled in server side
+                base_visualisation_id: id,
+                
+                bindings: {
+                    ...options.bindings,
+                    // this comes in from the json file not flourish
+                    data: {
+                        ...options.bindings.data,
+                        label: config.charts[id].x_axis, // this seems to be the X axis
+                        value: config.charts[id].values, // this is the actual bar
+                    }
+                },
+                data: {
+                    ...options.data,
+                    data: initialData(id),
+                },
+                state: {
+                    ...options.state,
+                    layout: {
+                        title: config.charts[id].title.replace('{{country}}', ''),
+                        subtitle: config.charts[id].subtitle,
+                    }
                 }
-            }
-        };
+            };
+        
+        // console.log('template chart type / options.template' + options.template)
+        // console.log('graphs[id].opts' + graphs[id].opts)
+        // for (const option in graphs[id].opts) console.log(option);
+        console.log('This is graph with id: '  + id)
+        console.log('template chart type / options.template' + options.template)
+        // console.log('graphs[id].opts' + graphs[id].opts)
+        // for (const option in graphs[id].opts) console.log(option);
+        // Loop over each binding and print out its key and value
+        Object.entries(graphs[id].opts.bindings.data).forEach(([bindingKey, bindingValue]) => {
+            console.log(`Binding: ${bindingKey}, Value: ${bindingValue}`);
+        });
+        // Set the version to 25 for the "@flourish/line-bar-pie" template to ensure compatibility with specific Flourish configurations.
         if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
         // if (config.charts[id].filterable) {
         //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
         // }
         graphs[id].flourish = new Flourish.Live(graphs[id].opts);
     });
+}
 }
 
 function updateGraphs(key) {
@@ -423,12 +492,21 @@ function initialData(id) {
 function filterDataOnColumnName(key, id) {
     const filterValue = getUnformattedInputName(key);
     const x_value = config.charts[id].x_axis;
-    filteredData = config.datasets[id].map(entry => {
-        let output = {};
-        output[filterValue] = entry[filterValue];
-        output[x_value] = entry[x_value];
-        return output;
-    });
+
+    if (x_value === "") {
+        filteredData = config.datasets[id].map(entry => {
+            let output = {};
+            output[filterValue] = entry[filterValue];
+            return output;
+        });
+    }else {
+        filteredData = config.datasets[id].map(entry => {
+            let output = {};
+            output[filterValue] = entry[filterValue];
+            output[x_value] = entry[x_value];
+            return output;
+        });
+    }
     return filteredData;
 }
 

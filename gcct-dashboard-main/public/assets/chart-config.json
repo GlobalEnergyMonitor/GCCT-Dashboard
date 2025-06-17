@@ -30,9 +30,15 @@
     "23588397": {
         "title": "Operating cement capacity by plant age",
         "subtitle": "Distribution of plant ages weighted by capacity in million tonnes per annum (mtpa) of each plant, compared to that of the entire world. Cement plant age is the amount of time a plant has been operating in its specific location, and does not represent the age of the machinery at the given plant. Although GEM does not currently track limestone reserves, cement plant age can be representative of the amount of time that a given plant has been extracting limestone in its local market, as well as the maturity of a country's cement industry.",
-        "x_axis": "Country or World",        
-        "values": [
-            "Age"
+        "color": "Country or World",        
+        "size": "Cement Capacity",
+        "x": "Age",
+        "y":"Country or World",
+        "column_names": [
+            "Age",
+            "Cement Capacity", 
+            "Country or World",
+            "Weighted Average Age"
         ],
         "dataset": "plant_age_062025",
         "initial_state": "India",
@@ -42,9 +48,9 @@
     "23487521": {
         "title": "Cement capacity with emission reduction technology",
         "subtitle": "The percentage of developing and operating cement capacity, by country, with and without installed emission reduction technologies.",
-        "x_axis": "Cem type %",        
+        "x_axis": "Cem type %",
         "values": [
-            "CCS %",
+            "CCS/CCUS %",
             "Alternative Fuel %",
             "Clay Calcination %"
 

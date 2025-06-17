@@ -1,3 +1,5 @@
+// docs https://app.flourish.studio/@flourish/scatter#api-data-keys-meanings 
+
 const converter = new showdown.Converter();
 const config = {
     datasets: {}
@@ -310,9 +312,12 @@ function updateGraphSummaries(key, summaryTextObj) {
             let filteredData;
             if (typeof config.charts[id].filter_by === 'string') {
                 filteredData = config.datasets[id].filter(entry => formatName(entry[currentGraph.filter_by]) === key);
+                console.log('This is filteredData for i: '+ id)
+                console.log(filteredData)
             } else {
                 if (getUnformattedInputName(key) === 'All') filteredData = config.datasets[id];
                 else filteredData = filterDataOnColumnName(key, id);
+                console.log('Just called filterDataOnColumnName')
             }
             const summary = document.querySelector(`#chart-${id} .chart-summary`);
             if (summary) {
@@ -326,58 +331,80 @@ function updateGraphSummaries(key, summaryTextObj) {
 
 function implementGraph(id) {
     graphs[id] = {};
-
-    if (!config.charts[id].x_axis || config.charts[id].x_axis === ""){
-        // No x_axis specified, continue to next iteration
-        return;
+    if (config.charts[id].name) {
+        console.log('in if scatter');
         fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
-        .then((response) => response.json())
-        .then((options) => {
-            graphs[id].opts = {
-                ...options,
-                // template: "@flourish/line-bar-pie",
-                // version: 25,
-                container: `#chart-${id}`,
-                api_url: "/flourish",
-                api_key: "", //filled in server side
-                base_visualisation_id: id,
-                
-                bindings: {
-                    ...options.bindings,
-                    // this comes in from the json file not flourish
+            .then((response) => response.json())
+            .then((options) => {
+                // Build the bindings.data object explicitly to avoid deep merge issues
+                const bindingsData = Object.assign(
+                    {},
+                    options.bindings && options.bindings.data ? options.bindings.data : {},
+                    {
+                        color: config.charts[id].color,
+                        size: config.charts[id].size,
+                        x: config.charts[id].x,
+                        y: config.charts[id].y,
+                        column_names: config.charts[id].column_names
+                    }
+                );
+
+                graphs[id].opts = {
+                    ...options,
+                    container: `#chart-${id}`,
+                    api_url: "/flourish",
+                    api_key: "", // filled in server side
+                    base_visualisation_id: id,
+                    bindings: {
+                        ...options.bindings,
+                        data: bindingsData
+                    },
                     data: {
-                        ...options.bindings.data,
-                        // label: "", // this seems to be the X axis
-                        value: config.charts[id].values, // this is the actual bar
+                        ...options.data,
+                        data: initialData(id),
+                    },
+                    state: {
+                        ...options.state,
+                        layout: {
+                            title: config.charts[id].title.replace('{{country}}', ''),
+                            subtitle: config.charts[id].subtitle,
+                        }
                     }
-                },
-                data: {
-                    ...options.data,
-                    data: initialData(id),
-                },
-                state: {
-                    ...options.state,
-                    layout: {
-                        title: config.charts[id].title.replace('{{country}}', ''),
-                        subtitle: config.charts[id].subtitle,
-                    }
-                }
-            };   
+                };
             console.log('This is graph with id: '  + id)
             console.log('template chart type / options.template' + options.template)
             // console.log('graphs[id].opts' + graphs[id].opts)
             // for (const option in graphs[id].opts) console.log(option);
             console.log('These are the bindings: ' + graphs[id].opts['bindings']);
             console.log('These are the value: ' + graphs[id].opts['value']);
+            console.log('This is graph with id: '  + id)
+            console.log('template chart type / options.template' + options.template)
+            // console.log('graphs[id].opts' + graphs[id].opts)
+            // for (const option in graphs[id].opts) console.log(option);
+            // Loop over each binding and print out its key and value
+            Object.entries(graphs[id].opts.bindings.data).forEach(([bindingKey, bindingValue]) => {
+                console.log(`Binding: ${bindingKey}, Value: ${bindingValue}`);
+            });
             // Set the version to 25 for the "@flourish/line-bar-pie" template to ensure compatibility with specific Flourish configurations.
-            if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
-            if (options.template === "@flourish/scatter") graphs[id].opts.version = 25;
+            if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 38;
+            if (options.template === "@flourish/scatter") graphs[id].opts.version = 33;
 
             // if (config.charts[id].filterable) {
             //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
             // }
+            // try {
             graphs[id].flourish = new Flourish.Live(graphs[id].opts);
-    })     
+            // } catch (error) {
+            //     console.error('Error creating Flourish.Live instance for graph id:', id);
+            //     console.error('Flourish options:', graphs[id].opts);
+            //     console.error('Error message:', error.message);
+            //     if (error.message && error.message.includes('unknown binding')) {
+            //         console.error('Possible cause: Check your "bindings.data" object for invalid keys. Current keys:', Object.keys(graphs[id].opts.bindings.data));
+            //     }
+            //     throw error; // rethrow so you still see the error in the console
+            // }
+    })   
+       
     }else{
         fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
         .then((response) => response.json())
@@ -398,6 +425,7 @@ function implementGraph(id) {
                         ...options.bindings.data,
                         label: config.charts[id].x_axis, // this seems to be the X axis
                         value: config.charts[id].values, // this is the actual bar
+
                     }
                 },
                 data: {
@@ -429,7 +457,19 @@ function implementGraph(id) {
         // if (config.charts[id].filterable) {
         //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
         // }
+        // console.log(new Flourish.Live(graphs[id].opts));
+
+        // try {
         graphs[id].flourish = new Flourish.Live(graphs[id].opts);
+        // } catch (error) {
+        //     console.error('Error creating Flourish.Live instance for graph id:', id);
+        //     console.error('Flourish options:', graphs[id].opts);
+        //     console.error('Error message:', error.message);
+        //     if (error.message && error.message.includes('unknown binding')) {
+        //         console.error('Possible cause: Check your "bindings.data" object for invalid keys. Current keys:', Object.keys(graphs[id].opts.bindings.data));
+        //     }
+        //     throw error; // rethrow so you still see the error in the console
+        // }
     });
 }
 }
@@ -442,6 +482,7 @@ function updateGraphs(key) {
 
             let filteredData;
             if (typeof config.charts[id].filter_by === 'string') {
+                console.log(config.charts[id].filter_by)
                 filteredData = config.datasets[id].filter(entry => formatName(entry[currentGraph.filter_by]) === key);
             } else {
                 if (getUnformattedInputName(key) === 'All') filteredData = config.datasets[id];
@@ -480,6 +521,7 @@ function initialData(id) {
     if (config.charts[id].filterable) {
         if (typeof config.charts[id].filter_by === 'string') {
             data = config.datasets[id].filter(entry => entry[config.dashboard.input_filter] === config.charts[id].initial_state);
+            console.log('This is data in initialData:' + data)
         } else {
             const defaultFilter = config.dashboard.input_default;
             if (defaultFilter === "All") return data;
@@ -490,23 +532,24 @@ function initialData(id) {
 }
 
 function filterDataOnColumnName(key, id) {
+    console.log('In filterDataOnColumnName with key, id being: ' + key, id)
     const filterValue = getUnformattedInputName(key);
-    const x_value = config.charts[id].x_axis;
 
-    if (x_value === "") {
-        filteredData = config.datasets[id].map(entry => {
-            let output = {};
-            output[filterValue] = entry[filterValue];
-            return output;
-        });
-    }else {
-        filteredData = config.datasets[id].map(entry => {
-            let output = {};
-            output[filterValue] = entry[filterValue];
-            output[x_value] = entry[x_value];
-            return output;
-        });
+    let x_value;
+    if (config.charts[id].name){
+        x_value = config.charts[id].x;
+    } else {
+        x_value = config.charts[id].x_axis;
     }
+    console.log('This is x_value:' + x_value)
+    console.log('This is x_value: ' + x_value)
+    const filteredData = config.datasets[id].map(entry => {
+        let output = {};
+        output[filterValue] = entry[filterValue];
+        output[x_value] = entry[x_value];
+        return output;
+    });
+
     return filteredData;
 }
 

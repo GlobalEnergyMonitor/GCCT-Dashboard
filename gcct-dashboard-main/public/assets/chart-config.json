@@ -32,10 +32,10 @@
         "subtitle": "Distribution of plant ages weighted by capacity in million tonnes per annum (mtpa) of each plant, compared to that of the entire world. Cement plant age is the amount of time a plant has been operating in its specific location, and does not represent the age of the machinery at the given plant. Although GEM does not currently track limestone reserves, cement plant age can be representative of the amount of time that a given plant has been extracting limestone in its local market, as well as the maturity of a country's cement industry.",
         "color": "Country or World",        
         "size": "Cement Capacity",
-        "x": "Age",
+        "x": "Age (years)",
         "y":"Country or World",
         "column_names": [
-            "Age",
+            "Age (years)",
             "Cement Capacity", 
             "Country or World",
             "Weighted Average Age"

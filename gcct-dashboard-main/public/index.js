@@ -346,6 +346,7 @@ function implementGraph(id) {
                         x: config.charts[id].x,
                         y: config.charts[id].y,
                         column_names: config.charts[id].column_names
+
                     }
                 );
 

@@ -35,10 +35,10 @@
         "x": "Age (years)",
         "y":"Country or World",
         "column_names": [
-            "Age (years)",
-            "Cement Capacity", 
-            "Country or World",
-            "Weighted Average Age"
+            { "label": "Age (years)", "value": "Age (years)" },
+            { "label": "Cement Capacity", "value": "Cement Capacity" },
+            { "label": "Country or World", "value": "Country or World" },
+            { "label": "Weighted Average Age", "value": "Weighted Average Age" }
         ],
         "dataset": "plant_age_062025",
         "initial_state": "India",
@@ -53,7 +53,6 @@
             "CCS/CCUS %",
             "Alternative Fuel %",
             "Clay Calcination %"
-
         ],
         "dataset": "green_cement_062025",
         "initial_state": "India",

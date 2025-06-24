@@ -2,14 +2,15 @@
     "flourish_ids": [
         "23491110",
         "23504373",
-        "23588397",
-        "23487521"      
+        "23487521",
+        "23588397"
+      
     ],
     "input_type": "dropdown",
     "input_filter": "Country",
     "input_default": "India",
     "overall_summary": false,
- "ticker_text_font-size": "2rem",
+    "ticker_text_font-size": "2rem",
     "ticker_data": "gcct_dataticker_2025",
     "tickers": [{
         "id": "summary_1",

@@ -331,35 +331,47 @@ function updateGraphSummaries(key, summaryTextObj) {
 
 function implementGraph(id) {
     graphs[id] = {};
-    if (config.charts[id].name) {
+    if (config.charts[id].size) {
         console.log('in if scatter');
         fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
             .then((response) => response.json())
             .then((options) => {
                 // Build the bindings.data object explicitly to avoid deep merge issues
-                const bindingsData = Object.assign(
-                    {},
-                    options.bindings && options.bindings.data ? options.bindings.data : {},
-                    {
-                        color: config.charts[id].color,
-                        size: config.charts[id].size,
-                        x: config.charts[id].x,
-                        y: config.charts[id].y,
-                        column_names: config.charts[id].column_names
 
-                    }
-                );
-
+                console.log(options)
                 graphs[id].opts = {
                     ...options,
+                    // template: "@flourish/line-bar-pie",
+                    // version: 25,
                     container: `#chart-${id}`,
                     api_url: "/flourish",
-                    api_key: "", // filled in server side
+                    api_key: "", //filled in server side
                     base_visualisation_id: id,
+                    column_names: config.charts[id].labelpopupinfo, // guess but still coming in as undefined in console
                     bindings: {
                         ...options.bindings,
-                        data: bindingsData
+                        // this comes in from the json file not flourish
+                        data: {
+                            ...options.bindings.data,
+                            color: config.charts[id].color, 
+                            size: config.charts[id].size, 
+                            x: config.charts[id].x,
+                            y: config.charts[id].y,
+                            name: config.charts[id].name
+
+                        }
                     },
+                    // popup: {
+                    //     popup_custom_main:"<b>Cement Capacity: </b>{{Cement Capacity}}<br><b>Plant Age: </b>{{Age (years)}}<br><b>Weighted Average Age: </b>{{Weighted Average Age}}",
+                    //     popup_is_custom: true,
+                    //     show_popup_styles: true
+
+                    // },
+                    // column_names: {
+                    //     ...options.column_names,
+
+                    //     column_names: config.charts[id].labelpopupinfo,
+                    // },
                     data: {
                         ...options.data,
                         data: initialData(id),
@@ -371,41 +383,20 @@ function implementGraph(id) {
                             subtitle: config.charts[id].subtitle,
                         }
                     }
-                };
-            console.log('This is graph with id: '  + id)
-            console.log('template chart type / options.template' + options.template)
-            // console.log('graphs[id].opts' + graphs[id].opts)
-            // for (const option in graphs[id].opts) console.log(option);
-            console.log('These are the bindings: ' + graphs[id].opts['bindings']);
-            console.log('These are the value: ' + graphs[id].opts['value']);
-            console.log('This is graph with id: '  + id)
-            console.log('template chart type / options.template' + options.template)
-            // console.log('graphs[id].opts' + graphs[id].opts)
-            // for (const option in graphs[id].opts) console.log(option);
-            // Loop over each binding and print out its key and value
-            Object.entries(graphs[id].opts.bindings.data).forEach(([bindingKey, bindingValue]) => {
-                console.log(`Binding: ${bindingKey}, Value: ${bindingValue}`);
+                }
             });
+   
+            console.log(graphs[id].opts.column_names)
             // Set the version to 25 for the "@flourish/line-bar-pie" template to ensure compatibility with specific Flourish configurations.
-            if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 38;
+            // if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 38;
             if (options.template === "@flourish/scatter") graphs[id].opts.version = 33;
 
-            // if (config.charts[id].filterable) {
+            // if (config.charts[id].filterable && graphs[id].opts.bindings && graphs[id].opts.bindings.data) {
             //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
             // }
-            // try {
+
             graphs[id].flourish = new Flourish.Live(graphs[id].opts);
-            // } catch (error) {
-            //     console.error('Error creating Flourish.Live instance for graph id:', id);
-            //     console.error('Flourish options:', graphs[id].opts);
-            //     console.error('Error message:', error.message);
-            //     if (error.message && error.message.includes('unknown binding')) {
-            //         console.error('Possible cause: Check your "bindings.data" object for invalid keys. Current keys:', Object.keys(graphs[id].opts.bindings.data));
-            //     }
-            //     throw error; // rethrow so you still see the error in the console
-            // }
-    })   
-       
+      
     }else{
         fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
         .then((response) => response.json())
@@ -445,15 +436,14 @@ function implementGraph(id) {
         // console.log('template chart type / options.template' + options.template)
         // console.log('graphs[id].opts' + graphs[id].opts)
         // for (const option in graphs[id].opts) console.log(option);
-        console.log('This is graph with id: '  + id)
-        console.log('template chart type / options.template' + options.template)
+
         // console.log('graphs[id].opts' + graphs[id].opts)
         // for (const option in graphs[id].opts) console.log(option);
         // Loop over each binding and print out its key and value
-        Object.entries(graphs[id].opts.bindings.data).forEach(([bindingKey, bindingValue]) => {
-            console.log(`Binding: ${bindingKey}, Value: ${bindingValue}`);
-        });
-        // Set the version to 25 for the "@flourish/line-bar-pie" template to ensure compatibility with specific Flourish configurations.
+        // Object.entries(graphs[id].opts.bindings.data).forEach(([bindingKey, bindingValue]) => {
+        //     console.log(`Binding: ${bindingKey}, Value: ${bindingValue}`);
+        // });
+        // // Set the version to 25 for the "@flourish/line-bar-pie" template to ensure compatibility with specific Flourish configurations.
         if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
         // if (config.charts[id].filterable) {
         //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
@@ -522,7 +512,6 @@ function initialData(id) {
     if (config.charts[id].filterable) {
         if (typeof config.charts[id].filter_by === 'string') {
             data = config.datasets[id].filter(entry => entry[config.dashboard.input_filter] === config.charts[id].initial_state);
-            console.log('This is data in initialData:' + data)
         } else {
             const defaultFilter = config.dashboard.input_default;
             if (defaultFilter === "All") return data;

@@ -47,14 +47,14 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "23487521": {
-        "title": "Cement capacity with emission reduction technology",
+    "23979823": {
+        "title": "Cement capacity with emissions reduction technology",
         "subtitle": "The percentage of developing and operating cement capacity, by country, with and without installed emission reduction technologies.",
-        "x_axis": "Cem type %",
+        "x_axis": "Cem type",
         "values": [
-            "CCS/CCUS %",
-            "Alternative Fuel %",
-            "Clay Calcination %"
+            "CCS/CCUS",
+            "Alternative Fuel",
+            "Clay Calcination"
         ],
         "dataset": "green_cement_062025",
         "initial_state": "India",

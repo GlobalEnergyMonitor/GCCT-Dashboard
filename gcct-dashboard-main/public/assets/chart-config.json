@@ -1,6 +1,6 @@
 {
     "23491110": {
-        "title": "Operating and Developing Cement and Clinker Capacity by Color",
+        "title": "Operating and developing cement and clinker capacity by color",
         "subtitle": "Operating and developing cement and clinker capacity in million tonnes per annum (mtpa) by country, divided between grey, white, grey and white, and unknown color. Grey cement is the most commonly used cement color, and generally produces less carbon dioxide emissions than white cement, which has more specific fuel and raw material requirements for production.",
         "x_axis": "Capacity",
         "values": [
@@ -47,14 +47,14 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "23487521": {
-        "title": "Cement capacity with emission reduction technology",
+    "23979823": {
+        "title": "Cement capacity with emissions reduction technology",
         "subtitle": "The percentage of developing and operating cement capacity, by country, with and without installed emission reduction technologies.",
-        "x_axis": "Cem type %",
+        "x_axis": "Cem type",
         "values": [
-            "CCS/CCUS %",
-            "Alternative Fuel %",
-            "Clay Calcination %"
+            "CCS/CCUS",
+            "Alternative Fuel",
+            "Clay Calcination"
         ],
         "dataset": "green_cement_062025",
         "initial_state": "India",

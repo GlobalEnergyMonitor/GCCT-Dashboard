@@ -96,7 +96,33 @@ function implementDropdown() {
         opt.text = input;
         dropdownEl.appendChild(opt);
     });
-
+    // Set selected option to match initial_state if present in any chart config
+    let initialState = null;
+    if (config.charts && typeof config.charts === 'object') {
+        for (const id in config.charts) {
+            if (config.charts[id].initial_state) {
+                initialState = config.charts[id].initial_state;
+                break;
+            }
+        }
+    }
+    if (initialState) {
+        // cycle through all countries in dropdown
+        for (let i = 0; i < dropdownEl.options.length; i++) {
+            // if it equals initialState country 
+            if (
+                dropdownEl.options[i].text === initialState ||
+                dropdownEl.options[i].value === formatName(initialState)
+            ) {
+                // then grab the index and set dashboard there
+                dropdownEl.selectedIndex = i;
+                // console.log(dropdownEl.selectedIndex) // 65
+                // console.log(dropdownEl.options[i].text) // India
+                // console.log(dropdownEl.options[i].value) // India
+                break;
+            }
+        }
+    }
     const controlsContainer = document.querySelector('.controls-container');
     controlsContainer.appendChild(label);
     controlsContainer.appendChild(dropdownEl);

@@ -1,0 +1,1178 @@
+[
+  {
+    "Country": "Global",
+    "Operating Cement Capacity": 5167.9,
+    "Operating Clinker Capacity": 2999.2,
+    "Developing Cement Capacity": 197.5,
+    "Developing Clinker Capacity": 62.9
+  },
+  {
+    "Country": "Afghanistan",
+    "Operating Cement Capacity": 0.7,
+    "Operating Clinker Capacity": 0.5,
+    "Developing Cement Capacity": 5,
+    "Developing Clinker Capacity": 0.3
+  },
+  {
+    "Country": "Albania",
+    "Operating Cement Capacity": 3.7,
+    "Operating Clinker Capacity": 2.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Algeria",
+    "Operating Cement Capacity": 34.1,
+    "Operating Clinker Capacity": 19.1,
+    "Developing Cement Capacity": 1.8,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Angola",
+    "Operating Cement Capacity": 9.2,
+    "Operating Clinker Capacity": 7.1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Argentina",
+    "Operating Cement Capacity": 24.2,
+    "Operating Clinker Capacity": 7.1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Armenia",
+    "Operating Cement Capacity": 1.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Australia",
+    "Operating Cement Capacity": 18,
+    "Operating Clinker Capacity": 2.9,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Austria",
+    "Operating Cement Capacity": 5.9,
+    "Operating Clinker Capacity": 2.8,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Azerbaijan",
+    "Operating Cement Capacity": 5.5,
+    "Operating Clinker Capacity": 4.7,
+    "Developing Cement Capacity": 0.1,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Bahrain",
+    "Operating Cement Capacity": 1.8,
+    "Operating Clinker Capacity": 0.4,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Bangladesh",
+    "Operating Cement Capacity": 79.4,
+    "Operating Clinker Capacity": 1.6,
+    "Developing Cement Capacity": 2.9,
+    "Developing Clinker Capacity": 4.4
+  },
+  {
+    "Country": "Barbados",
+    "Operating Cement Capacity": 0.4,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Belarus",
+    "Operating Cement Capacity": 5.2,
+    "Operating Clinker Capacity": 1.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Belgium",
+    "Operating Cement Capacity": 10.8,
+    "Operating Clinker Capacity": 5.9,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Benin",
+    "Operating Cement Capacity": 3.6,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 2,
+    "Developing Clinker Capacity": 1.8
+  },
+  {
+    "Country": "Bhutan",
+    "Operating Cement Capacity": 2.4,
+    "Operating Clinker Capacity": 1.6,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Bolivia",
+    "Operating Cement Capacity": 8.7,
+    "Operating Clinker Capacity": 2.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Operating Cement Capacity": 1.5,
+    "Operating Clinker Capacity": 1.4,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Botswana",
+    "Operating Cement Capacity": 1.3,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0.9,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Brazil",
+    "Operating Cement Capacity": 98.3,
+    "Operating Clinker Capacity": 28.9,
+    "Developing Cement Capacity": 6.6,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Brunei",
+    "Operating Cement Capacity": 0.5,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Bulgaria",
+    "Operating Cement Capacity": 5.2,
+    "Operating Clinker Capacity": 2.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Burkina Faso",
+    "Operating Cement Capacity": 8.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0.3,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Burundi",
+    "Operating Cement Capacity": 0.3,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0.6,
+    "Developing Clinker Capacity": 1
+  },
+  {
+    "Country": "Cambodia",
+    "Operating Cement Capacity": 8.2,
+    "Operating Clinker Capacity": 3.3,
+    "Developing Cement Capacity": 2,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Operating Cement Capacity": 9.4,
+    "Operating Clinker Capacity": 0.4,
+    "Developing Cement Capacity": 1,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Canada",
+    "Operating Cement Capacity": 22.4,
+    "Operating Clinker Capacity": 9.8,
+    "Developing Cement Capacity": 1.8,
+    "Developing Clinker Capacity": 1
+  },
+  {
+    "Country": "Chad",
+    "Operating Cement Capacity": 0.7,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Chile",
+    "Operating Cement Capacity": 8.7,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "China",
+    "Operating Cement Capacity": 1772,
+    "Operating Clinker Capacity": 1346.2,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Colombia",
+    "Operating Cement Capacity": 17.9,
+    "Operating Clinker Capacity": 0.5,
+    "Developing Cement Capacity": 2.7,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Costa Rica",
+    "Operating Cement Capacity": 3.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "Operating Cement Capacity": 8.5,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 3.5,
+    "Developing Clinker Capacity": 0.4
+  },
+  {
+    "Country": "Croatia",
+    "Operating Cement Capacity": 4.3,
+    "Operating Clinker Capacity": 1.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Cuba",
+    "Operating Cement Capacity": 3.7,
+    "Operating Clinker Capacity": 3.8,
+    "Developing Cement Capacity": 2,
+    "Developing Clinker Capacity": 0.7
+  },
+  {
+    "Country": "Cyprus",
+    "Operating Cement Capacity": 2.5,
+    "Operating Clinker Capacity": 2.2,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Czech Republic",
+    "Operating Cement Capacity": 4.9,
+    "Operating Clinker Capacity": 2,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Denmark",
+    "Operating Cement Capacity": 2.4,
+    "Operating Clinker Capacity": 1.6,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Djibouti",
+    "Operating Cement Capacity": 0.5,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0.6,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Operating Cement Capacity": 10.4,
+    "Operating Clinker Capacity": 0.8,
+    "Developing Cement Capacity": 1.2,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "DR Congo",
+    "Operating Cement Capacity": 4.9,
+    "Operating Clinker Capacity": 4,
+    "Developing Cement Capacity": 2.2,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Ecuador",
+    "Operating Cement Capacity": 8.4,
+    "Operating Clinker Capacity": 2.9,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Egypt",
+    "Operating Cement Capacity": 93.9,
+    "Operating Clinker Capacity": 39.3,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Ethiopia",
+    "Operating Cement Capacity": 20.1,
+    "Operating Clinker Capacity": 12.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "El Salvador",
+    "Operating Cement Capacity": 4,
+    "Operating Clinker Capacity": 0.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Eritrea",
+    "Operating Cement Capacity": 0.4,
+    "Operating Clinker Capacity": 0.4,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Estonia",
+    "Operating Cement Capacity": 0.8,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Eswatini",
+    "Operating Cement Capacity": 0,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Fiji",
+    "Operating Cement Capacity": 0.3,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Finland",
+    "Operating Cement Capacity": 2.6,
+    "Operating Clinker Capacity": 0.5,
+    "Developing Cement Capacity": 0.3,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "France",
+    "Operating Cement Capacity": 32.5,
+    "Operating Clinker Capacity": 5.4,
+    "Developing Cement Capacity": 1,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "French Guiana",
+    "Operating Cement Capacity": 0.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Gabon",
+    "Operating Cement Capacity": 1.5,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0.2,
+    "Developing Clinker Capacity": 0.9
+  },
+  {
+    "Country": "Georgia",
+    "Operating Cement Capacity": 2.5,
+    "Operating Clinker Capacity": 1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Germany",
+    "Operating Cement Capacity": 36.7,
+    "Operating Clinker Capacity": 22.1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Ghana",
+    "Operating Cement Capacity": 10.7,
+    "Operating Clinker Capacity": 0.4,
+    "Developing Cement Capacity": 2.7,
+    "Developing Clinker Capacity": 0.4
+  },
+  {
+    "Country": "Greece",
+    "Operating Cement Capacity": 14.5,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Guadeloupe",
+    "Operating Cement Capacity": 0.4,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Guatemala",
+    "Operating Cement Capacity": 6.2,
+    "Operating Clinker Capacity": 3.6,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Guinea",
+    "Operating Cement Capacity": 2.7,
+    "Operating Clinker Capacity": 0.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Operating Cement Capacity": 0.3,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Haiti",
+    "Operating Cement Capacity": 0,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Honduras",
+    "Operating Cement Capacity": 3.6,
+    "Operating Clinker Capacity": 2.8,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Hong Kong",
+    "Operating Cement Capacity": 2.5,
+    "Operating Clinker Capacity": 1.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Hungary",
+    "Operating Cement Capacity": 5,
+    "Operating Clinker Capacity": 3.2,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "India",
+    "Operating Cement Capacity": 714.3,
+    "Operating Clinker Capacity": 369.4,
+    "Developing Cement Capacity": 52.4,
+    "Developing Clinker Capacity": 34.4
+  },
+  {
+    "Country": "Indonesia",
+    "Operating Cement Capacity": 134.6,
+    "Operating Clinker Capacity": 53.8,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Iran",
+    "Operating Cement Capacity": 88.6,
+    "Operating Clinker Capacity": 46.5,
+    "Developing Cement Capacity": 1.1,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Iraq",
+    "Operating Cement Capacity": 38.5,
+    "Operating Clinker Capacity": 31.7,
+    "Developing Cement Capacity": 9.5,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Ireland",
+    "Operating Cement Capacity": 6.3,
+    "Operating Clinker Capacity": 0.8,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Israel",
+    "Operating Cement Capacity": 6,
+    "Operating Clinker Capacity": 4,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Italy",
+    "Operating Cement Capacity": 22.1,
+    "Operating Clinker Capacity": 15.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Jamaica",
+    "Operating Cement Capacity": 1.8,
+    "Operating Clinker Capacity": 1.3,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Japan",
+    "Operating Cement Capacity": 66.4,
+    "Operating Clinker Capacity": 53.8,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Jordan",
+    "Operating Cement Capacity": 9.3,
+    "Operating Clinker Capacity": 3.8,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Kazakhstan",
+    "Operating Cement Capacity": 17.1,
+    "Operating Clinker Capacity": 4.7,
+    "Developing Cement Capacity": 3.3,
+    "Developing Clinker Capacity": 0.9
+  },
+  {
+    "Country": "Kenya",
+    "Operating Cement Capacity": 11.3,
+    "Operating Clinker Capacity": 5.2,
+    "Developing Cement Capacity": 3.5,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Kosovo",
+    "Operating Cement Capacity": 0.7,
+    "Operating Clinker Capacity": 0.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Kuwait",
+    "Operating Cement Capacity": 11.5,
+    "Operating Clinker Capacity": 5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Operating Cement Capacity": 6.2,
+    "Operating Clinker Capacity": 1.2,
+    "Developing Cement Capacity": 1.3,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Laos",
+    "Operating Cement Capacity": 14.8,
+    "Operating Clinker Capacity": 3.7,
+    "Developing Cement Capacity": 1.8,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Latvia",
+    "Operating Cement Capacity": 1.6,
+    "Operating Clinker Capacity": 1.1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Lebanon",
+    "Operating Cement Capacity": 7.2,
+    "Operating Clinker Capacity": 3.6,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Lesotho",
+    "Operating Cement Capacity": 0.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Liberia",
+    "Operating Cement Capacity": 0.5,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 1,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Libya",
+    "Operating Cement Capacity": 6.9,
+    "Operating Clinker Capacity": 3.6,
+    "Developing Cement Capacity": 5,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Lithuania",
+    "Operating Cement Capacity": 1,
+    "Operating Clinker Capacity": 1.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Luxembourg",
+    "Operating Cement Capacity": 1.5,
+    "Operating Clinker Capacity": 1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Macao",
+    "Operating Cement Capacity": 0.6,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Madagascar",
+    "Operating Cement Capacity": 0.2,
+    "Operating Clinker Capacity": 0.1,
+    "Developing Cement Capacity": 0.5,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Malawi",
+    "Operating Cement Capacity": 2.4,
+    "Operating Clinker Capacity": 1.1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Malaysia",
+    "Operating Cement Capacity": 31.2,
+    "Operating Clinker Capacity": 23.6,
+    "Developing Cement Capacity": 1.8,
+    "Developing Clinker Capacity": 1.8
+  },
+  {
+    "Country": "Mali",
+    "Operating Cement Capacity": 2.3,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 5.8,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Martinique",
+    "Operating Cement Capacity": 0.4,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Mauritania",
+    "Operating Cement Capacity": 2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Mexico",
+    "Operating Cement Capacity": 56.6,
+    "Operating Clinker Capacity": 2.7,
+    "Developing Cement Capacity": 1.1,
+    "Developing Clinker Capacity": 1.1
+  },
+  {
+    "Country": "Moldova",
+    "Operating Cement Capacity": 1.5,
+    "Operating Clinker Capacity": 1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Mongolia",
+    "Operating Cement Capacity": 5.1,
+    "Operating Clinker Capacity": 3.9,
+    "Developing Cement Capacity": 1.2,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Montenegro",
+    "Operating Cement Capacity": 0,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0.8,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Morocco",
+    "Operating Cement Capacity": 27.7,
+    "Operating Clinker Capacity": 7.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Mozambique",
+    "Operating Cement Capacity": 6,
+    "Operating Clinker Capacity": 1.1,
+    "Developing Cement Capacity": 2.4,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Myanmar",
+    "Operating Cement Capacity": 17.6,
+    "Operating Clinker Capacity": 13.6,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Namibia",
+    "Operating Cement Capacity": 2.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Nepal",
+    "Operating Cement Capacity": 28.8,
+    "Operating Clinker Capacity": 21.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Netherlands",
+    "Operating Cement Capacity": 2.7,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 1.2,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "New Caledonia",
+    "Operating Cement Capacity": 0.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "New Zealand",
+    "Operating Cement Capacity": 1,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Nicaragua",
+    "Operating Cement Capacity": 1,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Niger",
+    "Operating Cement Capacity": 1.7,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0.7,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Operating Cement Capacity": 74.4,
+    "Operating Clinker Capacity": 12.2,
+    "Developing Cement Capacity": 13,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "North Korea",
+    "Operating Cement Capacity": 9.7,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "North Macedonia",
+    "Operating Cement Capacity": 0.9,
+    "Operating Clinker Capacity": 1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Norway",
+    "Operating Cement Capacity": 1.7,
+    "Operating Clinker Capacity": 0.6,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Oman",
+    "Operating Cement Capacity": 8.1,
+    "Operating Clinker Capacity": 5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Pakistan",
+    "Operating Cement Capacity": 88.6,
+    "Operating Clinker Capacity": 87.9,
+    "Developing Cement Capacity": 4,
+    "Developing Clinker Capacity": 4
+  },
+  {
+    "Country": "Panama",
+    "Operating Cement Capacity": 3.2,
+    "Operating Clinker Capacity": 1.6,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Operating Cement Capacity": 0.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0.9,
+    "Developing Clinker Capacity": 1.7
+  },
+  {
+    "Country": "Paraguay",
+    "Operating Cement Capacity": 3.5,
+    "Operating Clinker Capacity": 0.6,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Peru",
+    "Operating Cement Capacity": 17.4,
+    "Operating Clinker Capacity": 9.8,
+    "Developing Cement Capacity": 1.5,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Philippines",
+    "Operating Cement Capacity": 46.4,
+    "Operating Clinker Capacity": 17.7,
+    "Developing Cement Capacity": 4.7,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Poland",
+    "Operating Cement Capacity": 21,
+    "Operating Clinker Capacity": 7.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Portugal",
+    "Operating Cement Capacity": 12.8,
+    "Operating Clinker Capacity": 6.2,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Operating Cement Capacity": 2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Qatar",
+    "Operating Cement Capacity": 12,
+    "Operating Clinker Capacity": 8.4,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Operating Cement Capacity": 3.3,
+    "Operating Clinker Capacity": 0.7,
+    "Developing Cement Capacity": 0.6,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Reunion",
+    "Operating Cement Capacity": 0.5,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Romania",
+    "Operating Cement Capacity": 16.4,
+    "Operating Clinker Capacity": 6.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Russia",
+    "Operating Cement Capacity": 87.4,
+    "Operating Clinker Capacity": 25.6,
+    "Developing Cement Capacity": 6.3,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Rwanda",
+    "Operating Cement Capacity": 2.2,
+    "Operating Clinker Capacity": 0.1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Samoa",
+    "Operating Cement Capacity": 0,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Operating Cement Capacity": 82.9,
+    "Operating Clinker Capacity": 58.6,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Senegal",
+    "Operating Cement Capacity": 8,
+    "Operating Clinker Capacity": 5.3,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Serbia",
+    "Operating Cement Capacity": 3.1,
+    "Operating Clinker Capacity": 2.2,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Sierra Leone",
+    "Operating Cement Capacity": 1.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0.6,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Slovakia",
+    "Operating Cement Capacity": 4,
+    "Operating Clinker Capacity": 0.4,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Slovenia",
+    "Operating Cement Capacity": 1.8,
+    "Operating Clinker Capacity": 1.2,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "South Africa",
+    "Operating Cement Capacity": 21,
+    "Operating Clinker Capacity": 14.1,
+    "Developing Cement Capacity": 1.7,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "South Korea",
+    "Operating Cement Capacity": 84.8,
+    "Operating Clinker Capacity": 50,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Spain",
+    "Operating Cement Capacity": 49.1,
+    "Operating Clinker Capacity": 28.8,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Sri Lanka",
+    "Operating Cement Capacity": 9.5,
+    "Operating Clinker Capacity": 0.7,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Sudan",
+    "Operating Cement Capacity": 9.8,
+    "Operating Clinker Capacity": 1.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Suriname",
+    "Operating Cement Capacity": 0.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Sweden",
+    "Operating Cement Capacity": 3.5,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Switzerland",
+    "Operating Cement Capacity": 4.4,
+    "Operating Clinker Capacity": 2.1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Syria",
+    "Operating Cement Capacity": 3.2,
+    "Operating Clinker Capacity": 1.2,
+    "Developing Cement Capacity": 0.5,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Taiwan",
+    "Operating Cement Capacity": 12.3,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Tajikistan",
+    "Operating Cement Capacity": 5.3,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 1.9,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Tanzania",
+    "Operating Cement Capacity": 8.3,
+    "Operating Clinker Capacity": 3.9,
+    "Developing Cement Capacity": 2.5,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Thailand",
+    "Operating Cement Capacity": 60.9,
+    "Operating Clinker Capacity": 51.3,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Togo",
+    "Operating Cement Capacity": 3.1,
+    "Operating Clinker Capacity": 1.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Operating Cement Capacity": 1,
+    "Operating Clinker Capacity": 0.8,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Tunisia",
+    "Operating Cement Capacity": 13.2,
+    "Operating Clinker Capacity": 8.8,
+    "Developing Cement Capacity": 1.5,
+    "Developing Clinker Capacity": 1.2
+  },
+  {
+    "Country": "Turkiye",
+    "Operating Cement Capacity": 142.7,
+    "Operating Clinker Capacity": 77.6,
+    "Developing Cement Capacity": 1,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Turkmenistan",
+    "Operating Cement Capacity": 5.7,
+    "Operating Clinker Capacity": 2.5,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Uganda",
+    "Operating Cement Capacity": 5.5,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 3.7,
+    "Developing Clinker Capacity": 2.2
+  },
+  {
+    "Country": "Ukraine",
+    "Operating Cement Capacity": 15,
+    "Operating Clinker Capacity": 6.3,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Operating Cement Capacity": 43.6,
+    "Operating Clinker Capacity": 25.1,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "United Kingdom",
+    "Operating Cement Capacity": 13.9,
+    "Operating Clinker Capacity": 9.8,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "United States",
+    "Operating Cement Capacity": 102.9,
+    "Operating Clinker Capacity": 72,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Uruguay",
+    "Operating Cement Capacity": 1.1,
+    "Operating Clinker Capacity": 0.9,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Uzbekistan",
+    "Operating Cement Capacity": 28.8,
+    "Operating Clinker Capacity": 19.3,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Venezuela",
+    "Operating Cement Capacity": 13,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Vietnam",
+    "Operating Cement Capacity": 150,
+    "Operating Clinker Capacity": 105,
+    "Developing Cement Capacity": 16.8,
+    "Developing Clinker Capacity": 4.6
+  },
+  {
+    "Country": "Western Sahara",
+    "Operating Cement Capacity": 1.2,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Yemen",
+    "Operating Cement Capacity": 7.7,
+    "Operating Clinker Capacity": 1.3,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Zambia",
+    "Operating Cement Capacity": 7.8,
+    "Operating Clinker Capacity": 0,
+    "Developing Cement Capacity": 0,
+    "Developing Clinker Capacity": 0
+  },
+  {
+    "Country": "Zimbabwe",
+    "Operating Cement Capacity": 3.2,
+    "Operating Clinker Capacity": 0.3,
+    "Developing Cement Capacity": 0.9,
+    "Developing Clinker Capacity": 0
+  }
+]

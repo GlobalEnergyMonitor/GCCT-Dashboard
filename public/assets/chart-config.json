@@ -1,0 +1,64 @@
+{
+    "24160385": {
+        "title": "Operating and developing cement and clinker capacity by color",
+        "subtitle": "Operating and developing cement and clinker capacity in million tonnes per annum (mtpa) by country and by cement color.",
+        "x_axis": "Capacity",
+        "values": [
+            "Grey",
+            "White",
+            "Grey and White",
+            "Unknown"
+        ],
+        "dataset": "cem_color_062025",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "24160960": {
+        "title": "Operating and developing cement capacity by type",
+        "subtitle": "Operating and developing cement capacity in million tonnes per annum (mtpa) by country, plant type, and cement type.",
+        "x_axis": "Capacity",
+        "values": [
+            "OPC",
+            "Blended",
+            "Unknown"
+        ],
+        "dataset": "cem_type_062025",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "23588397": {
+        "title": "Operating cement capacity by plant age",
+        "subtitle": "Distribution of plant ages weighted by capacity in million tonnes per annum (mtpa) of each plant, compared to that of the entire world. Cement plant age is the amount of time a plant has been operating in its specific location, and does not represent the age of the machinery at the given plant. Although GEM does not currently track limestone reserves, cement plant age can be representative of the amount of time that a given plant has been extracting limestone in its local market, as well as the maturity of a country's cement industry.",
+        "color": "Country or World",
+        "size": "Cement Capacity",
+        "x": "Age (years)",
+        "y": "Country or World",
+        "name": "",
+        "labelpopupinfo": [
+            "Age (years)",
+            "Cement Capacity",
+            "Country or World",
+            "Weighted Average Age"
+        ],
+        "dataset": "plant_age_062025",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "24161189": {
+        "title": "Cement capacity with emissions reduction technology",
+        "subtitle": "The percentage of developing and operating cement capacity, by country, with and without installed emission reduction technologies.",
+        "x_axis": "Cem type",
+        "values": [
+            "CCS/CCUS",
+            "Alternative Fuel",
+            "Clay Calcination"
+        ],
+        "dataset": "green_cement_062025",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    }
+}

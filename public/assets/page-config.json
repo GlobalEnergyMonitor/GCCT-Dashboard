@@ -1,0 +1,49 @@
+{
+    "flourish_ids": [
+        "24160385",
+        "24160960",
+        "24161189"      
+    ],
+    "input_type": "dropdown",
+    "input_filter": "Country",
+    "input_default": "Global",
+    "overall_summary": false,
+    "ticker_text_font-size": "2rem",
+    "ticker_data": "gcct_dataticker_2025",
+    "tickers": [{
+        "id": "summary_1",
+        "decimal_places": 1,
+        "style": {
+            "color": "#BF532C",
+            "font-weight": "bold",
+            "font-size": "3.5rem"
+        }
+    },
+    {
+        "id": "summary_2",
+        "decimal_places": 1,
+        "style": {
+            "color": "#761201",
+            "font-weight": "bold",
+            "font-size": "3.5rem"
+        }
+    },
+    {
+        "id": "summary_3",
+        "decimal_places": 1,
+        "style": {
+            "color": "#BF532C",
+            "font-weight": "bold",
+            "font-size": "3.5rem"
+        }
+    },
+    {
+        "id": "summary_4",
+        "decimal_places": 1,
+        "style": {
+            "color": "#761201",
+            "font-weight": "bold",
+            "font-size": "3.5rem"
+        }
+    }]
+}

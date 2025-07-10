@@ -1,1178 +1,1178 @@
 [
   {
     "Country": "Global",
-    "Operating Cement Capacity": 5167.9,
-    "Operating Clinker Capacity": 2999.2,
-    "Developing Cement Capacity": 197.5,
-    "Developing Clinker Capacity": 62.9
+    "summary_1": "<span>{{5167.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{197.5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2999.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{62.9}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Afghanistan",
-    "Operating Cement Capacity": 0.7,
-    "Operating Clinker Capacity": 0.5,
-    "Developing Cement Capacity": 5,
-    "Developing Clinker Capacity": 0.3
+    "summary_1": "<span>{{0.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0.3}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Albania",
-    "Operating Cement Capacity": 3.7,
-    "Operating Clinker Capacity": 2.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Algeria",
-    "Operating Cement Capacity": 34.1,
-    "Operating Clinker Capacity": 19.1,
-    "Developing Cement Capacity": 1.8,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{34.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.8}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{19.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Angola",
-    "Operating Cement Capacity": 9.2,
-    "Operating Clinker Capacity": 7.1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{9.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{7.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Argentina",
-    "Operating Cement Capacity": 24.2,
-    "Operating Clinker Capacity": 7.1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{24.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{7.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Armenia",
-    "Operating Cement Capacity": 1.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Australia",
-    "Operating Cement Capacity": 18,
-    "Operating Clinker Capacity": 2.9,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{18}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.9}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Austria",
-    "Operating Cement Capacity": 5.9,
-    "Operating Clinker Capacity": 2.8,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{5.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Azerbaijan",
-    "Operating Cement Capacity": 5.5,
-    "Operating Clinker Capacity": 4.7,
-    "Developing Cement Capacity": 0.1,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{5.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.1}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{4.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Bahrain",
-    "Operating Cement Capacity": 1.8,
-    "Operating Clinker Capacity": 0.4,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Bangladesh",
-    "Operating Cement Capacity": 79.4,
-    "Operating Clinker Capacity": 1.6,
-    "Developing Cement Capacity": 2.9,
-    "Developing Clinker Capacity": 4.4
+    "summary_1": "<span>{{79.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{2.9}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{4.4}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Barbados",
-    "Operating Cement Capacity": 0.4,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Belarus",
-    "Operating Cement Capacity": 5.2,
-    "Operating Clinker Capacity": 1.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{5.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Belgium",
-    "Operating Cement Capacity": 10.8,
-    "Operating Clinker Capacity": 5.9,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{10.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{5.9}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Benin",
-    "Operating Cement Capacity": 3.6,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 2,
-    "Developing Clinker Capacity": 1.8
+    "summary_1": "<span>{{3.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{2}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{1.8}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Bhutan",
-    "Operating Cement Capacity": 2.4,
-    "Operating Clinker Capacity": 1.6,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Bolivia",
-    "Operating Cement Capacity": 8.7,
-    "Operating Clinker Capacity": 2.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{8.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Bosnia and Herzegovina",
-    "Operating Cement Capacity": 1.5,
-    "Operating Clinker Capacity": 1.4,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Botswana",
-    "Operating Cement Capacity": 1.3,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0.9,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.9}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Brazil",
-    "Operating Cement Capacity": 98.3,
-    "Operating Clinker Capacity": 28.9,
-    "Developing Cement Capacity": 6.6,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{98.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{6.6}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{28.9}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Brunei",
-    "Operating Cement Capacity": 0.5,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Bulgaria",
-    "Operating Cement Capacity": 5.2,
-    "Operating Clinker Capacity": 2.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{5.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Burkina Faso",
-    "Operating Cement Capacity": 8.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0.3,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{8.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.3}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Burundi",
-    "Operating Cement Capacity": 0.3,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0.6,
-    "Developing Clinker Capacity": 1
+    "summary_1": "<span>{{0.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.6}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{1}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Cambodia",
-    "Operating Cement Capacity": 8.2,
-    "Operating Clinker Capacity": 3.3,
-    "Developing Cement Capacity": 2,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{8.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{2}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.3}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Cameroon",
-    "Operating Cement Capacity": 9.4,
-    "Operating Clinker Capacity": 0.4,
-    "Developing Cement Capacity": 1,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{9.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Canada",
-    "Operating Cement Capacity": 22.4,
-    "Operating Clinker Capacity": 9.8,
-    "Developing Cement Capacity": 1.8,
-    "Developing Clinker Capacity": 1
+    "summary_1": "<span>{{22.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.8}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{9.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{1}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Chad",
-    "Operating Cement Capacity": 0.7,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Chile",
-    "Operating Cement Capacity": 8.7,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{8.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "China",
-    "Operating Cement Capacity": 1772,
-    "Operating Clinker Capacity": 1346.2,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1772}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1346.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Colombia",
-    "Operating Cement Capacity": 17.9,
-    "Operating Clinker Capacity": 0.5,
-    "Developing Cement Capacity": 2.7,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{17.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{2.7}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Costa Rica",
-    "Operating Cement Capacity": 3.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
-    "Country": "Côte d'Ivoire",
-    "Operating Cement Capacity": 8.5,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 3.5,
-    "Developing Clinker Capacity": 0.4
+    "Country": "Cote d'Ivoire",
+    "summary_1": "<span>{{8.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{3.5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0.4}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Croatia",
-    "Operating Cement Capacity": 4.3,
-    "Operating Clinker Capacity": 1.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{4.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Cuba",
-    "Operating Cement Capacity": 3.7,
-    "Operating Clinker Capacity": 3.8,
-    "Developing Cement Capacity": 2,
-    "Developing Clinker Capacity": 0.7
+    "summary_1": "<span>{{3.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{2}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0.7}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Cyprus",
-    "Operating Cement Capacity": 2.5,
-    "Operating Clinker Capacity": 2.2,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Czech Republic",
-    "Operating Cement Capacity": 4.9,
-    "Operating Clinker Capacity": 2,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{4.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Denmark",
-    "Operating Cement Capacity": 2.4,
-    "Operating Clinker Capacity": 1.6,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Djibouti",
-    "Operating Cement Capacity": 0.5,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0.6,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.6}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Dominican Republic",
-    "Operating Cement Capacity": 10.4,
-    "Operating Clinker Capacity": 0.8,
-    "Developing Cement Capacity": 1.2,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{10.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.2}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "DR Congo",
-    "Operating Cement Capacity": 4.9,
-    "Operating Clinker Capacity": 4,
-    "Developing Cement Capacity": 2.2,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{4.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{2.2}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Ecuador",
-    "Operating Cement Capacity": 8.4,
-    "Operating Clinker Capacity": 2.9,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{8.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.9}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Egypt",
-    "Operating Cement Capacity": 93.9,
-    "Operating Clinker Capacity": 39.3,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{93.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{39.3}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Ethiopia",
-    "Operating Cement Capacity": 20.1,
-    "Operating Clinker Capacity": 12.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{20.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{12.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "El Salvador",
-    "Operating Cement Capacity": 4,
-    "Operating Clinker Capacity": 0.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Eritrea",
-    "Operating Cement Capacity": 0.4,
-    "Operating Clinker Capacity": 0.4,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Estonia",
-    "Operating Cement Capacity": 0.8,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Eswatini",
-    "Operating Cement Capacity": 0,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Fiji",
-    "Operating Cement Capacity": 0.3,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Finland",
-    "Operating Cement Capacity": 2.6,
-    "Operating Clinker Capacity": 0.5,
-    "Developing Cement Capacity": 0.3,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.3}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "France",
-    "Operating Cement Capacity": 32.5,
-    "Operating Clinker Capacity": 5.4,
-    "Developing Cement Capacity": 1,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{32.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{5.4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "French Guiana",
-    "Operating Cement Capacity": 0.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Gabon",
-    "Operating Cement Capacity": 1.5,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0.2,
-    "Developing Clinker Capacity": 0.9
+    "summary_1": "<span>{{1.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.2}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0.9}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Georgia",
-    "Operating Cement Capacity": 2.5,
-    "Operating Clinker Capacity": 1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Germany",
-    "Operating Cement Capacity": 36.7,
-    "Operating Clinker Capacity": 22.1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{36.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{22.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Ghana",
-    "Operating Cement Capacity": 10.7,
-    "Operating Clinker Capacity": 0.4,
-    "Developing Cement Capacity": 2.7,
-    "Developing Clinker Capacity": 0.4
+    "summary_1": "<span>{{10.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{2.7}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0.4}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Greece",
-    "Operating Cement Capacity": 14.5,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{14.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Guadeloupe",
-    "Operating Cement Capacity": 0.4,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Guatemala",
-    "Operating Cement Capacity": 6.2,
-    "Operating Clinker Capacity": 3.6,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{6.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Guinea",
-    "Operating Cement Capacity": 2.7,
-    "Operating Clinker Capacity": 0.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Guinea-Bissau",
-    "Operating Cement Capacity": 0.3,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Haiti",
-    "Operating Cement Capacity": 0,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Honduras",
-    "Operating Cement Capacity": 3.6,
-    "Operating Clinker Capacity": 2.8,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Hong Kong",
-    "Operating Cement Capacity": 2.5,
-    "Operating Clinker Capacity": 1.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Hungary",
-    "Operating Cement Capacity": 5,
-    "Operating Clinker Capacity": 3.2,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "India",
-    "Operating Cement Capacity": 714.3,
-    "Operating Clinker Capacity": 369.4,
-    "Developing Cement Capacity": 52.4,
-    "Developing Clinker Capacity": 34.4
+    "summary_1": "<span>{{714.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{52.4}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{369.4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{34.4}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Indonesia",
-    "Operating Cement Capacity": 134.6,
-    "Operating Clinker Capacity": 53.8,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{134.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{53.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Iran",
-    "Operating Cement Capacity": 88.6,
-    "Operating Clinker Capacity": 46.5,
-    "Developing Cement Capacity": 1.1,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{88.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.1}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{46.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Iraq",
-    "Operating Cement Capacity": 38.5,
-    "Operating Clinker Capacity": 31.7,
-    "Developing Cement Capacity": 9.5,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{38.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{9.5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{31.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Ireland",
-    "Operating Cement Capacity": 6.3,
-    "Operating Clinker Capacity": 0.8,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{6.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Israel",
-    "Operating Cement Capacity": 6,
-    "Operating Clinker Capacity": 4,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Italy",
-    "Operating Cement Capacity": 22.1,
-    "Operating Clinker Capacity": 15.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{22.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{15.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Jamaica",
-    "Operating Cement Capacity": 1.8,
-    "Operating Clinker Capacity": 1.3,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.3}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Japan",
-    "Operating Cement Capacity": 66.4,
-    "Operating Clinker Capacity": 53.8,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{66.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{53.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Jordan",
-    "Operating Cement Capacity": 9.3,
-    "Operating Clinker Capacity": 3.8,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{9.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Kazakhstan",
-    "Operating Cement Capacity": 17.1,
-    "Operating Clinker Capacity": 4.7,
-    "Developing Cement Capacity": 3.3,
-    "Developing Clinker Capacity": 0.9
+    "summary_1": "<span>{{17.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{3.3}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{4.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0.9}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Kenya",
-    "Operating Cement Capacity": 11.3,
-    "Operating Clinker Capacity": 5.2,
-    "Developing Cement Capacity": 3.5,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{11.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{3.5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{5.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Kosovo",
-    "Operating Cement Capacity": 0.7,
-    "Operating Clinker Capacity": 0.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Kuwait",
-    "Operating Cement Capacity": 11.5,
-    "Operating Clinker Capacity": 5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{11.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Kyrgyzstan",
-    "Operating Cement Capacity": 6.2,
-    "Operating Clinker Capacity": 1.2,
-    "Developing Cement Capacity": 1.3,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{6.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.3}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Laos",
-    "Operating Cement Capacity": 14.8,
-    "Operating Clinker Capacity": 3.7,
-    "Developing Cement Capacity": 1.8,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{14.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.8}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Latvia",
-    "Operating Cement Capacity": 1.6,
-    "Operating Clinker Capacity": 1.1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Lebanon",
-    "Operating Cement Capacity": 7.2,
-    "Operating Clinker Capacity": 3.6,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{7.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Lesotho",
-    "Operating Cement Capacity": 0.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Liberia",
-    "Operating Cement Capacity": 0.5,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 1,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Libya",
-    "Operating Cement Capacity": 6.9,
-    "Operating Clinker Capacity": 3.6,
-    "Developing Cement Capacity": 5,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{6.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Lithuania",
-    "Operating Cement Capacity": 1,
-    "Operating Clinker Capacity": 1.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Luxembourg",
-    "Operating Cement Capacity": 1.5,
-    "Operating Clinker Capacity": 1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Macao",
-    "Operating Cement Capacity": 0.6,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Madagascar",
-    "Operating Cement Capacity": 0.2,
-    "Operating Clinker Capacity": 0.1,
-    "Developing Cement Capacity": 0.5,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Malawi",
-    "Operating Cement Capacity": 2.4,
-    "Operating Clinker Capacity": 1.1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Malaysia",
-    "Operating Cement Capacity": 31.2,
-    "Operating Clinker Capacity": 23.6,
-    "Developing Cement Capacity": 1.8,
-    "Developing Clinker Capacity": 1.8
+    "summary_1": "<span>{{31.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.8}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{23.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{1.8}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Mali",
-    "Operating Cement Capacity": 2.3,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 5.8,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{5.8}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Martinique",
-    "Operating Cement Capacity": 0.4,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Mauritania",
-    "Operating Cement Capacity": 2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Mexico",
-    "Operating Cement Capacity": 56.6,
-    "Operating Clinker Capacity": 2.7,
-    "Developing Cement Capacity": 1.1,
-    "Developing Clinker Capacity": 1.1
+    "summary_1": "<span>{{56.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.1}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{1.1}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Moldova",
-    "Operating Cement Capacity": 1.5,
-    "Operating Clinker Capacity": 1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Mongolia",
-    "Operating Cement Capacity": 5.1,
-    "Operating Clinker Capacity": 3.9,
-    "Developing Cement Capacity": 1.2,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{5.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.2}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.9}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Montenegro",
-    "Operating Cement Capacity": 0,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0.8,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.8}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Morocco",
-    "Operating Cement Capacity": 27.7,
-    "Operating Clinker Capacity": 7.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{27.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{7.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Mozambique",
-    "Operating Cement Capacity": 6,
-    "Operating Clinker Capacity": 1.1,
-    "Developing Cement Capacity": 2.4,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{2.4}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Myanmar",
-    "Operating Cement Capacity": 17.6,
-    "Operating Clinker Capacity": 13.6,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{17.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{13.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Namibia",
-    "Operating Cement Capacity": 2.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Nepal",
-    "Operating Cement Capacity": 28.8,
-    "Operating Clinker Capacity": 21.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{28.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{21.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Netherlands",
-    "Operating Cement Capacity": 2.7,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 1.2,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.2}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "New Caledonia",
-    "Operating Cement Capacity": 0.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "New Zealand",
-    "Operating Cement Capacity": 1,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Nicaragua",
-    "Operating Cement Capacity": 1,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Niger",
-    "Operating Cement Capacity": 1.7,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0.7,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.7}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Nigeria",
-    "Operating Cement Capacity": 74.4,
-    "Operating Clinker Capacity": 12.2,
-    "Developing Cement Capacity": 13,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{74.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{13}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{12.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "North Korea",
-    "Operating Cement Capacity": 9.7,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{9.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "North Macedonia",
-    "Operating Cement Capacity": 0.9,
-    "Operating Clinker Capacity": 1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Norway",
-    "Operating Cement Capacity": 1.7,
-    "Operating Clinker Capacity": 0.6,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Oman",
-    "Operating Cement Capacity": 8.1,
-    "Operating Clinker Capacity": 5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{8.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Pakistan",
-    "Operating Cement Capacity": 88.6,
-    "Operating Clinker Capacity": 87.9,
-    "Developing Cement Capacity": 4,
-    "Developing Clinker Capacity": 4
+    "summary_1": "<span>{{88.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{4}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{87.9}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{4}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Panama",
-    "Operating Cement Capacity": 3.2,
-    "Operating Clinker Capacity": 1.6,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Papua New Guinea",
-    "Operating Cement Capacity": 0.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0.9,
-    "Developing Clinker Capacity": 1.7
+    "summary_1": "<span>{{0.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.9}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{1.7}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Paraguay",
-    "Operating Cement Capacity": 3.5,
-    "Operating Clinker Capacity": 0.6,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Peru",
-    "Operating Cement Capacity": 17.4,
-    "Operating Clinker Capacity": 9.8,
-    "Developing Cement Capacity": 1.5,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{17.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{9.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Philippines",
-    "Operating Cement Capacity": 46.4,
-    "Operating Clinker Capacity": 17.7,
-    "Developing Cement Capacity": 4.7,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{46.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{4.7}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{17.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Poland",
-    "Operating Cement Capacity": 21,
-    "Operating Clinker Capacity": 7.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{21}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{7.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Portugal",
-    "Operating Cement Capacity": 12.8,
-    "Operating Clinker Capacity": 6.2,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{12.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{6.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Puerto Rico",
-    "Operating Cement Capacity": 2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Qatar",
-    "Operating Cement Capacity": 12,
-    "Operating Clinker Capacity": 8.4,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{12}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{8.4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Republic of the Congo",
-    "Operating Cement Capacity": 3.3,
-    "Operating Clinker Capacity": 0.7,
-    "Developing Cement Capacity": 0.6,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.6}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Reunion",
-    "Operating Cement Capacity": 0.5,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Romania",
-    "Operating Cement Capacity": 16.4,
-    "Operating Clinker Capacity": 6.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{16.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{6.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Russia",
-    "Operating Cement Capacity": 87.4,
-    "Operating Clinker Capacity": 25.6,
-    "Developing Cement Capacity": 6.3,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{87.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{6.3}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{25.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Rwanda",
-    "Operating Cement Capacity": 2.2,
-    "Operating Clinker Capacity": 0.1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{2.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Samoa",
-    "Operating Cement Capacity": 0,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Saudi Arabia",
-    "Operating Cement Capacity": 82.9,
-    "Operating Clinker Capacity": 58.6,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{82.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{58.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Senegal",
-    "Operating Cement Capacity": 8,
-    "Operating Clinker Capacity": 5.3,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{5.3}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Serbia",
-    "Operating Cement Capacity": 3.1,
-    "Operating Clinker Capacity": 2.2,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Sierra Leone",
-    "Operating Cement Capacity": 1.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0.6,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.6}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Slovakia",
-    "Operating Cement Capacity": 4,
-    "Operating Clinker Capacity": 0.4,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.4}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Slovenia",
-    "Operating Cement Capacity": 1.8,
-    "Operating Clinker Capacity": 1.2,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "South Africa",
-    "Operating Cement Capacity": 21,
-    "Operating Clinker Capacity": 14.1,
-    "Developing Cement Capacity": 1.7,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{21}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.7}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{14.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "South Korea",
-    "Operating Cement Capacity": 84.8,
-    "Operating Clinker Capacity": 50,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{84.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{50}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Spain",
-    "Operating Cement Capacity": 49.1,
-    "Operating Clinker Capacity": 28.8,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{49.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{28.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Sri Lanka",
-    "Operating Cement Capacity": 9.5,
-    "Operating Clinker Capacity": 0.7,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{9.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.7}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Sudan",
-    "Operating Cement Capacity": 9.8,
-    "Operating Clinker Capacity": 1.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{9.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Suriname",
-    "Operating Cement Capacity": 0.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{0.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Sweden",
-    "Operating Cement Capacity": 3.5,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Switzerland",
-    "Operating Cement Capacity": 4.4,
-    "Operating Clinker Capacity": 2.1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{4.4}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Syria",
-    "Operating Cement Capacity": 3.2,
-    "Operating Clinker Capacity": 1.2,
-    "Developing Cement Capacity": 0.5,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.2}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Taiwan",
-    "Operating Cement Capacity": 12.3,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{12.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Tajikistan",
-    "Operating Cement Capacity": 5.3,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 1.9,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{5.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.9}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Tanzania",
-    "Operating Cement Capacity": 8.3,
-    "Operating Clinker Capacity": 3.9,
-    "Developing Cement Capacity": 2.5,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{8.3}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{2.5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{3.9}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Thailand",
-    "Operating Cement Capacity": 60.9,
-    "Operating Clinker Capacity": 51.3,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{60.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{51.3}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Togo",
-    "Operating Cement Capacity": 3.1,
-    "Operating Clinker Capacity": 1.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Trinidad and Tobago",
-    "Operating Cement Capacity": 1,
-    "Operating Clinker Capacity": 0.8,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Tunisia",
-    "Operating Cement Capacity": 13.2,
-    "Operating Clinker Capacity": 8.8,
-    "Developing Cement Capacity": 1.5,
-    "Developing Clinker Capacity": 1.2
+    "summary_1": "<span>{{13.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1.5}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{8.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{1.2}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Turkiye",
-    "Operating Cement Capacity": 142.7,
-    "Operating Clinker Capacity": 77.6,
-    "Developing Cement Capacity": 1,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{142.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{1}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{77.6}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Turkmenistan",
-    "Operating Cement Capacity": 5.7,
-    "Operating Clinker Capacity": 2.5,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{5.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{2.5}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Uganda",
-    "Operating Cement Capacity": 5.5,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 3.7,
-    "Developing Clinker Capacity": 2.2
+    "summary_1": "<span>{{5.5}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{3.7}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{2.2}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Ukraine",
-    "Operating Cement Capacity": 15,
-    "Operating Clinker Capacity": 6.3,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{15}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{6.3}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "United Arab Emirates",
-    "Operating Cement Capacity": 43.6,
-    "Operating Clinker Capacity": 25.1,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{43.6}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{25.1}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "United Kingdom",
-    "Operating Cement Capacity": 13.9,
-    "Operating Clinker Capacity": 9.8,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{13.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{9.8}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "United States",
-    "Operating Cement Capacity": 102.9,
-    "Operating Clinker Capacity": 72,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{102.9}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{72}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Uruguay",
-    "Operating Cement Capacity": 1.1,
-    "Operating Clinker Capacity": 0.9,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.1}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.9}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Uzbekistan",
-    "Operating Cement Capacity": 28.8,
-    "Operating Clinker Capacity": 19.3,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{28.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{19.3}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Venezuela",
-    "Operating Cement Capacity": 13,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{13}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Vietnam",
-    "Operating Cement Capacity": 150,
-    "Operating Clinker Capacity": 105,
-    "Developing Cement Capacity": 16.8,
-    "Developing Clinker Capacity": 4.6
+    "summary_1": "<span>{{150}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{16.8}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{105}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{4.6}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Western Sahara",
-    "Operating Cement Capacity": 1.2,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{1.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Yemen",
-    "Operating Cement Capacity": 7.7,
-    "Operating Clinker Capacity": 1.3,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{7.7}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{1.3}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Zambia",
-    "Operating Cement Capacity": 7.8,
-    "Operating Clinker Capacity": 0,
-    "Developing Cement Capacity": 0,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{7.8}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   },
   {
     "Country": "Zimbabwe",
-    "Operating Cement Capacity": 3.2,
-    "Operating Clinker Capacity": 0.3,
-    "Developing Cement Capacity": 0.9,
-    "Developing Clinker Capacity": 0
+    "summary_1": "<span>{{3.2}} mtpa</span><br>Cement capacity<br>in operation",
+    "summary_2": "<span>{{0.9}} mtpa</span><br>Cement capacity<br>in development",
+    "summary_3": "<span>{{0.3}} mtpa</span><br>Clinker capacity<br>in operation",
+    "summary_4": "<span>{{0}} mtpa</span><br>Clinker capacity<br>in development"
   }
 ]

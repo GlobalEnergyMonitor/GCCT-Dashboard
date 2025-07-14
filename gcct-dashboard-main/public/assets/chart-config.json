@@ -1,7 +1,7 @@
 {
-    "23491110": {
+    "24160385": {
         "title": "Operating and developing cement and clinker capacity by color",
-        "subtitle": "Operating and developing cement and clinker capacity in million tonnes per annum (mtpa) by country, divided between grey, white, grey and white, and unknown color. Grey cement is the most commonly used cement color, and generally produces less carbon dioxide emissions than white cement, which has more specific fuel and raw material requirements for production.",
+        "subtitle": "Operating and developing cement and clinker capacity in million tonnes per annum (mtpa) by country and by cement color.",
         "x_axis": "Capacity",
         "values": [
             "Grey",
@@ -10,13 +10,13 @@
             "Unknown"
         ],
         "dataset": "cem_color_062025",
-        "initial_state": "India",
+        "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
-    "23504373": {
+    "24160960": {
         "title": "Operating and developing cement capacity by type",
-        "subtitle": "Operating and developing cement capacity in million tonnes per annum (mtpa) by country, divided between integrated plants and grinding plants, and split between ordinary portland cement (OPC), blended cement, and unknown cement type. Blended cements generally have lower embodied carbon than OPC due to lower clinker percentage.",
+        "subtitle": "Operating and developing cement capacity in million tonnes per annum (mtpa) by country, plant type, and cement type.",
         "x_axis": "Capacity",
         "values": [
             "OPC",
@@ -24,7 +24,7 @@
             "Unknown"
         ],
         "dataset": "cem_type_062025",
-        "initial_state": "India",
+        "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
@@ -43,11 +43,11 @@
             "Weighted Average Age"
         ],
         "dataset": "plant_age_062025",
-        "initial_state": "India",
+        "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
-    "23979823": {
+    "24161189": {
         "title": "Cement capacity with emissions reduction technology",
         "subtitle": "The percentage of developing and operating cement capacity, by country, with and without installed emission reduction technologies.",
         "x_axis": "Cem type",
@@ -57,7 +57,7 @@
             "Clay Calcination"
         ],
         "dataset": "green_cement_062025",
-        "initial_state": "India",
+        "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     }

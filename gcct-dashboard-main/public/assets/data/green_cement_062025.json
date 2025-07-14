@@ -1,5 +1,26 @@
 [
   {
+    "Country": "Global",
+    "Cem type": "Capacity with emissions reduction tech",
+    "CCS/CCUS": "2.2%",
+    "Alternative Fuel": "26.0%",
+    "Clay Calcination": "1.0%"
+  },
+  {
+    "Country": "Global",
+    "Cem type": "Capacity without emissions reduction tech",
+    "CCS/CCUS": "84.4%",
+    "Alternative Fuel": "59.1%",
+    "Clay Calcination": "85.4%"
+  },
+  {
+    "Country": "Global",
+    "Cem type": "Unknown",
+    "CCS/CCUS": "13.4%",
+    "Alternative Fuel": "14.9%",
+    "Clay Calcination": "13.7%"
+  },
+  {
     "Country": "Afghanistan",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
@@ -9,16 +30,16 @@
   {
     "Country": "Afghanistan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "64.54%",
-    "Alternative Fuel": "64.54%",
-    "Clay Calcination": "64.54%"
+    "CCS/CCUS": "64.5%",
+    "Alternative Fuel": "64.5%",
+    "Clay Calcination": "64.5%"
   },
   {
     "Country": "Afghanistan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "35.46%",
-    "Alternative Fuel": "35.46%",
-    "Clay Calcination": "35.46%"
+    "CCS/CCUS": "35.5%",
+    "Alternative Fuel": "35.5%",
+    "Clay Calcination": "35.5%"
   },
   {
     "Country": "Albania",
@@ -30,9 +51,9 @@
   {
     "Country": "Albania",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Albania",
@@ -51,16 +72,16 @@
   {
     "Country": "Algeria",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "91.62%",
-    "Alternative Fuel": "91.62%",
-    "Clay Calcination": "91.62%"
+    "CCS/CCUS": "91.6%",
+    "Alternative Fuel": "91.6%",
+    "Clay Calcination": "91.6%"
   },
   {
     "Country": "Algeria",
     "Cem type": "Unknown",
-    "CCS/CCUS": "8.38%",
-    "Alternative Fuel": "8.38%",
-    "Clay Calcination": "8.38%"
+    "CCS/CCUS": "8.4%",
+    "Alternative Fuel": "8.4%",
+    "Clay Calcination": "8.4%"
   },
   {
     "Country": "Angola",
@@ -72,9 +93,9 @@
   {
     "Country": "Angola",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Angola",
@@ -86,16 +107,16 @@
   {
     "Country": "Argentina",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "2.51%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "2.5%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Argentina",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "97.49%",
+    "CCS/CCUS": "97.5%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Argentina",
@@ -114,9 +135,9 @@
   {
     "Country": "Armenia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Armenia",
@@ -128,16 +149,16 @@
   {
     "Country": "Australia",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "48.59%",
-    "Alternative Fuel": "95.61%",
-    "Clay Calcination": "23.51%"
+    "CCS/CCUS": "48.6%",
+    "Alternative Fuel": "95.6%",
+    "Clay Calcination": "23.5%"
   },
   {
     "Country": "Australia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "51.41%",
-    "Alternative Fuel": "4.39%",
-    "Clay Calcination": "76.49%"
+    "CCS/CCUS": "51.4%",
+    "Alternative Fuel": "4.4%",
+    "Clay Calcination": "76.5%"
   },
   {
     "Country": "Australia",
@@ -149,44 +170,44 @@
   {
     "Country": "Austria",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "21.72%",
-    "Alternative Fuel": "34.39%",
+    "CCS/CCUS": "21.7%",
+    "Alternative Fuel": "34.4%",
     "Clay Calcination": ""
   },
   {
     "Country": "Austria",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "69.23%",
-    "Alternative Fuel": "56.56%",
-    "Clay Calcination": "90.95%"
+    "CCS/CCUS": "69.2%",
+    "Alternative Fuel": "56.6%",
+    "Clay Calcination": "91.0%"
   },
   {
     "Country": "Austria",
     "Cem type": "Unknown",
-    "CCS/CCUS": "9.05%",
-    "Alternative Fuel": "9.05%",
-    "Clay Calcination": "9.05%"
+    "CCS/CCUS": "9.1%",
+    "Alternative Fuel": "9.1%",
+    "Clay Calcination": "9.1%"
   },
   {
     "Country": "Azerbaijan",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "31.14%",
+    "Alternative Fuel": "31.1%",
     "Clay Calcination": ""
   },
   {
     "Country": "Azerbaijan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "98.90%",
-    "Alternative Fuel": "67.77%",
-    "Clay Calcination": "98.90%"
+    "CCS/CCUS": "98.9%",
+    "Alternative Fuel": "67.8%",
+    "Clay Calcination": "98.9%"
   },
   {
     "Country": "Azerbaijan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "1.10%",
-    "Alternative Fuel": "1.10%",
-    "Clay Calcination": "1.10%"
+    "CCS/CCUS": "1.1%",
+    "Alternative Fuel": "1.1%",
+    "Clay Calcination": "1.1%"
   },
   {
     "Country": "Bahrain",
@@ -198,9 +219,9 @@
   {
     "Country": "Bahrain",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Bahrain",
@@ -219,16 +240,16 @@
   {
     "Country": "Bangladesh",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "60.43%",
-    "Alternative Fuel": "60.43%",
-    "Clay Calcination": "60.43%"
+    "CCS/CCUS": "60.4%",
+    "Alternative Fuel": "60.4%",
+    "Clay Calcination": "60.4%"
   },
   {
     "Country": "Bangladesh",
     "Cem type": "Unknown",
-    "CCS/CCUS": "39.57%",
-    "Alternative Fuel": "39.57%",
-    "Clay Calcination": "39.57%"
+    "CCS/CCUS": "39.6%",
+    "Alternative Fuel": "39.6%",
+    "Clay Calcination": "39.6%"
   },
   {
     "Country": "Barbados",
@@ -255,15 +276,15 @@
     "Country": "Belarus",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "69.23%",
+    "Alternative Fuel": "69.2%",
     "Clay Calcination": ""
   },
   {
     "Country": "Belarus",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "30.77%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "30.8%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Belarus",
@@ -275,23 +296,23 @@
   {
     "Country": "Belgium",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "63.49%",
-    "Alternative Fuel": "36.51%",
+    "CCS/CCUS": "63.5%",
+    "Alternative Fuel": "36.5%",
     "Clay Calcination": ""
   },
   {
     "Country": "Belgium",
     "Cem type": "Capacity without emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "26.98%",
-    "Clay Calcination": "63.49%"
+    "Alternative Fuel": "27.0%",
+    "Clay Calcination": "63.5%"
   },
   {
     "Country": "Belgium",
     "Cem type": "Unknown",
-    "CCS/CCUS": "36.51%",
-    "Alternative Fuel": "36.51%",
-    "Clay Calcination": "36.51%"
+    "CCS/CCUS": "36.5%",
+    "Alternative Fuel": "36.5%",
+    "Clay Calcination": "36.5%"
   },
   {
     "Country": "Benin",
@@ -303,16 +324,16 @@
   {
     "Country": "Benin",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "53.49%",
-    "Alternative Fuel": "53.49%",
-    "Clay Calcination": "53.49%"
+    "CCS/CCUS": "53.5%",
+    "Alternative Fuel": "53.5%",
+    "Clay Calcination": "53.5%"
   },
   {
     "Country": "Benin",
     "Cem type": "Unknown",
-    "CCS/CCUS": "46.51%",
-    "Alternative Fuel": "46.51%",
-    "Clay Calcination": "46.51%"
+    "CCS/CCUS": "46.5%",
+    "Alternative Fuel": "46.5%",
+    "Clay Calcination": "46.5%"
   },
   {
     "Country": "Bhutan",
@@ -324,9 +345,9 @@
   {
     "Country": "Bhutan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Bhutan",
@@ -339,15 +360,15 @@
     "Country": "Bolivia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "12.26%",
+    "Alternative Fuel": "12.3%",
     "Clay Calcination": ""
   },
   {
     "Country": "Bolivia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "87.74%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "87.7%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Bolivia",
@@ -360,21 +381,21 @@
     "Country": "Bosnia and Herzegovina",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "47.62%",
+    "Alternative Fuel": "47.6%",
     "Clay Calcination": ""
   },
   {
     "Country": "Bosnia and Herzegovina",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Bosnia and Herzegovina",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "52.38%",
+    "Alternative Fuel": "52.4%",
     "Clay Calcination": ""
   },
   {
@@ -394,29 +415,29 @@
   {
     "Country": "Botswana",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Brazil",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "40.83%",
-    "Clay Calcination": "6.51%"
+    "Alternative Fuel": "40.8%",
+    "Clay Calcination": "6.5%"
   },
   {
     "Country": "Brazil",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "98.43%",
-    "Alternative Fuel": "57.60%",
-    "Clay Calcination": "93.49%"
+    "CCS/CCUS": "98.4%",
+    "Alternative Fuel": "57.6%",
+    "Clay Calcination": "93.5%"
   },
   {
     "Country": "Brazil",
     "Cem type": "Unknown",
-    "CCS/CCUS": "1.57%",
-    "Alternative Fuel": "1.57%",
+    "CCS/CCUS": "1.6%",
+    "Alternative Fuel": "1.6%",
     "Clay Calcination": ""
   },
   {
@@ -443,16 +464,16 @@
   {
     "Country": "Bulgaria",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "31.91%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "31.9%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Bulgaria",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "68.09%",
+    "CCS/CCUS": "68.1%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Bulgaria",
@@ -466,7 +487,7 @@
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
     "Alternative Fuel": "",
-    "Clay Calcination": "29.13%"
+    "Clay Calcination": "29.1%"
   },
   {
     "Country": "Burkina Faso",
@@ -478,9 +499,9 @@
   {
     "Country": "Burkina Faso",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "70.87%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "70.9%"
   },
   {
     "Country": "Burundi",
@@ -499,9 +520,9 @@
   {
     "Country": "Burundi",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Cambodia",
@@ -520,51 +541,51 @@
   {
     "Country": "Cambodia",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Cameroon",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
     "Alternative Fuel": "",
-    "Clay Calcination": "25.00%"
+    "Clay Calcination": "25.0%"
   },
   {
     "Country": "Cameroon",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "54.17%",
-    "Alternative Fuel": "54.17%",
-    "Clay Calcination": "54.17%"
+    "CCS/CCUS": "54.2%",
+    "Alternative Fuel": "54.2%",
+    "Clay Calcination": "54.2%"
   },
   {
     "Country": "Cameroon",
     "Cem type": "Unknown",
-    "CCS/CCUS": "45.83%",
-    "Alternative Fuel": "45.83%",
-    "Clay Calcination": "20.83%"
+    "CCS/CCUS": "45.8%",
+    "Alternative Fuel": "45.8%",
+    "Clay Calcination": "20.8%"
   },
   {
     "Country": "Canada",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "19.63%",
-    "Alternative Fuel": "52.90%",
+    "CCS/CCUS": "19.6%",
+    "Alternative Fuel": "52.9%",
     "Clay Calcination": ""
   },
   {
     "Country": "Canada",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "18.55%",
-    "Alternative Fuel": "21.23%",
-    "Clay Calcination": "41.30%"
+    "CCS/CCUS": "18.6%",
+    "Alternative Fuel": "21.2%",
+    "Clay Calcination": "41.3%"
   },
   {
     "Country": "Canada",
     "Cem type": "Unknown",
-    "CCS/CCUS": "61.82%",
-    "Alternative Fuel": "25.87%",
-    "Clay Calcination": "58.70%"
+    "CCS/CCUS": "61.8%",
+    "Alternative Fuel": "25.9%",
+    "Clay Calcination": "58.7%"
   },
   {
     "Country": "Chad",
@@ -591,15 +612,15 @@
     "Country": "Chile",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Chile",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Chile",
@@ -611,58 +632,58 @@
   {
     "Country": "China",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "0.58%",
+    "CCS/CCUS": "0.6%",
     "Alternative Fuel": "",
     "Clay Calcination": ""
   },
   {
     "Country": "China",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "98.24%",
-    "Alternative Fuel": "98.82%",
-    "Clay Calcination": "98.82%"
+    "CCS/CCUS": "98.2%",
+    "Alternative Fuel": "98.8%",
+    "Clay Calcination": "98.8%"
   },
   {
     "Country": "China",
     "Cem type": "Unknown",
-    "CCS/CCUS": "1.18%",
-    "Alternative Fuel": "1.18%",
-    "Clay Calcination": "1.18%"
+    "CCS/CCUS": "1.2%",
+    "Alternative Fuel": "1.2%",
+    "Clay Calcination": "1.2%"
   },
   {
     "Country": "Colombia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "77.52%",
-    "Clay Calcination": "12.41%"
+    "Alternative Fuel": "77.5%",
+    "Clay Calcination": "12.4%"
   },
   {
     "Country": "Colombia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "93.79%",
-    "Alternative Fuel": "16.27%",
-    "Clay Calcination": "81.38%"
+    "CCS/CCUS": "93.8%",
+    "Alternative Fuel": "16.3%",
+    "Clay Calcination": "81.4%"
   },
   {
     "Country": "Colombia",
     "Cem type": "Unknown",
-    "CCS/CCUS": "6.21%",
-    "Alternative Fuel": "6.21%",
-    "Clay Calcination": "6.21%"
+    "CCS/CCUS": "6.2%",
+    "Alternative Fuel": "6.2%",
+    "Clay Calcination": "6.2%"
   },
   {
     "Country": "Costa Rica",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Costa Rica",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Costa Rica",
@@ -676,7 +697,7 @@
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Cote d'Ivoire",
@@ -688,23 +709,23 @@
   {
     "Country": "Cote d'Ivoire",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Croatia",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "35.71%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "35.7%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Croatia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "64.29%",
+    "CCS/CCUS": "64.3%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Croatia",
@@ -717,36 +738,36 @@
     "Country": "Cuba",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "28.85%",
+    "Alternative Fuel": "28.9%",
     "Clay Calcination": ""
   },
   {
     "Country": "Cuba",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "33.65%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "33.7%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Cuba",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "37.50%",
+    "Alternative Fuel": "37.5%",
     "Clay Calcination": ""
   },
   {
     "Country": "Cyprus",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Cyprus",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Cyprus",
@@ -759,15 +780,15 @@
     "Country": "Czech Republic",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "44.90%",
-    "Clay Calcination": "22.45%"
+    "Alternative Fuel": "44.9%",
+    "Clay Calcination": "22.5%"
   },
   {
     "Country": "Czech Republic",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "55.10%",
-    "Clay Calcination": "77.55%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "55.1%",
+    "Clay Calcination": "77.6%"
   },
   {
     "Country": "Czech Republic",
@@ -779,9 +800,9 @@
   {
     "Country": "Denmark",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Denmark",
@@ -807,30 +828,30 @@
   {
     "Country": "Djibouti",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "20.75%",
-    "Alternative Fuel": "20.75%",
-    "Clay Calcination": "20.75%"
+    "CCS/CCUS": "20.8%",
+    "Alternative Fuel": "20.8%",
+    "Clay Calcination": "20.8%"
   },
   {
     "Country": "Djibouti",
     "Cem type": "Unknown",
-    "CCS/CCUS": "79.25%",
-    "Alternative Fuel": "79.25%",
-    "Clay Calcination": "79.25%"
+    "CCS/CCUS": "79.3%",
+    "Alternative Fuel": "79.3%",
+    "Clay Calcination": "79.3%"
   },
   {
     "Country": "Dominican Republic",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "38.95%",
+    "Alternative Fuel": "39.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Dominican Republic",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "61.05%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "61.1%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Dominican Republic",
@@ -849,30 +870,30 @@
   {
     "Country": "DR Congo",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "32.73%",
-    "Alternative Fuel": "32.73%",
-    "Clay Calcination": "32.73%"
+    "CCS/CCUS": "32.7%",
+    "Alternative Fuel": "32.7%",
+    "Clay Calcination": "32.7%"
   },
   {
     "Country": "DR Congo",
     "Cem type": "Unknown",
-    "CCS/CCUS": "67.27%",
-    "Alternative Fuel": "67.27%",
-    "Clay Calcination": "67.27%"
+    "CCS/CCUS": "67.3%",
+    "Alternative Fuel": "67.3%",
+    "Clay Calcination": "67.3%"
   },
   {
     "Country": "Ecuador",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "17.72%",
-    "Alternative Fuel": "86.08%",
+    "CCS/CCUS": "17.7%",
+    "Alternative Fuel": "86.1%",
     "Clay Calcination": ""
   },
   {
     "Country": "Ecuador",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "82.28%",
-    "Alternative Fuel": "13.92%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "82.3%",
+    "Alternative Fuel": "13.9%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Ecuador",
@@ -885,15 +906,15 @@
     "Country": "Egypt",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "33.88%",
+    "Alternative Fuel": "33.9%",
     "Clay Calcination": ""
   },
   {
     "Country": "Egypt",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "66.12%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "66.1%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Egypt",
@@ -906,15 +927,15 @@
     "Country": "Ethiopia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "6.48%",
+    "Alternative Fuel": "6.5%",
     "Clay Calcination": ""
   },
   {
     "Country": "Ethiopia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "93.52%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "93.5%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Ethiopia",
@@ -927,15 +948,15 @@
     "Country": "El Salvador",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "El Salvador",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "El Salvador",
@@ -954,9 +975,9 @@
   {
     "Country": "Eritrea",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Eritrea",
@@ -1018,29 +1039,29 @@
     "Country": "Fiji",
     "Cem type": "Capacity without emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Fiji",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
     "Clay Calcination": ""
   },
   {
     "Country": "Finland",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "35.48%",
-    "Alternative Fuel": "35.48%",
+    "CCS/CCUS": "35.5%",
+    "Alternative Fuel": "35.5%",
     "Clay Calcination": ""
   },
   {
     "Country": "Finland",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "64.52%",
-    "Alternative Fuel": "64.52%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "64.5%",
+    "Alternative Fuel": "64.5%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Finland",
@@ -1052,16 +1073,16 @@
   {
     "Country": "France",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "41.59%",
-    "Alternative Fuel": "63.22%",
-    "Clay Calcination": "29.71%"
+    "CCS/CCUS": "41.6%",
+    "Alternative Fuel": "63.2%",
+    "Clay Calcination": "29.7%"
   },
   {
     "Country": "France",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "58.41%",
-    "Alternative Fuel": "36.78%",
-    "Clay Calcination": "70.29%"
+    "CCS/CCUS": "58.4%",
+    "Alternative Fuel": "36.8%",
+    "Clay Calcination": "70.3%"
   },
   {
     "Country": "France",
@@ -1101,9 +1122,9 @@
   {
     "Country": "Gabon",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Gabon",
@@ -1116,15 +1137,15 @@
     "Country": "Georgia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "62.86%",
+    "Alternative Fuel": "62.9%",
     "Clay Calcination": ""
   },
   {
     "Country": "Georgia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "37.14%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "37.1%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Georgia",
@@ -1136,16 +1157,16 @@
   {
     "Country": "Germany",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "43.28%",
-    "Alternative Fuel": "87.04%",
-    "Clay Calcination": "6.30%"
+    "CCS/CCUS": "43.3%",
+    "Alternative Fuel": "87.0%",
+    "Clay Calcination": "6.3%"
   },
   {
     "Country": "Germany",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "56.72%",
-    "Alternative Fuel": "12.96%",
-    "Clay Calcination": "93.70%"
+    "CCS/CCUS": "56.7%",
+    "Alternative Fuel": "13.0%",
+    "Clay Calcination": "93.7%"
   },
   {
     "Country": "Germany",
@@ -1159,35 +1180,35 @@
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
     "Alternative Fuel": "",
-    "Clay Calcination": "23.40%"
+    "Clay Calcination": "23.4%"
   },
   {
     "Country": "Ghana",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "36.17%",
-    "Alternative Fuel": "36.17%",
-    "Clay Calcination": "12.77%"
+    "CCS/CCUS": "36.2%",
+    "Alternative Fuel": "36.2%",
+    "Clay Calcination": "12.8%"
   },
   {
     "Country": "Ghana",
     "Cem type": "Unknown",
-    "CCS/CCUS": "63.83%",
-    "Alternative Fuel": "63.83%",
-    "Clay Calcination": "63.83%"
+    "CCS/CCUS": "63.8%",
+    "Alternative Fuel": "63.8%",
+    "Clay Calcination": "63.8%"
   },
   {
     "Country": "Greece",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "21.94%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "21.9%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Greece",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "78.06%",
+    "CCS/CCUS": "78.1%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Greece",
@@ -1221,21 +1242,21 @@
     "Country": "Guatemala",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "93.61%",
+    "Alternative Fuel": "93.6%",
     "Clay Calcination": ""
   },
   {
     "Country": "Guatemala",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Guatemala",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "6.39%",
+    "Alternative Fuel": "6.4%",
     "Clay Calcination": ""
   },
   {
@@ -1305,15 +1326,15 @@
     "Country": "Honduras",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Honduras",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Honduras",
@@ -1339,23 +1360,23 @@
   {
     "Country": "Hong Kong",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Hungary",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "63.68%",
+    "Alternative Fuel": "63.7%",
     "Clay Calcination": ""
   },
   {
     "Country": "Hungary",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "36.32%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "36.3%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Hungary",
@@ -1368,22 +1389,22 @@
     "Country": "India",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "69.49%",
-    "Clay Calcination": "2.48%"
+    "Alternative Fuel": "69.5%",
+    "Clay Calcination": "2.5%"
   },
   {
     "Country": "India",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "98.93%",
-    "Alternative Fuel": "24.33%",
-    "Clay Calcination": "94.89%"
+    "CCS/CCUS": "98.9%",
+    "Alternative Fuel": "24.3%",
+    "Clay Calcination": "94.9%"
   },
   {
     "Country": "India",
     "Cem type": "Unknown",
-    "CCS/CCUS": "1.07%",
-    "Alternative Fuel": "6.19%",
-    "Clay Calcination": "2.63%"
+    "CCS/CCUS": "1.1%",
+    "Alternative Fuel": "6.2%",
+    "Clay Calcination": "2.6%"
   },
   {
     "Country": "Indonesia",
@@ -1402,9 +1423,9 @@
   {
     "Country": "Indonesia",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Iran",
@@ -1416,51 +1437,51 @@
   {
     "Country": "Iran",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "90.57%",
-    "Alternative Fuel": "90.57%",
-    "Clay Calcination": "90.57%"
+    "CCS/CCUS": "90.6%",
+    "Alternative Fuel": "90.6%",
+    "Clay Calcination": "90.6%"
   },
   {
     "Country": "Iran",
     "Cem type": "Unknown",
-    "CCS/CCUS": "9.43%",
-    "Alternative Fuel": "9.43%",
-    "Clay Calcination": "9.43%"
+    "CCS/CCUS": "9.4%",
+    "Alternative Fuel": "9.4%",
+    "Clay Calcination": "9.4%"
   },
   {
     "Country": "Iraq",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "3.33%",
+    "Alternative Fuel": "3.3%",
     "Clay Calcination": ""
   },
   {
     "Country": "Iraq",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "70.90%",
-    "Alternative Fuel": "67.57%",
-    "Clay Calcination": "70.26%"
+    "CCS/CCUS": "70.9%",
+    "Alternative Fuel": "67.6%",
+    "Clay Calcination": "70.3%"
   },
   {
     "Country": "Iraq",
     "Cem type": "Unknown",
-    "CCS/CCUS": "29.10%",
-    "Alternative Fuel": "29.10%",
-    "Clay Calcination": "29.74%"
+    "CCS/CCUS": "29.1%",
+    "Alternative Fuel": "29.1%",
+    "Clay Calcination": "29.7%"
   },
   {
     "Country": "Ireland",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Ireland",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Ireland",
@@ -1473,15 +1494,15 @@
     "Country": "Israel",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Israel",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Israel",
@@ -1493,16 +1514,16 @@
   {
     "Country": "Italy",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "10.34%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "10.3%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Italy",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "89.66%",
+    "CCS/CCUS": "89.7%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Italy",
@@ -1515,15 +1536,15 @@
     "Country": "Jamaica",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Jamaica",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Jamaica",
@@ -1535,22 +1556,22 @@
   {
     "Country": "Japan",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "9.03%",
-    "Alternative Fuel": "72.47%",
+    "CCS/CCUS": "9.0%",
+    "Alternative Fuel": "72.5%",
     "Clay Calcination": ""
   },
   {
     "Country": "Japan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "90.97%",
-    "Alternative Fuel": "24.32%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "91.0%",
+    "Alternative Fuel": "24.3%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Japan",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "3.21%",
+    "Alternative Fuel": "3.2%",
     "Clay Calcination": ""
   },
   {
@@ -1563,16 +1584,16 @@
   {
     "Country": "Jordan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "96.68%",
-    "Alternative Fuel": "96.68%",
-    "Clay Calcination": "96.68%"
+    "CCS/CCUS": "96.7%",
+    "Alternative Fuel": "96.7%",
+    "Clay Calcination": "96.7%"
   },
   {
     "Country": "Jordan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "3.32%",
-    "Alternative Fuel": "3.32%",
-    "Clay Calcination": "3.32%"
+    "CCS/CCUS": "3.3%",
+    "Alternative Fuel": "3.3%",
+    "Clay Calcination": "3.3%"
   },
   {
     "Country": "Kazakhstan",
@@ -1584,30 +1605,30 @@
   {
     "Country": "Kazakhstan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "81.89%",
-    "Alternative Fuel": "73.66%",
-    "Clay Calcination": "81.89%"
+    "CCS/CCUS": "81.9%",
+    "Alternative Fuel": "73.7%",
+    "Clay Calcination": "81.9%"
   },
   {
     "Country": "Kazakhstan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "18.11%",
-    "Alternative Fuel": "26.34%",
-    "Clay Calcination": "18.11%"
+    "CCS/CCUS": "18.1%",
+    "Alternative Fuel": "26.3%",
+    "Clay Calcination": "18.1%"
   },
   {
     "Country": "Kenya",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "10.06%",
+    "Alternative Fuel": "10.1%",
     "Clay Calcination": ""
   },
   {
     "Country": "Kenya",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "89.94%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "89.9%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Kenya",
@@ -1620,15 +1641,15 @@
     "Country": "Kosovo",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Kosovo",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Kosovo",
@@ -1647,9 +1668,9 @@
   {
     "Country": "Kuwait",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Kuwait",
@@ -1668,16 +1689,16 @@
   {
     "Country": "Kyrgyzstan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "82.57%",
-    "Alternative Fuel": "82.57%",
-    "Clay Calcination": "82.57%"
+    "CCS/CCUS": "82.6%",
+    "Alternative Fuel": "82.6%",
+    "Clay Calcination": "82.6%"
   },
   {
     "Country": "Kyrgyzstan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "17.43%",
-    "Alternative Fuel": "17.43%",
-    "Clay Calcination": "17.43%"
+    "CCS/CCUS": "17.4%",
+    "Alternative Fuel": "17.4%",
+    "Clay Calcination": "17.4%"
   },
   {
     "Country": "Laos",
@@ -1696,15 +1717,15 @@
   {
     "Country": "Laos",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Latvia",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
@@ -1712,7 +1733,7 @@
     "Cem type": "Capacity without emissions reduction tech",
     "CCS/CCUS": "",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Latvia",
@@ -1725,15 +1746,15 @@
     "Country": "Lebanon",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "18.88%",
+    "Alternative Fuel": "18.9%",
     "Clay Calcination": ""
   },
   {
     "Country": "Lebanon",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "81.12%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "81.1%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Lebanon",
@@ -1780,9 +1801,9 @@
   {
     "Country": "Liberia",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Libya",
@@ -1794,22 +1815,22 @@
   {
     "Country": "Libya",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "58.09%",
-    "Alternative Fuel": "58.09%",
-    "Clay Calcination": "58.09%"
+    "CCS/CCUS": "58.1%",
+    "Alternative Fuel": "58.1%",
+    "Clay Calcination": "58.1%"
   },
   {
     "Country": "Libya",
     "Cem type": "Unknown",
-    "CCS/CCUS": "41.91%",
-    "Alternative Fuel": "41.91%",
-    "Clay Calcination": "41.91%"
+    "CCS/CCUS": "41.9%",
+    "Alternative Fuel": "41.9%",
+    "Clay Calcination": "41.9%"
   },
   {
     "Country": "Lithuania",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
@@ -1817,7 +1838,7 @@
     "Cem type": "Capacity without emissions reduction tech",
     "CCS/CCUS": "",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Lithuania",
@@ -1836,9 +1857,9 @@
   {
     "Country": "Luxembourg",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Luxembourg",
@@ -1878,9 +1899,9 @@
   {
     "Country": "Madagascar",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Madagascar",
@@ -1899,16 +1920,16 @@
   {
     "Country": "Malawi",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "61.90%",
-    "Alternative Fuel": "61.90%",
-    "Clay Calcination": "61.90%"
+    "CCS/CCUS": "61.9%",
+    "Alternative Fuel": "61.9%",
+    "Clay Calcination": "61.9%"
   },
   {
     "Country": "Malawi",
     "Cem type": "Unknown",
-    "CCS/CCUS": "38.10%",
-    "Alternative Fuel": "38.10%",
-    "Clay Calcination": "38.10%"
+    "CCS/CCUS": "38.1%",
+    "Alternative Fuel": "38.1%",
+    "Clay Calcination": "38.1%"
   },
   {
     "Country": "Malaysia",
@@ -1927,9 +1948,9 @@
   {
     "Country": "Malaysia",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Mali",
@@ -1948,9 +1969,9 @@
   {
     "Country": "Mali",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Martinique",
@@ -1998,57 +2019,57 @@
     "Country": "Mexico",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "64.16%",
-    "Clay Calcination": "9.87%"
+    "Alternative Fuel": "64.2%",
+    "Clay Calcination": "9.9%"
   },
   {
     "Country": "Mexico",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "98.07%",
-    "Alternative Fuel": "20.52%",
-    "Clay Calcination": "90.13%"
+    "CCS/CCUS": "98.1%",
+    "Alternative Fuel": "20.5%",
+    "Clay Calcination": "90.1%"
   },
   {
     "Country": "Mexico",
     "Cem type": "Unknown",
-    "CCS/CCUS": "1.93%",
-    "Alternative Fuel": "15.32%",
+    "CCS/CCUS": "1.9%",
+    "Alternative Fuel": "15.3%",
     "Clay Calcination": ""
   },
   {
     "Country": "Moldova",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "33.33%",
+    "Alternative Fuel": "33.3%",
     "Clay Calcination": ""
   },
   {
     "Country": "Moldova",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "33.33%",
+    "CCS/CCUS": "33.3%",
     "Alternative Fuel": "",
-    "Clay Calcination": "33.33%"
+    "Clay Calcination": "33.3%"
   },
   {
     "Country": "Moldova",
     "Cem type": "Unknown",
-    "CCS/CCUS": "66.67%",
-    "Alternative Fuel": "66.67%",
-    "Clay Calcination": "66.67%"
+    "CCS/CCUS": "66.7%",
+    "Alternative Fuel": "66.7%",
+    "Clay Calcination": "66.7%"
   },
   {
     "Country": "Mongolia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "2.92%",
+    "Alternative Fuel": "2.9%",
     "Clay Calcination": ""
   },
   {
     "Country": "Mongolia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "97.08%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "97.1%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Mongolia",
@@ -2074,23 +2095,23 @@
   {
     "Country": "Montenegro",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Morocco",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "93.29%",
+    "Alternative Fuel": "93.3%",
     "Clay Calcination": ""
   },
   {
     "Country": "Morocco",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "6.71%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "6.7%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Morocco",
@@ -2109,16 +2130,16 @@
   {
     "Country": "Mozambique",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "5.07%",
-    "Alternative Fuel": "5.07%",
-    "Clay Calcination": "5.07%"
+    "CCS/CCUS": "5.1%",
+    "Alternative Fuel": "5.1%",
+    "Clay Calcination": "5.1%"
   },
   {
     "Country": "Mozambique",
     "Cem type": "Unknown",
-    "CCS/CCUS": "94.93%",
-    "Alternative Fuel": "94.93%",
-    "Clay Calcination": "94.93%"
+    "CCS/CCUS": "94.9%",
+    "Alternative Fuel": "94.9%",
+    "Clay Calcination": "94.9%"
   },
   {
     "Country": "Myanmar",
@@ -2137,23 +2158,23 @@
   {
     "Country": "Myanmar",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Namibia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Namibia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Namibia",
@@ -2166,22 +2187,22 @@
     "Country": "Nepal",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "0.83%",
+    "Alternative Fuel": "0.8%",
     "Clay Calcination": ""
   },
   {
     "Country": "Nepal",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "94.73%",
-    "Clay Calcination": "99.37%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "94.7%",
+    "Clay Calcination": "99.4%"
   },
   {
     "Country": "Nepal",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "4.44%",
-    "Clay Calcination": "0.63%"
+    "Alternative Fuel": "4.4%",
+    "Clay Calcination": "0.6%"
   },
   {
     "Country": "Netherlands",
@@ -2229,15 +2250,15 @@
     "Country": "New Zealand",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "New Zealand",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "New Zealand",
@@ -2250,15 +2271,15 @@
     "Country": "Nicaragua",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Nicaragua",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Nicaragua",
@@ -2277,37 +2298,37 @@
   {
     "Country": "Niger",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "27.31%",
-    "Alternative Fuel": "27.31%",
-    "Clay Calcination": "27.31%"
+    "CCS/CCUS": "27.3%",
+    "Alternative Fuel": "27.3%",
+    "Clay Calcination": "27.3%"
   },
   {
     "Country": "Niger",
     "Cem type": "Unknown",
-    "CCS/CCUS": "72.69%",
-    "Alternative Fuel": "72.69%",
-    "Clay Calcination": "72.69%"
+    "CCS/CCUS": "72.7%",
+    "Alternative Fuel": "72.7%",
+    "Clay Calcination": "72.7%"
   },
   {
     "Country": "Nigeria",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "51.12%",
+    "Alternative Fuel": "51.1%",
     "Clay Calcination": ""
   },
   {
     "Country": "Nigeria",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "85.12%",
-    "Alternative Fuel": "34.00%",
-    "Clay Calcination": "85.12%"
+    "CCS/CCUS": "85.1%",
+    "Alternative Fuel": "34.0%",
+    "Clay Calcination": "85.1%"
   },
   {
     "Country": "Nigeria",
     "Cem type": "Unknown",
-    "CCS/CCUS": "14.88%",
-    "Alternative Fuel": "14.88%",
-    "Clay Calcination": "14.88%"
+    "CCS/CCUS": "14.9%",
+    "Alternative Fuel": "14.9%",
+    "Clay Calcination": "14.9%"
   },
   {
     "Country": "North Korea",
@@ -2319,7 +2340,7 @@
   {
     "Country": "North Korea",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
     "Clay Calcination": ""
   },
@@ -2327,22 +2348,22 @@
     "Country": "North Korea",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "North Macedonia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "North Macedonia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "North Macedonia",
@@ -2354,16 +2375,16 @@
   {
     "Country": "Norway",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "70.59%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "70.6%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Norway",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "29.41%",
+    "CCS/CCUS": "29.4%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Norway",
@@ -2376,15 +2397,15 @@
     "Country": "Oman",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "43.98%",
+    "Alternative Fuel": "44.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Oman",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "56.02%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "56.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Oman",
@@ -2397,36 +2418,36 @@
     "Country": "Pakistan",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "17.62%",
+    "Alternative Fuel": "17.6%",
     "Clay Calcination": ""
   },
   {
     "Country": "Pakistan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "76.27%",
-    "Clay Calcination": "95.61%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "76.3%",
+    "Clay Calcination": "95.6%"
   },
   {
     "Country": "Pakistan",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "6.12%",
-    "Clay Calcination": "4.39%"
+    "Alternative Fuel": "6.1%",
+    "Clay Calcination": "4.4%"
   },
   {
     "Country": "Panama",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Panama",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Panama",
@@ -2452,51 +2473,51 @@
   {
     "Country": "Papua New Guinea",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Paraguay",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "26.69%",
+    "Alternative Fuel": "26.7%",
     "Clay Calcination": ""
   },
   {
     "Country": "Paraguay",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "37.72%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "37.7%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Paraguay",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "35.59%",
+    "Alternative Fuel": "35.6%",
     "Clay Calcination": ""
   },
   {
     "Country": "Peru",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "92.06%",
+    "Alternative Fuel": "92.1%",
     "Clay Calcination": ""
   },
   {
     "Country": "Peru",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "94.33%",
-    "Alternative Fuel": "2.27%",
-    "Clay Calcination": "94.33%"
+    "CCS/CCUS": "94.3%",
+    "Alternative Fuel": "2.3%",
+    "Clay Calcination": "94.3%"
   },
   {
     "Country": "Peru",
     "Cem type": "Unknown",
-    "CCS/CCUS": "5.67%",
-    "Alternative Fuel": "5.67%",
-    "Clay Calcination": "5.67%"
+    "CCS/CCUS": "5.7%",
+    "Alternative Fuel": "5.7%",
+    "Clay Calcination": "5.7%"
   },
   {
     "Country": "Philippines",
@@ -2515,23 +2536,23 @@
   {
     "Country": "Philippines",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Poland",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "30.42%",
-    "Alternative Fuel": "79.59%",
+    "CCS/CCUS": "30.4%",
+    "Alternative Fuel": "79.6%",
     "Clay Calcination": ""
   },
   {
     "Country": "Poland",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "69.58%",
-    "Alternative Fuel": "20.41%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "69.6%",
+    "Alternative Fuel": "20.4%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Poland",
@@ -2544,15 +2565,15 @@
     "Country": "Portugal",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "30.22%",
+    "Alternative Fuel": "30.2%",
     "Clay Calcination": ""
   },
   {
     "Country": "Portugal",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "69.78%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "69.8%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Portugal",
@@ -2571,9 +2592,9 @@
   {
     "Country": "Puerto Rico",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Puerto Rico",
@@ -2592,9 +2613,9 @@
   {
     "Country": "Qatar",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Qatar",
@@ -2613,16 +2634,16 @@
   {
     "Country": "Republic of the Congo",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "82.35%",
-    "Alternative Fuel": "82.35%",
-    "Clay Calcination": "82.35%"
+    "CCS/CCUS": "82.4%",
+    "Alternative Fuel": "82.4%",
+    "Clay Calcination": "82.4%"
   },
   {
     "Country": "Republic of the Congo",
     "Cem type": "Unknown",
-    "CCS/CCUS": "17.65%",
-    "Alternative Fuel": "17.65%",
-    "Clay Calcination": "17.65%"
+    "CCS/CCUS": "17.7%",
+    "Alternative Fuel": "17.7%",
+    "Clay Calcination": "17.7%"
   },
   {
     "Country": "Reunion",
@@ -2649,15 +2670,15 @@
     "Country": "Romania",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "64.31%",
+    "Alternative Fuel": "64.3%",
     "Clay Calcination": ""
   },
   {
     "Country": "Romania",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "35.69%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "35.7%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Romania",
@@ -2670,22 +2691,22 @@
     "Country": "Russia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "17.41%",
+    "Alternative Fuel": "17.4%",
     "Clay Calcination": ""
   },
   {
     "Country": "Russia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "99.28%",
-    "Alternative Fuel": "79.29%",
-    "Clay Calcination": "99.28%"
+    "CCS/CCUS": "99.3%",
+    "Alternative Fuel": "79.3%",
+    "Clay Calcination": "99.3%"
   },
   {
     "Country": "Russia",
     "Cem type": "Unknown",
-    "CCS/CCUS": "0.72%",
-    "Alternative Fuel": "3.30%",
-    "Clay Calcination": "0.72%"
+    "CCS/CCUS": "0.7%",
+    "Alternative Fuel": "3.3%",
+    "Clay Calcination": "0.7%"
   },
   {
     "Country": "Rwanda",
@@ -2697,9 +2718,9 @@
   {
     "Country": "Rwanda",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Rwanda",
@@ -2733,57 +2754,57 @@
     "Country": "Saudi Arabia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "8.11%",
+    "Alternative Fuel": "8.1%",
     "Clay Calcination": ""
   },
   {
     "Country": "Saudi Arabia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "97.59%",
-    "Alternative Fuel": "89.48%",
-    "Clay Calcination": "97.59%"
+    "CCS/CCUS": "97.6%",
+    "Alternative Fuel": "89.5%",
+    "Clay Calcination": "97.6%"
   },
   {
     "Country": "Saudi Arabia",
     "Cem type": "Unknown",
-    "CCS/CCUS": "2.41%",
-    "Alternative Fuel": "2.41%",
-    "Clay Calcination": "2.41%"
+    "CCS/CCUS": "2.4%",
+    "Alternative Fuel": "2.4%",
+    "Clay Calcination": "2.4%"
   },
   {
     "Country": "Senegal",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "43.75%",
-    "Alternative Fuel": "18.75%",
+    "CCS/CCUS": "43.8%",
+    "Alternative Fuel": "18.8%",
     "Clay Calcination": ""
   },
   {
     "Country": "Senegal",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "56.25%",
-    "Alternative Fuel": "37.50%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "56.3%",
+    "Alternative Fuel": "37.5%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Senegal",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "43.75%",
+    "Alternative Fuel": "43.8%",
     "Clay Calcination": ""
   },
   {
     "Country": "Serbia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Serbia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Serbia",
@@ -2809,23 +2830,23 @@
   {
     "Country": "Sierra Leone",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Slovakia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Slovakia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Slovakia",
@@ -2838,15 +2859,15 @@
     "Country": "Slovenia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "72.22%",
+    "Alternative Fuel": "72.2%",
     "Clay Calcination": ""
   },
   {
     "Country": "Slovenia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "27.78%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "27.8%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Slovenia",
@@ -2858,58 +2879,58 @@
   {
     "Country": "South Africa",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "9.11%",
-    "Alternative Fuel": "28.20%",
+    "CCS/CCUS": "9.1%",
+    "Alternative Fuel": "28.2%",
     "Clay Calcination": ""
   },
   {
     "Country": "South Africa",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "46.37%",
-    "Alternative Fuel": "25.43%",
-    "Clay Calcination": "78.26%"
+    "CCS/CCUS": "46.4%",
+    "Alternative Fuel": "25.4%",
+    "Clay Calcination": "78.3%"
   },
   {
     "Country": "South Africa",
     "Cem type": "Unknown",
-    "CCS/CCUS": "44.52%",
-    "Alternative Fuel": "46.37%",
-    "Clay Calcination": "21.74%"
+    "CCS/CCUS": "44.5%",
+    "Alternative Fuel": "46.4%",
+    "Clay Calcination": "21.7%"
   },
   {
     "Country": "South Korea",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "64.28%",
+    "Alternative Fuel": "64.3%",
     "Clay Calcination": ""
   },
   {
     "Country": "South Korea",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "35.72%",
-    "Clay Calcination": "92.54%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "35.7%",
+    "Clay Calcination": "92.5%"
   },
   {
     "Country": "South Korea",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
     "Alternative Fuel": "",
-    "Clay Calcination": "7.46%"
+    "Clay Calcination": "7.5%"
   },
   {
     "Country": "Spain",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "3.14%",
-    "Alternative Fuel": "97.62%",
+    "CCS/CCUS": "3.1%",
+    "Alternative Fuel": "97.6%",
     "Clay Calcination": ""
   },
   {
     "Country": "Spain",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "96.86%",
-    "Alternative Fuel": "2.38%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "96.9%",
+    "Alternative Fuel": "2.4%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Spain",
@@ -2922,15 +2943,15 @@
     "Country": "Sri Lanka",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Sri Lanka",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Sri Lanka",
@@ -2956,9 +2977,9 @@
   {
     "Country": "Sudan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Suriname",
@@ -2984,16 +3005,16 @@
   {
     "Country": "Sweden",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "77.40%",
-    "Alternative Fuel": "100.00%",
+    "CCS/CCUS": "77.4%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Sweden",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "22.60%",
+    "CCS/CCUS": "22.6%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Sweden",
@@ -3006,15 +3027,15 @@
     "Country": "Switzerland",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "100.00%",
+    "Alternative Fuel": "100.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Switzerland",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
+    "CCS/CCUS": "100.0%",
     "Alternative Fuel": "",
-    "Clay Calcination": "100.00%"
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Switzerland",
@@ -3027,22 +3048,22 @@
     "Country": "Syria",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "43.24%",
+    "Alternative Fuel": "43.2%",
     "Clay Calcination": ""
   },
   {
     "Country": "Syria",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "86.49%",
-    "Alternative Fuel": "43.24%",
-    "Clay Calcination": "86.49%"
+    "CCS/CCUS": "86.5%",
+    "Alternative Fuel": "43.2%",
+    "Clay Calcination": "86.5%"
   },
   {
     "Country": "Syria",
     "Cem type": "Unknown",
-    "CCS/CCUS": "13.51%",
-    "Alternative Fuel": "13.51%",
-    "Clay Calcination": "13.51%"
+    "CCS/CCUS": "13.5%",
+    "Alternative Fuel": "13.5%",
+    "Clay Calcination": "13.5%"
   },
   {
     "Country": "Taiwan",
@@ -3061,9 +3082,9 @@
   {
     "Country": "Taiwan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Tajikistan",
@@ -3075,37 +3096,37 @@
   {
     "Country": "Tajikistan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "54.71%",
-    "Alternative Fuel": "54.71%",
-    "Clay Calcination": "54.71%"
+    "CCS/CCUS": "54.7%",
+    "Alternative Fuel": "54.7%",
+    "Clay Calcination": "54.7%"
   },
   {
     "Country": "Tajikistan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "45.29%",
-    "Alternative Fuel": "45.29%",
-    "Clay Calcination": "45.29%"
+    "CCS/CCUS": "45.3%",
+    "Alternative Fuel": "45.3%",
+    "Clay Calcination": "45.3%"
   },
   {
     "Country": "Tanzania",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "8.00%",
+    "Alternative Fuel": "8.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Tanzania",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "75.00%",
-    "Alternative Fuel": "67.00%",
-    "Clay Calcination": "75.00%"
+    "CCS/CCUS": "75.0%",
+    "Alternative Fuel": "67.0%",
+    "Clay Calcination": "75.0%"
   },
   {
     "Country": "Tanzania",
     "Cem type": "Unknown",
-    "CCS/CCUS": "25.00%",
-    "Alternative Fuel": "25.00%",
-    "Clay Calcination": "25.00%"
+    "CCS/CCUS": "25.0%",
+    "Alternative Fuel": "25.0%",
+    "Clay Calcination": "25.0%"
   },
   {
     "Country": "Thailand",
@@ -3124,9 +3145,9 @@
   {
     "Country": "Thailand",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Togo",
@@ -3138,9 +3159,9 @@
   {
     "Country": "Togo",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Togo",
@@ -3159,9 +3180,9 @@
   {
     "Country": "Trinidad and Tobago",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Trinidad and Tobago",
@@ -3174,42 +3195,42 @@
     "Country": "Tunisia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "41.96%",
+    "Alternative Fuel": "42.0%",
     "Clay Calcination": ""
   },
   {
     "Country": "Tunisia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "89.33%",
-    "Alternative Fuel": "47.37%",
-    "Clay Calcination": "89.33%"
+    "CCS/CCUS": "89.3%",
+    "Alternative Fuel": "47.4%",
+    "Clay Calcination": "89.3%"
   },
   {
     "Country": "Tunisia",
     "Cem type": "Unknown",
-    "CCS/CCUS": "10.67%",
-    "Alternative Fuel": "10.67%",
-    "Clay Calcination": "10.67%"
+    "CCS/CCUS": "10.7%",
+    "Alternative Fuel": "10.7%",
+    "Clay Calcination": "10.7%"
   },
   {
     "Country": "Turkiye",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "1.59%",
-    "Alternative Fuel": "47.85%",
+    "CCS/CCUS": "1.6%",
+    "Alternative Fuel": "47.9%",
     "Clay Calcination": ""
   },
   {
     "Country": "Turkiye",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "98.41%",
-    "Alternative Fuel": "40.81%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "98.4%",
+    "Alternative Fuel": "40.8%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Turkiye",
     "Cem type": "Unknown",
     "CCS/CCUS": "",
-    "Alternative Fuel": "11.34%",
+    "Alternative Fuel": "11.3%",
     "Clay Calcination": ""
   },
   {
@@ -3222,51 +3243,51 @@
   {
     "Country": "Turkmenistan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "64.83%",
-    "Alternative Fuel": "64.83%",
-    "Clay Calcination": "64.83%"
+    "CCS/CCUS": "64.8%",
+    "Alternative Fuel": "64.8%",
+    "Clay Calcination": "64.8%"
   },
   {
     "Country": "Turkmenistan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "35.17%",
-    "Alternative Fuel": "35.17%",
-    "Clay Calcination": "35.17%"
+    "CCS/CCUS": "35.2%",
+    "Alternative Fuel": "35.2%",
+    "Clay Calcination": "35.2%"
   },
   {
     "Country": "Uganda",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "14.15%",
+    "Alternative Fuel": "14.2%",
     "Clay Calcination": ""
   },
   {
     "Country": "Uganda",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "42.45%",
-    "Alternative Fuel": "28.30%",
-    "Clay Calcination": "42.45%"
+    "CCS/CCUS": "42.5%",
+    "Alternative Fuel": "28.3%",
+    "Clay Calcination": "42.5%"
   },
   {
     "Country": "Uganda",
     "Cem type": "Unknown",
-    "CCS/CCUS": "57.55%",
-    "Alternative Fuel": "57.55%",
-    "Clay Calcination": "57.55%"
+    "CCS/CCUS": "57.6%",
+    "Alternative Fuel": "57.6%",
+    "Clay Calcination": "57.6%"
   },
   {
     "Country": "Ukraine",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "15.90%",
+    "Alternative Fuel": "15.9%",
     "Clay Calcination": ""
   },
   {
     "Country": "Ukraine",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "84.10%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "84.1%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Ukraine",
@@ -3279,36 +3300,36 @@
     "Country": "United Arab Emirates",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "61.50%",
+    "Alternative Fuel": "61.5%",
     "Clay Calcination": ""
   },
   {
     "Country": "United Arab Emirates",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "97.23%",
-    "Alternative Fuel": "35.73%",
-    "Clay Calcination": "97.23%"
+    "CCS/CCUS": "97.2%",
+    "Alternative Fuel": "35.7%",
+    "Clay Calcination": "97.2%"
   },
   {
     "Country": "United Arab Emirates",
     "Cem type": "Unknown",
-    "CCS/CCUS": "2.77%",
-    "Alternative Fuel": "2.77%",
-    "Clay Calcination": "2.77%"
+    "CCS/CCUS": "2.8%",
+    "Alternative Fuel": "2.8%",
+    "Clay Calcination": "2.8%"
   },
   {
     "Country": "United Kingdom",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "37.93%",
-    "Alternative Fuel": "91.21%",
+    "CCS/CCUS": "37.9%",
+    "Alternative Fuel": "91.2%",
     "Clay Calcination": ""
   },
   {
     "Country": "United Kingdom",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "62.07%",
-    "Alternative Fuel": "8.79%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "62.1%",
+    "Alternative Fuel": "8.8%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "United Kingdom",
@@ -3320,22 +3341,22 @@
   {
     "Country": "United States",
     "Cem type": "Capacity with emissions reduction tech",
-    "CCS/CCUS": "8.20%",
-    "Alternative Fuel": "69.14%",
+    "CCS/CCUS": "8.2%",
+    "Alternative Fuel": "69.1%",
     "Clay Calcination": ""
   },
   {
     "Country": "United States",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "90.03%",
-    "Alternative Fuel": "29.72%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "90.0%",
+    "Alternative Fuel": "29.7%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "United States",
     "Cem type": "Unknown",
-    "CCS/CCUS": "1.77%",
-    "Alternative Fuel": "1.14%",
+    "CCS/CCUS": "1.8%",
+    "Alternative Fuel": "1.1%",
     "Clay Calcination": ""
   },
   {
@@ -3348,9 +3369,9 @@
   {
     "Country": "Uruguay",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Uruguay",
@@ -3369,16 +3390,16 @@
   {
     "Country": "Uzbekistan",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "98.22%",
-    "Alternative Fuel": "98.22%",
-    "Clay Calcination": "98.22%"
+    "CCS/CCUS": "98.2%",
+    "Alternative Fuel": "98.2%",
+    "Clay Calcination": "98.2%"
   },
   {
     "Country": "Uzbekistan",
     "Cem type": "Unknown",
-    "CCS/CCUS": "1.78%",
-    "Alternative Fuel": "1.78%",
-    "Clay Calcination": "1.78%"
+    "CCS/CCUS": "1.8%",
+    "Alternative Fuel": "1.8%",
+    "Clay Calcination": "1.8%"
   },
   {
     "Country": "Venezuela",
@@ -3390,9 +3411,9 @@
   {
     "Country": "Venezuela",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Venezuela",
@@ -3418,9 +3439,9 @@
   {
     "Country": "Vietnam",
     "Cem type": "Unknown",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Western Sahara",
@@ -3453,9 +3474,9 @@
   {
     "Country": "Yemen",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Yemen",
@@ -3468,22 +3489,22 @@
     "Country": "Zambia",
     "Cem type": "Capacity with emissions reduction tech",
     "CCS/CCUS": "",
-    "Alternative Fuel": "33.50%",
+    "Alternative Fuel": "33.5%",
     "Clay Calcination": ""
   },
   {
     "Country": "Zambia",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "87.16%",
-    "Alternative Fuel": "21.95%",
-    "Clay Calcination": "87.16%"
+    "CCS/CCUS": "87.2%",
+    "Alternative Fuel": "22.0%",
+    "Clay Calcination": "87.2%"
   },
   {
     "Country": "Zambia",
     "Cem type": "Unknown",
-    "CCS/CCUS": "12.84%",
-    "Alternative Fuel": "44.54%",
-    "Clay Calcination": "12.84%"
+    "CCS/CCUS": "12.8%",
+    "Alternative Fuel": "44.5%",
+    "Clay Calcination": "12.8%"
   },
   {
     "Country": "Zimbabwe",
@@ -3495,15 +3516,15 @@
   {
     "Country": "Zimbabwe",
     "Cem type": "Capacity without emissions reduction tech",
-    "CCS/CCUS": "100.00%",
-    "Alternative Fuel": "100.00%",
-    "Clay Calcination": "100.00%"
+    "CCS/CCUS": "100.0%",
+    "Alternative Fuel": "100.0%",
+    "Clay Calcination": "100.0%"
   },
   {
     "Country": "Zimbabwe",
     "Cem type": "Unknown",
-    "CCS/CCUS": "0.00%",
-    "Alternative Fuel": "0.00%",
-    "Clay Calcination": "0.00%"
+    "CCS/CCUS": "0.0%",
+    "Alternative Fuel": "0.0%",
+    "Clay Calcination": "0.0%"
   }
 ]

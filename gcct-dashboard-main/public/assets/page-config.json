@@ -1,8 +1,8 @@
 {
     "flourish_ids": [
-        "24160385",
-        "24160960",
-        "24161189"      
+        "28356126",
+        "28356136",
+        "28356146"
     ],
     "input_type": "dropdown",
     "input_filter": "Country",
@@ -14,7 +14,7 @@
         "id": "summary_1",
         "decimal_places": 1,
         "style": {
-            "color": "#BF532C",
+            "color": "#3A4A50",
             "font-weight": "bold",
             "font-size": "3.5rem"
         }
@@ -23,7 +23,7 @@
         "id": "summary_2",
         "decimal_places": 1,
         "style": {
-            "color": "#761201",
+            "color": "#016B83",
             "font-weight": "bold",
             "font-size": "3.5rem"
         }
@@ -32,7 +32,7 @@
         "id": "summary_3",
         "decimal_places": 1,
         "style": {
-            "color": "#BF532C",
+            "color": "#3A4A50",
             "font-weight": "bold",
             "font-size": "3.5rem"
         }
@@ -41,7 +41,7 @@
         "id": "summary_4",
         "decimal_places": 1,
         "style": {
-            "color": "#761201",
+            "color": "#016B83",
             "font-weight": "bold",
             "font-size": "3.5rem"
         }

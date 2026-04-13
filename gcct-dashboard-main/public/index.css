@@ -1,7 +1,7 @@
 body {
     position: relative;
     font-size: 16px;
-    font-family: 'Open Sans';
+    font-family: 'Plus Jakarta Sans', sans-serif;
     text-align: center;
     color: #1f1f1f;
     max-width: 2500px;
@@ -109,11 +109,11 @@ body {
 /* filter button hover ane selected styles */
 
 .filter-button:hover {
-    background-color: rgba(191, 83, 44, 0.5);
+    background-color: rgba(1, 107, 131, 0.5);
 }
 
 .filter-button:has(input:checked) {
-    background-color: #BF532C;
+    background-color: #016B83;
     border: solid 1px #111;
     color: white;
 }

@@ -1,0 +1,383 @@
+# Global Cement and Concrete Tracker (GCCT) Dashboard Config
+# Run: python3 generate_dashboard_json.py --config gcct_config.yaml
+# Single chart: python3 generate_dashboard_json.py --config gcct_config.yaml --charts data_ticker
+
+
+tracker: gcct
+output_dir: public/assets/data_2026
+
+client_secret: client_secret.json
+
+sheets_key: "1JYdPkz4GEPaH48mReGvvg_rRPuWkXGL5GF_fVfcBdgg"
+
+sheets_tab: "Final data"
+
+# Countries to print a check summary for after each run (console only,
+# doesn't affect what gets written)
+summary_countries:
+  - Global
+  - China
+  - Australia
+  - United States
+  - India
+  - Nigeria
+  - Egypt
+  - Brazil
+  - Mexico
+
+# All countries that must appear in every chart (fill missing rows with 0)
+#from gcct-dashboard-main/public/assets/text-config.json "dropdown"
+
+countries:
+  - Global
+  - Afghanistan
+  - Albania
+  - Algeria
+  - Angola
+  - Argentina
+  - Armenia
+  - Australia
+  - Austria
+  - Azerbaijan
+  - Bahrain
+  - Bangladesh
+  - Barbados
+  - Belarus
+  - Belgium
+  - Benin
+  - Bhutan
+  - Bolivia
+  - Bosnia and Herzegovina
+  - Botswana
+  - Brazil
+  - Brunei
+  - Bulgaria
+  - Burkina Faso
+  - Burundi
+  - Cambodia
+  - Cameroon
+  - Canada
+  - Chad
+  - Chile
+  - China
+  - Colombia
+  - Costa Rica
+  - Cote d'Ivoire
+  - Croatia
+  - Cuba
+  - Cyprus
+  - Czech Republic
+  - Denmark
+  - Djibouti
+  - Dominican Republic
+  - DR Congo
+  - Ecuador
+  - Egypt
+  - Ethiopia
+  - El Salvador
+  - Eritrea
+  - Estonia
+  - Eswatini
+  - Fiji
+  - Finland
+  - France
+  - French Guiana
+  - Gabon
+  - Georgia
+  - Germany
+  - Ghana
+  - Greece
+  - Guadeloupe
+  - Guatemala
+  - Guinea
+  - Guinea-Bissau
+  - Haiti
+  - Honduras
+  - Hong Kong
+  - Hungary
+  - India
+  - Indonesia
+  - Iran
+  - Iraq
+  - Ireland
+  - Israel
+  - Italy
+  - Jamaica
+  - Japan
+  - Jordan
+  - Kazakhstan
+  - Kenya
+  - Kosovo
+  - Kuwait
+  - Kyrgyzstan
+  - Laos
+  - Latvia
+  - Lebanon
+  - Lesotho
+  - Liberia
+  - Libya
+  - Lithuania
+  - Luxembourg
+  - Macao
+  - Madagascar
+  - Malawi
+  - Malaysia
+  - Mali
+  - Martinique
+  - Mauritania
+  - Mexico
+  - Moldova
+  - Mongolia
+  - Montenegro
+  - Morocco
+  - Mozambique
+  - Myanmar
+  - Namibia
+  - Nepal
+  - Netherlands
+  - New Caledonia
+  - New Zealand
+  - Nicaragua
+  - Niger
+  - Nigeria
+  - North Korea
+  - North Macedonia
+  - Norway
+  - Oman
+  - Pakistan
+  - Panama
+  - Papua New Guinea
+  - Paraguay
+  - Peru
+  - Philippines
+  - Poland
+  - Portugal
+  - Puerto Rico
+  - Qatar
+  - Republic of the Congo
+  - Reunion
+  - Romania
+  - Russia
+  - Rwanda
+  - Samoa
+  - Saudi Arabia
+  - Senegal
+  - Serbia
+  - Sierra Leone
+  - Slovakia
+  - Slovenia
+  - South Africa
+  - South Korea
+  - Spain
+  - Sri Lanka
+  - Sudan
+  - Suriname
+  - Sweden
+  - Switzerland
+  - Syria
+  - Taiwan
+  - Tajikistan
+  - Tanzania
+  - Thailand
+  - Togo
+  - Trinidad and Tobago
+  - Tunisia
+  - Turkiye
+  - Turkmenistan
+  - Uganda
+  - Ukraine
+  - United Arab Emirates
+  - United Kingdom
+  - United States
+  - Uruguay
+  - Uzbekistan
+  - Venezuela
+  - Vietnam
+  - Western Sahara
+  - Yemen
+  - Zambia
+  - Zimbabwe
+
+charts:
+
+  # ── Ticker ────────────────────────────────────────────────────────────────
+  # 4 stats: cement capacity operating (mtpa), cement capacity in development,
+  # clinker capacity operating, clinker capacity in development.
+  # Aggregates straight from the raw unit-level rows: each summary ANDs a
+  # material-type filter with a status filter. Matches
+  # public/assets/data/gcct_dataticker_2025.json's summary_1..4 shape.
+  
+  - name: data_ticker
+    output_file: gcct_dataticker.json
+    type: ticker_computed
+    country_col: Country
+    sheet_country_col: Country/area   # raw sheet header; renamed to `country_col` right after reading
+    summaries:
+      - field: summary_1
+        label: "Cement capacity<br>in operation"
+        agg_col: "Cement capacity (million metric tonnes per annum)"     
+        agg_func: sum
+        round: 1
+        unit: mtpa
+        color: "#3A4A50"
+        filters:
+          - col: Operating status                
+            values: ["operating",  "operating pre-retirement"]
+      - field: summary_2
+        label: "Cement capacity<br>in development"
+        agg_col: "Cement capacity (million metric tonnes per annum)"
+        agg_func: sum
+        round: 1
+        unit: mtpa
+        color: "#016B83"
+        filters:
+          - col: Operating status
+            values: ["announced", "construction"]  
+      - field: summary_3
+        label: "Clinker capacity<br>in operation"
+        agg_col: "Clinker capacity (million metric tonnes per annum)"
+        agg_func: sum
+        round: 1
+        unit: mtpa
+        color: "#3A4A50"
+        filters:
+          - col: Operating status
+            values: ["operating",  "operating pre-retirement"]
+      - field: summary_4
+        label: "Clinker capacity<br>in development"
+        agg_col: "Clinker capacity (million metric tonnes per annum)"
+        agg_func: sum
+        round: 1
+        unit: mtpa
+        color: "#016B83"
+        filters:
+          - col: Operating status
+            values: ["announced", "construction"] 
+
+  # ── Chart 1: Operating and developing cement/clinker capacity by color ────
+  # (Flourish ID 28356126) Groups raw rows by country + Capacity (Cement/
+  # Clinker) + Cement Color, then pivots Cement Color out into columns:
+  # Grey, White, Both, Unknown.
+  - name: cement_capacity_by_color
+    type: pivot
+    output_file: 28356126_gcct_output_filled.json
+    country_col: Country
+    sheet_country_col: Country/area   # raw sheet header; renamed to `country_col` right after reading
+    row_col: Capacity # this is a new column named capacity that holds if it is cement or clinker
+    pivot_col: "Cement color"
+    value_col: ['Clinker capacity (million metric tonnes per annum)', 'Cement capacity (million metric tonnes per annum)'] 
+    filters:
+      - col: Operating status
+        values: ["operating", "announced", "construction", "operating pre-retirement"]
+    fill_countries: true
+    fill_row_values:  
+      - Cement Capacity
+      - Clinker Capacity
+    # Raw sheet values are lowercase ("grey", "n/a"); chart-config.json's
+    # `values` list (and Flourish's bindings.data.value) expect Title Case —
+    # canonicalize before pivoting so the column names actually match.
+    pivot_value_map:
+      grey: Grey
+      white: White
+      both: Grey and White
+      unknown: Unknown   
+    # No pivot_value_default — an unmapped value should surface as its own
+    # column (visible, fixable) rather than being silently absorbed anywhere.
+    # Blank cells and "N/A" both mean "color doesn't apply to this row", not
+    # "color is unknown" — drop them entirely, don't count them under Unknown.
+    exclude_filters:
+      - col: "Cement color"
+        values: ["n/a", ""]
+    fill_pivot_values:
+      - Grey
+      - White
+      - Grey and White
+      - Unknown
+
+  # ── Chart 2: Operating and developing cement capacity by type ─────────────
+  # (Flourish ID 28356136) Groups by country + Capacity (Integrated/Grinding)
+  # + Cement Type, then pivots Cement Type into columns: OPC, Blended, Blast
+  # Furnace Slag, Unknown.
+  - name: cement_capacity_by_type
+    type: pivot
+    output_file: 28356136_gcct_output_filled.json
+    country_col: Country
+    sheet_country_col: Country/area   # raw sheet header; renamed to `country_col` right after reading
+    row_col: Plant type  
+    pivot_col: "Majority cement type"           
+    value_col: "Cement capacity (million metric tonnes per annum)"
+    groupby: [Country, Plant type, Majority cement type]
+    filters:
+      - col: Operating status
+        values: ["operating", "announced", "construction", "operating pre-retirement"]
+    fill_countries: true
+    # Raw "Plant type" values are lowercase ("integrated"/"grinding");
+    # canonicalize to match the old chart's row labels.
+    row_value_map:
+      integrated: Integrated Capacity
+      grinding: Grinding Capacity
+    fill_row_values:
+      - Integrated Capacity
+      - Grinding Capacity
+    # Raw "Majority cement type" values are lowercase; canonicalize to match
+    # chart-config.json's `values` list 
+    pivot_value_map:
+      opc: OPC
+      blended: Blended
+      blast furnace slag: Blast Furnace Slag
+      unknown: Unknown  
+    # No pivot_value_default — an unmapped value should surface as its own
+    # column (visible, fixable) rather than being silently absorbed anywhere.
+    # Blank cells and "N/A" both mean "cement type doesn't apply to this row",
+    # not "type is unknown" — drop them entirely, don't count under Unknown.
+    exclude_filters:
+      - col: "Majority cement type"
+        values: ["n/a", ""]
+    fill_pivot_values:
+      - OPC
+      - Blended
+      - Blast Furnace Slag
+      - Unknown
+
+
+  # ── Chart 4: Cement capacity with emissions reduction technology ─────────
+  # (Flourish ID 28356146) For each tech flag column, % of a country's TOTAL
+  # cement capacity (all in-scope projects summed, regardless of that flag's
+  # value) that is yes / no / unknown for that tech. Rendered live as 3
+  # separate donuts (CCS/CCUS, Alternative Fuel, Clay Calcination), each
+  # split into with/without/unknown — confirmed against the live dashboard
+  # screenshot (2.2/84.4/13.4, 26/59.1/14.9, 1/85.4/13.7).
+  # key columns in final data:
+  # CCS/CCUS: allowed values: no, yes, N/A
+  # Alternative fuel for kiln: allowed values: no, yes, N/A, unknown
+  # Clay calcination: allowed values: no, yes, unknown
+  - name: green_cement
+    type: pivot_percent
+    output_file: 28356146_gcct_output_filled.json
+    country_col: Country
+    sheet_country_col: Country/area   # raw sheet header; renamed to `country_col` right after reading
+    value_col: "Cement capacity (million metric tonnes per annum)"
+    row_col: Cem type
+    with_label: Capacity with emissions reduction tech
+    without_label: Capacity without emissions reduction tech
+    unknown_label: Unknown
+    yes_values: ["yes"]
+    no_values: ["no"]
+    unknown_values: ["unknown"]   
+    # Blank cells and "N/A" are excluded from each flag's own calculation
+    # entirely (not counted as Unknown, and not counted in that flag's
+    # denominator) — see process_pivot_percent's bucket_for(). CCS/CCUS has
+    # no literal "unknown" option (no/yes/N/A only), so its Unknown slice
+    # should end up at 0% once N/A rows stop being folded in.
+    filters:
+      - col: Operating status
+        values: ["operating", "announced", "construction", "operating pre-retirement"]
+    flags:
+      - col: "CCS/CCUS"
+        label: "CCS/CCUS"
+      - col: "Alternative fuel for kiln"
+        label: "Alternative Fuel"
+      - col: "Clay calcination"
+        label: "Clay Calcination"
+    fill_countries: true
+

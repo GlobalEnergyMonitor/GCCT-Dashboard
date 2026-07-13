@@ -25,6 +25,31 @@ summary_countries:
   - Brazil
   - Mexico
 
+# ticker total vs pivot chart row-sum, per spotlight country (console only).
+# The gap is capacity sitting on blank/N/A rows for that pivot's category
+# column (which exclude_filters drops), not a discrepancy to fix.
+summary_cross_checks:
+  - label: "Cement capacity (color chart)"
+    ticker_chart: data_ticker
+    ticker_fields: [summ1data, summ2data]   # cement: operating + in development
+    pivot_chart: cement_capacity_by_color
+    pivot_row_col: Capacity
+    pivot_row_value: Cement Capacity
+  - label: "Clinker capacity (color chart)"
+    ticker_chart: data_ticker
+    ticker_fields: [summ3data, summ4data]   # clinker: operating + in development
+    pivot_chart: cement_capacity_by_color
+    pivot_row_col: Capacity
+    pivot_row_value: Clinker Capacity
+  - label: "Cement capacity (type chart)"
+    ticker_chart: data_ticker
+    ticker_fields: [summ1data, summ2data]
+    pivot_chart: cement_capacity_by_type
+    # no pivot_row_value — Plant type (Integrated/Grinding) doesn't split by
+    # material, so sum every row for this country instead of just one bucket.
+
+
+
 # All countries that must appear in every chart (fill missing rows with 0)
 #from gcct-dashboard-main/public/assets/text-config.json "dropdown"
 

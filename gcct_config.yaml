@@ -5,6 +5,7 @@
 
 tracker: gcct
 output_dir: public/assets/data_2026
+global: Global
 
 client_secret: client_secret.json
 
@@ -50,178 +51,12 @@ summary_cross_checks:
 
 
 
-# All countries that must appear in every chart (fill missing rows with 0)
+# All countries must appear in every chart (fill missing rows with 0)
 #from gcct-dashboard-main/public/assets/text-config.json "dropdown"
+# generate dashboard script gets the unique list of coutnries from the raw data
+# rank by capacity script creates a updated text-config json print out of countries ranked by capacity
 
-countries:
-  - Global
-  - Afghanistan
-  - Albania
-  - Algeria
-  - Angola
-  - Argentina
-  - Armenia
-  - Australia
-  - Austria
-  - Azerbaijan
-  - Bahrain
-  - Bangladesh
-  - Barbados
-  - Belarus
-  - Belgium
-  - Benin
-  - Bhutan
-  - Bolivia
-  - Bosnia and Herzegovina
-  - Botswana
-  - Brazil
-  - Brunei
-  - Bulgaria
-  - Burkina Faso
-  - Burundi
-  - Cambodia
-  - Cameroon
-  - Canada
-  - Chad
-  - Chile
-  - China
-  - Colombia
-  - Costa Rica
-  - Cote d'Ivoire
-  - Croatia
-  - Cuba
-  - Cyprus
-  - Czech Republic
-  - Denmark
-  - Djibouti
-  - Dominican Republic
-  - DR Congo
-  - Ecuador
-  - Egypt
-  - Ethiopia
-  - El Salvador
-  - Eritrea
-  - Estonia
-  - Eswatini
-  - Fiji
-  - Finland
-  - France
-  - French Guiana
-  - Gabon
-  - Georgia
-  - Germany
-  - Ghana
-  - Greece
-  - Guadeloupe
-  - Guatemala
-  - Guinea
-  - Guinea-Bissau
-  - Haiti
-  - Honduras
-  - Hong Kong
-  - Hungary
-  - India
-  - Indonesia
-  - Iran
-  - Iraq
-  - Ireland
-  - Israel
-  - Italy
-  - Jamaica
-  - Japan
-  - Jordan
-  - Kazakhstan
-  - Kenya
-  - Kosovo
-  - Kuwait
-  - Kyrgyzstan
-  - Laos
-  - Latvia
-  - Lebanon
-  - Lesotho
-  - Liberia
-  - Libya
-  - Lithuania
-  - Luxembourg
-  - Macao
-  - Madagascar
-  - Malawi
-  - Malaysia
-  - Mali
-  - Martinique
-  - Mauritania
-  - Mexico
-  - Moldova
-  - Mongolia
-  - Montenegro
-  - Morocco
-  - Mozambique
-  - Myanmar
-  - Namibia
-  - Nepal
-  - Netherlands
-  - New Caledonia
-  - New Zealand
-  - Nicaragua
-  - Niger
-  - Nigeria
-  - North Korea
-  - North Macedonia
-  - Norway
-  - Oman
-  - Pakistan
-  - Panama
-  - Papua New Guinea
-  - Paraguay
-  - Peru
-  - Philippines
-  - Poland
-  - Portugal
-  - Puerto Rico
-  - Qatar
-  - Republic of the Congo
-  - Reunion
-  - Romania
-  - Russia
-  - Rwanda
-  - Samoa
-  - Saudi Arabia
-  - Senegal
-  - Serbia
-  - Sierra Leone
-  - Slovakia
-  - Slovenia
-  - South Africa
-  - South Korea
-  - Spain
-  - Sri Lanka
-  - Sudan
-  - Suriname
-  - Sweden
-  - Switzerland
-  - Syria
-  - Taiwan
-  - Tajikistan
-  - Tanzania
-  - Thailand
-  - Togo
-  - Trinidad and Tobago
-  - Tunisia
-  - Turkiye
-  - Turkmenistan
-  - Uganda
-  - Ukraine
-  - United Arab Emirates
-  - United Kingdom
-  - United States
-  - Uruguay
-  - Uzbekistan
-  - Venezuela
-  - Vietnam
-  - Western Sahara
-  - Yemen
-  - Zambia
-  - Zimbabwe
+
 
 charts:
 
@@ -321,8 +156,7 @@ charts:
 
   # ── Chart 2: Operating and developing cement capacity by type ─────────────
   # (Flourish ID 28356136) Groups by country + Capacity (Integrated/Grinding)
-  # + Cement Type, then pivots Cement Type into columns: OPC, Blended, Blast
-  # Furnace Slag, Unknown.
+  # + Cement Type, then pivots Cement Type into columns: OPC, Blended, Unknown, blast furnace slag.
   - name: cement_capacity_by_type
     type: pivot
     output_file: 28356136_gcct_output_filled.json
@@ -350,7 +184,7 @@ charts:
       opc: OPC
       blended: Blended
       blast furnace slag: Blast Furnace Slag
-      unknown: Unknown  
+      unknown: Unknown
     # No pivot_value_default — an unmapped value should surface as its own
     # column (visible, fixable) rather than being silently absorbed anywhere.
     # Blank cells and "N/A" both mean "cement type doesn't apply to this row",

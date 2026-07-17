@@ -240,6 +240,22 @@
     "Unknown": 2.7
   },
   {
+    "Country": "Belize",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 0.0
+  },
+  {
+    "Country": "Belize",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.1,
+    "OPC": 0.0,
+    "Unknown": 0.0
+  },
+  {
     "Country": "Benin",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
@@ -528,22 +544,6 @@
     "Unknown": 0.0
   },
   {
-    "Country": "Cote d'Ivoire",
-    "Plant type": "Integrated Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 0.0,
-    "OPC": 0.0,
-    "Unknown": 0.0
-  },
-  {
-    "Country": "Cote d'Ivoire",
-    "Plant type": "Grinding Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 0.0,
-    "OPC": 0.0,
-    "Unknown": 0.0
-  },
-  {
     "Country": "Croatia",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
@@ -608,6 +608,38 @@
     "Unknown": 0.0
   },
   {
+    "Country": "Côte d'Ivoire",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.5,
+    "OPC": 0.0,
+    "Unknown": 0.88
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 5.5,
+    "OPC": 0.0,
+    "Unknown": 6.0
+  },
+  {
+    "Country": "DR Congo",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 1.2,
+    "OPC": 0.0,
+    "Unknown": 4.45
+  },
+  {
+    "Country": "DR Congo",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 0.6
+  },
+  {
     "Country": "Denmark",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
@@ -656,22 +688,6 @@
     "Unknown": 0.54
   },
   {
-    "Country": "DR Congo",
-    "Plant type": "Integrated Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 1.2,
-    "OPC": 0.0,
-    "Unknown": 4.45
-  },
-  {
-    "Country": "DR Congo",
-    "Plant type": "Grinding Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 0.0,
-    "OPC": 0.0,
-    "Unknown": 0.6
-  },
-  {
     "Country": "Ecuador",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
@@ -702,22 +718,6 @@
     "Blended": 0.0,
     "OPC": 0.0,
     "Unknown": 0.6
-  },
-  {
-    "Country": "Ethiopia",
-    "Plant type": "Integrated Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 2.5,
-    "OPC": 6.4,
-    "Unknown": 10.32
-  },
-  {
-    "Country": "Ethiopia",
-    "Plant type": "Grinding Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 0.0,
-    "OPC": 0.0,
-    "Unknown": 0.0
   },
   {
     "Country": "El Salvador",
@@ -777,6 +777,22 @@
   },
   {
     "Country": "Eswatini",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 0.0
+  },
+  {
+    "Country": "Ethiopia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 2.5,
+    "OPC": 6.4,
+    "Unknown": 10.32
+  },
+  {
+    "Country": "Ethiopia",
     "Plant type": "Grinding Capacity",
     "Blast Furnace Slag": 0.0,
     "Blended": 0.0,
@@ -1856,6 +1872,22 @@
     "Unknown": 0.0
   },
   {
+    "Country": "Palestine",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 0.0
+  },
+  {
+    "Country": "Palestine",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 1.3
+  },
+  {
     "Country": "Panama",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
@@ -2016,22 +2048,6 @@
     "Unknown": 0.0
   },
   {
-    "Country": "Reunion",
-    "Plant type": "Integrated Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 0.0,
-    "OPC": 0.0,
-    "Unknown": 0.0
-  },
-  {
-    "Country": "Reunion",
-    "Plant type": "Grinding Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 0.0,
-    "OPC": 0.0,
-    "Unknown": 0.0
-  },
-  {
     "Country": "Romania",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
@@ -2080,7 +2096,7 @@
     "Unknown": 1.6
   },
   {
-    "Country": "Samoa",
+    "Country": "Réunion",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
     "Blended": 0.0,
@@ -2088,10 +2104,10 @@
     "Unknown": 0.0
   },
   {
-    "Country": "Samoa",
+    "Country": "Réunion",
     "Plant type": "Grinding Capacity",
     "Blast Furnace Slag": 0.0,
-    "Blended": 0.0,
+    "Blended": 0.5,
     "OPC": 0.0,
     "Unknown": 0.0
   },
@@ -2192,6 +2208,22 @@
     "Unknown": 0.5
   },
   {
+    "Country": "Somalia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 1.2,
+    "Unknown": 0.0
+  },
+  {
+    "Country": "Somalia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 0.0
+  },
+  {
     "Country": "South Africa",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
@@ -2222,6 +2254,22 @@
     "Blended": 12.6,
     "OPC": 15.25,
     "Unknown": 6.1
+  },
+  {
+    "Country": "South Sudan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 0.0
+  },
+  {
+    "Country": "South Sudan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 0.0
   },
   {
     "Country": "Spain",
@@ -2400,6 +2448,22 @@
     "Unknown": 0.0
   },
   {
+    "Country": "Timor-Leste",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 0.0
+  },
+  {
+    "Country": "Timor-Leste",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 0.0,
+    "OPC": 0.0,
+    "Unknown": 0.0
+  },
+  {
     "Country": "Togo",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
@@ -2448,22 +2512,6 @@
     "Unknown": 0.6
   },
   {
-    "Country": "Turkiye",
-    "Plant type": "Integrated Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 0.0,
-    "OPC": 0.0,
-    "Unknown": 0.0
-  },
-  {
-    "Country": "Turkiye",
-    "Plant type": "Grinding Capacity",
-    "Blast Furnace Slag": 0.0,
-    "Blended": 0.0,
-    "OPC": 0.0,
-    "Unknown": 0.0
-  },
-  {
     "Country": "Turkmenistan",
     "Plant type": "Integrated Capacity",
     "Blast Furnace Slag": 0.0,
@@ -2478,6 +2526,22 @@
     "Blended": 0.0,
     "OPC": 0.0,
     "Unknown": 0.0
+  },
+  {
+    "Country": "Türkiye",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Slag": 0.0,
+    "Blended": 34.75,
+    "OPC": 23.6,
+    "Unknown": 83.0
+  },
+  {
+    "Country": "Türkiye",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Slag": 3.0,
+    "Blended": 2.7,
+    "OPC": 0.0,
+    "Unknown": 4.12
   },
   {
     "Country": "Uganda",

@@ -9,7 +9,7 @@
     "input_default": "Global",
     "overall_summary": false,
     "ticker_text_font-size": "2rem",
-    "ticker_data": "gcct_dataticker_2025",
+    "ticker_data": "gcct_dataticker",
     "tickers": [{
         "id": "summary_1",
         "decimal_places": 1,

@@ -29,12 +29,12 @@ async function getData() {
         .then(() => {
             const dataURLS = [];
             config.dashboard.flourish_ids.forEach(id => {
-                dataURLS.push(`./assets/data/${config.charts[id].dataset}.json`);
+                dataURLS.push(`./assets/data_2026/${config.charts[id].dataset}.json`);
                 config.datasets[id] = [];
             })
             if (config.dashboard.tickers) {
                 dataURLS.push('https://public.flourish.studio/visualisation/28342067/visualisation.json') // this assumes we want the same template for all tickers
-                dataURLS.push(`./assets/data/${config.dashboard.ticker_data}.json`)
+                dataURLS.push(`./assets/data_2026/${config.dashboard.ticker_data}.json`)
                 config.datasets.ticker = {};
             }
             const fetches = [];
@@ -539,7 +539,7 @@ function initialData(id) {
     let data = config.datasets[id];
     if (config.charts[id].filterable) {
         if (typeof config.charts[id].filter_by === 'string') {
-            data = config.datasets[id].filter(entry => entry[config.dashboard.input_filter] === config.charts[id].initial_state);
+            data = config.datasets[id].filter(entry => entry[config.charts[id].filter_by] === config.charts[id].initial_state);
         } else {
             const defaultFilter = config.dashboard.input_default;
             if (defaultFilter === "All") return data;

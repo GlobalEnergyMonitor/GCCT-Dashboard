@@ -1,0 +1,2754 @@
+[
+  {
+    "Country": "Global",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 17,
+    "Blended": 1196,
+    "OPC": 2120,
+    "Unknown": 1424
+  },
+  {
+    "Country": "Global",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 31,
+    "Blended": 373,
+    "OPC": 308,
+    "Unknown": 354
+  },
+  {
+    "Country": "Afghanistan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 4
+  },
+  {
+    "Country": "Afghanistan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Albania",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Albania",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Algeria",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 14,
+    "OPC": 1,
+    "Unknown": 24
+  },
+  {
+    "Country": "Algeria",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Angola",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 8
+  },
+  {
+    "Country": "Angola",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Argentina",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 4,
+    "OPC": 17,
+    "Unknown": 0
+  },
+  {
+    "Country": "Argentina",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 2,
+    "Unknown": 0
+  },
+  {
+    "Country": "Armenia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Armenia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Australia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 4,
+    "Unknown": 2
+  },
+  {
+    "Country": "Australia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 2,
+    "Blended": 0,
+    "OPC": 8,
+    "Unknown": 2
+  },
+  {
+    "Country": "Austria",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 3
+  },
+  {
+    "Country": "Austria",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Azerbaijan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 2,
+    "Unknown": 0
+  },
+  {
+    "Country": "Azerbaijan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Bahrain",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 1
+  },
+  {
+    "Country": "Bahrain",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Bangladesh",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Bangladesh",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 34,
+    "OPC": 15,
+    "Unknown": 25
+  },
+  {
+    "Country": "Barbados",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Barbados",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Belarus",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 4,
+    "Unknown": 2
+  },
+  {
+    "Country": "Belarus",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Belgium",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 6
+  },
+  {
+    "Country": "Belgium",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 1,
+    "Unknown": 3
+  },
+  {
+    "Country": "Belize",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Belize",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Benin",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Benin",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Bhutan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 2,
+    "Unknown": 0
+  },
+  {
+    "Country": "Bhutan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Bolivia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 9,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Bolivia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Botswana",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Botswana",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Brazil",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 13,
+    "Blended": 73,
+    "OPC": 0,
+    "Unknown": 7
+  },
+  {
+    "Country": "Brazil",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 3,
+    "Blended": 9,
+    "OPC": 0,
+    "Unknown": 3
+  },
+  {
+    "Country": "Brunei",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Brunei",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Bulgaria",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Bulgaria",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Burkina Faso",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Burkina Faso",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 4,
+    "OPC": 3,
+    "Unknown": 2
+  },
+  {
+    "Country": "Burundi",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Burundi",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cambodia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 4,
+    "Unknown": 4
+  },
+  {
+    "Country": "Cambodia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 3
+  },
+  {
+    "Country": "Cameroon",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 4
+  },
+  {
+    "Country": "Canada",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 1,
+    "Blended": 16,
+    "OPC": 5,
+    "Unknown": 0
+  },
+  {
+    "Country": "Canada",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 1,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Chad",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Chad",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Chile",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 4,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Chile",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 5,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "China",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 2,
+    "Blended": 67,
+    "OPC": 1153,
+    "Unknown": 606
+  },
+  {
+    "Country": "China",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 1,
+    "Blended": 6,
+    "OPC": 157,
+    "Unknown": 124
+  },
+  {
+    "Country": "Colombia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 7,
+    "OPC": 0,
+    "Unknown": 11
+  },
+  {
+    "Country": "Colombia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Costa Rica",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Costa Rica",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Croatia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 4,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Croatia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cuba",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 4,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Cuba",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cyprus",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cyprus",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Czech Republic",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 5
+  },
+  {
+    "Country": "Czech Republic",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 6,
+    "OPC": 0,
+    "Unknown": 6
+  },
+  {
+    "Country": "DR Congo",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 4
+  },
+  {
+    "Country": "DR Congo",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Denmark",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Denmark",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Djibouti",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Djibouti",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 10,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Ecuador",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 8,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Ecuador",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Egypt",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 31,
+    "OPC": 32,
+    "Unknown": 25
+  },
+  {
+    "Country": "Egypt",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "El Salvador",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 4,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "El Salvador",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Eritrea",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Eritrea",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Estonia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Estonia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Eswatini",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Eswatini",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Ethiopia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 6,
+    "Unknown": 10
+  },
+  {
+    "Country": "Ethiopia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Fiji",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Fiji",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Finland",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Finland",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 1,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "France",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 19
+  },
+  {
+    "Country": "France",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 3,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 7
+  },
+  {
+    "Country": "French Guiana",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "French Guiana",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Gabon",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Gabon",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Georgia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Georgia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Germany",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 9,
+    "OPC": 1,
+    "Unknown": 22
+  },
+  {
+    "Country": "Germany",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 3,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 3
+  },
+  {
+    "Country": "Ghana",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Ghana",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 5,
+    "OPC": 0,
+    "Unknown": 6
+  },
+  {
+    "Country": "Greece",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 4,
+    "OPC": 0,
+    "Unknown": 10
+  },
+  {
+    "Country": "Greece",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Guadeloupe",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Guadeloupe",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Guatemala",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 5,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Guatemala",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Guinea",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Guinea",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 3
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Haiti",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Haiti",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Honduras",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Honduras",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Hong Kong",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 2,
+    "Unknown": 0
+  },
+  {
+    "Country": "Hong Kong",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Hungary",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Hungary",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "India",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 185,
+    "OPC": 179,
+    "Unknown": 159
+  },
+  {
+    "Country": "India",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 3,
+    "Blended": 174,
+    "OPC": 53,
+    "Unknown": 88
+  },
+  {
+    "Country": "Indonesia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 55,
+    "OPC": 48,
+    "Unknown": 2
+  },
+  {
+    "Country": "Indonesia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 1,
+    "Blended": 10,
+    "OPC": 15,
+    "Unknown": 0
+  },
+  {
+    "Country": "Iran",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 42,
+    "Unknown": 60
+  },
+  {
+    "Country": "Iran",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Iraq",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 36,
+    "Unknown": 21
+  },
+  {
+    "Country": "Iraq",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 4,
+    "Unknown": 0
+  },
+  {
+    "Country": "Ireland",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 6,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Ireland",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 1,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Israel",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 5,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Israel",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Italy",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 16,
+    "OPC": 3,
+    "Unknown": 12
+  },
+  {
+    "Country": "Italy",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Jamaica",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Jamaica",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Japan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 8,
+    "OPC": 57,
+    "Unknown": 0
+  },
+  {
+    "Country": "Japan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 0
+  },
+  {
+    "Country": "Jordan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 4
+  },
+  {
+    "Country": "Jordan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 0
+  },
+  {
+    "Country": "Kazakhstan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 6,
+    "Unknown": 13
+  },
+  {
+    "Country": "Kazakhstan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Kenya",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 3
+  },
+  {
+    "Country": "Kenya",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 5,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Kosovo",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Kosovo",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Kuwait",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 5,
+    "Unknown": 0
+  },
+  {
+    "Country": "Kuwait",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 5,
+    "Unknown": 0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 4
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Laos",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 8,
+    "Unknown": 5
+  },
+  {
+    "Country": "Laos",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Latvia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 2,
+    "Unknown": 0
+  },
+  {
+    "Country": "Latvia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Lebanon",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Lebanon",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Lesotho",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Lesotho",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Liberia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Liberia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Libya",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 10,
+    "Unknown": 4
+  },
+  {
+    "Country": "Libya",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Lithuania",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 4,
+    "Unknown": 0
+  },
+  {
+    "Country": "Lithuania",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Luxembourg",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Luxembourg",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Macao",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Macao",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 0
+  },
+  {
+    "Country": "Madagascar",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Madagascar",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Malawi",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Malawi",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Malaysia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 14,
+    "OPC": 10,
+    "Unknown": 2
+  },
+  {
+    "Country": "Malaysia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 5,
+    "OPC": 1,
+    "Unknown": 0
+  },
+  {
+    "Country": "Mali",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Mali",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 6
+  },
+  {
+    "Country": "Martinique",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Martinique",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Mauritania",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Mauritania",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Mexico",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 56,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Mexico",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Moldova",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 1
+  },
+  {
+    "Country": "Moldova",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Mongolia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 5,
+    "Unknown": 0
+  },
+  {
+    "Country": "Mongolia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Montenegro",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Montenegro",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Morocco",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 20,
+    "OPC": 0,
+    "Unknown": 3
+  },
+  {
+    "Country": "Morocco",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Mozambique",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 4
+  },
+  {
+    "Country": "Mozambique",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Myanmar",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 14,
+    "Unknown": 1
+  },
+  {
+    "Country": "Myanmar",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 0
+  },
+  {
+    "Country": "Namibia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Namibia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Nepal",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 3,
+    "Unknown": 17
+  },
+  {
+    "Country": "Nepal",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 9
+  },
+  {
+    "Country": "Netherlands",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Netherlands",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 3,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "New Caledonia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "New Caledonia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "New Zealand",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 0
+  },
+  {
+    "Country": "New Zealand",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Nicaragua",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Nicaragua",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Niger",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Niger",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 68,
+    "OPC": 0,
+    "Unknown": 10
+  },
+  {
+    "Country": "Nigeria",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "North Korea",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 10
+  },
+  {
+    "Country": "North Korea",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "North Macedonia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "North Macedonia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Norway",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Norway",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Oman",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 2,
+    "Unknown": 3
+  },
+  {
+    "Country": "Oman",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 3
+  },
+  {
+    "Country": "Pakistan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 82,
+    "Unknown": 8
+  },
+  {
+    "Country": "Pakistan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Palestine",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Palestine",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Panama",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Panama",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Paraguay",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Paraguay",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Peru",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 17,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Peru",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Philippines",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 11,
+    "OPC": 25,
+    "Unknown": 4
+  },
+  {
+    "Country": "Philippines",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 8,
+    "OPC": 1,
+    "Unknown": 4
+  },
+  {
+    "Country": "Poland",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 8,
+    "OPC": 0,
+    "Unknown": 11
+  },
+  {
+    "Country": "Poland",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Portugal",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 12,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Portugal",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Qatar",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 11,
+    "Unknown": 0
+  },
+  {
+    "Country": "Qatar",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 3
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Romania",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 7,
+    "OPC": 0,
+    "Unknown": 8
+  },
+  {
+    "Country": "Romania",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Russia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 58,
+    "Unknown": 24
+  },
+  {
+    "Country": "Russia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 1
+  },
+  {
+    "Country": "Rwanda",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Rwanda",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Réunion",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Réunion",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 84,
+    "Unknown": 10
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 2,
+    "Unknown": 0
+  },
+  {
+    "Country": "Senegal",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 5,
+    "OPC": 0,
+    "Unknown": 8
+  },
+  {
+    "Country": "Senegal",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Serbia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Serbia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Sierra Leone",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Sierra Leone",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Slovakia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 3,
+    "OPC": 1,
+    "Unknown": 0
+  },
+  {
+    "Country": "Slovakia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Slovenia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Slovenia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Somalia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 0
+  },
+  {
+    "Country": "Somalia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "South Africa",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 5,
+    "OPC": 1,
+    "Unknown": 10
+  },
+  {
+    "Country": "South Africa",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 4
+  },
+  {
+    "Country": "South Korea",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 37,
+    "Unknown": 11
+  },
+  {
+    "Country": "South Korea",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 2,
+    "Blended": 13,
+    "OPC": 15,
+    "Unknown": 6
+  },
+  {
+    "Country": "South Sudan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "South Sudan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Spain",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 27,
+    "OPC": 3,
+    "Unknown": 9
+  },
+  {
+    "Country": "Spain",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 9,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Sri Lanka",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Sri Lanka",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 8,
+    "Unknown": 0
+  },
+  {
+    "Country": "Sudan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 8,
+    "Unknown": 1
+  },
+  {
+    "Country": "Sudan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Suriname",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Suriname",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Sweden",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 1,
+    "Unknown": 0
+  },
+  {
+    "Country": "Sweden",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Switzerland",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Switzerland",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Syria",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 3,
+    "Unknown": 3
+  },
+  {
+    "Country": "Syria",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Taiwan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 7,
+    "OPC": 5,
+    "Unknown": 0
+  },
+  {
+    "Country": "Taiwan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Tajikistan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 4,
+    "Unknown": 1
+  },
+  {
+    "Country": "Tajikistan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Tanzania",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 4,
+    "OPC": 0,
+    "Unknown": 8
+  },
+  {
+    "Country": "Tanzania",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Thailand",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 52,
+    "OPC": 7,
+    "Unknown": 0
+  },
+  {
+    "Country": "Thailand",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Timor-Leste",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Timor-Leste",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Togo",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Togo",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Tunisia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 3,
+    "Unknown": 12
+  },
+  {
+    "Country": "Tunisia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Turkmenistan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 1,
+    "Unknown": 5
+  },
+  {
+    "Country": "Turkmenistan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Türkiye",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 35,
+    "OPC": 24,
+    "Unknown": 83
+  },
+  {
+    "Country": "Türkiye",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 3,
+    "Blended": 3,
+    "OPC": 0,
+    "Unknown": 4
+  },
+  {
+    "Country": "Uganda",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Uganda",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 2
+  },
+  {
+    "Country": "Ukraine",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 1,
+    "Blended": 7,
+    "OPC": 0,
+    "Unknown": 6
+  },
+  {
+    "Country": "Ukraine",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 26,
+    "Unknown": 2
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 6,
+    "Unknown": 8
+  },
+  {
+    "Country": "United Kingdom",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 10
+  },
+  {
+    "Country": "United Kingdom",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 2,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "United States",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 84,
+    "OPC": 12,
+    "Unknown": 3
+  },
+  {
+    "Country": "United States",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 3,
+    "Blended": 4,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Uruguay",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Uruguay",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Uzbekistan",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 10,
+    "OPC": 7,
+    "Unknown": 13
+  },
+  {
+    "Country": "Uzbekistan",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Venezuela",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 13,
+    "Unknown": 0
+  },
+  {
+    "Country": "Venezuela",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Vietnam",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 110,
+    "OPC": 20,
+    "Unknown": 14
+  },
+  {
+    "Country": "Vietnam",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 22,
+    "OPC": 3,
+    "Unknown": 0
+  },
+  {
+    "Country": "Western Sahara",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Western Sahara",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 1,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Yemen",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 7,
+    "Unknown": 0
+  },
+  {
+    "Country": "Yemen",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Zambia",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 2,
+    "OPC": 1,
+    "Unknown": 4
+  },
+  {
+    "Country": "Zambia",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Zimbabwe",
+    "Plant type": "Integrated Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 1
+  },
+  {
+    "Country": "Zimbabwe",
+    "Plant type": "Grinding Capacity",
+    "Blast Furnace Cement": 0,
+    "Blended": 0,
+    "OPC": 0,
+    "Unknown": 3
+  }
+]

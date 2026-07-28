@@ -7,9 +7,14 @@ tracker: gcct
 output_dir: public/assets/data_2026
 global: Global
 
+# Default rounding for every chart's numeric output (whole numbers, no
+# decimals) — a chart or ticker summary can still set its own `round` to
+# override this for that one spot.
+decimal_places: 0
+
 client_secret: client_secret.json
 
-sheets_key: "1JYdPkz4GEPaH48mReGvvg_rRPuWkXGL5GF_fVfcBdgg"
+sheets_key: "1ZLGnQXPWmRyL5p_Hbgf3RoMBr9UVg0hc_El_KIuxQ_U"
 
 sheets_tab: "Final data"
 
@@ -77,7 +82,6 @@ charts:
         label: "Cement capacity<br>in operation"
         agg_col: "Cement capacity (million metric tonnes per annum)"     
         agg_func: sum
-        round: 1
         unit: mtpa
         color: "#3A4A50"
         filters:
@@ -87,7 +91,6 @@ charts:
         label: "Cement capacity<br>in development"
         agg_col: "Cement capacity (million metric tonnes per annum)"
         agg_func: sum
-        round: 1
         unit: mtpa
         color: "#016B83"
         filters:
@@ -97,7 +100,6 @@ charts:
         label: "Clinker capacity<br>in operation"
         agg_col: "Clinker capacity (million metric tonnes per annum)"
         agg_func: sum
-        round: 1
         unit: mtpa
         color: "#3A4A50"
         filters:
@@ -107,7 +109,6 @@ charts:
         label: "Clinker capacity<br>in development"
         agg_col: "Clinker capacity (million metric tonnes per annum)"
         agg_func: sum
-        round: 1
         unit: mtpa
         color: "#016B83"
         filters:

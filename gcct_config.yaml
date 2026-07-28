@@ -184,7 +184,7 @@ charts:
     pivot_value_map:
       opc: OPC
       blended: Blended
-      Blast furnace cement: Blast Furnace Cement
+      blast furnace cement: Blast Furnace Cement
       unknown: Unknown
     # No pivot_value_default — an unmapped value should surface as its own
     # column (visible, fixable) rather than being silently absorbed anywhere.

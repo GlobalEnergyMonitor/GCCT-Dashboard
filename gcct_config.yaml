@@ -140,7 +140,7 @@ charts:
     pivot_value_map:
       grey: Grey
       white: White
-      both: Grey and White
+      both: Both
       unknown: Unknown   
     # No pivot_value_default — an unmapped value should surface as its own
     # column (visible, fixable) rather than being silently absorbed anywhere.
@@ -152,7 +152,7 @@ charts:
     fill_pivot_values:
       - Grey
       - White
-      - Grey and White
+      - Both
       - Unknown
 
   # ── Chart 2: Operating and developing cement capacity by type ─────────────
